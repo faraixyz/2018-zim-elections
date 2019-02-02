@@ -1,3 +1,4 @@
+import csv
 import re
 from bs4 import BeautifulSoup
 
@@ -17,6 +18,11 @@ def remove_extra_tags(soup):
         footer.parent.decompose()
         marker.decompose()
 
+def to_csv(data, dest="polling_stations.csv"):
+    with open(dest, "w", newline="\n") as csvfile:
+        csvwriter = csv.writer(csvfile)
+        csvwriter.writerows(data)
+
 def main():
     with open("polling-stations.html", "r", encoding="utf-8") as html_doc:
         soup = BeautifulSoup(html_doc, 'html.parser')
@@ -29,6 +35,7 @@ def main():
         start = 0 if page_num == 0 else 11
         for i in range(start,len(page_list),11):
             data.append([elem.string for elem in page_list[i:i+11]])
+    to_csv(data)
 
 if __name__ == "__main__":
     main()

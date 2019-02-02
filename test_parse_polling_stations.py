@@ -1,6 +1,6 @@
 import unittest
 from bs4 import BeautifulSoup
-from parse_polling_stations import remove_extra_tags
+from parse_polling_stations import remove_extra_tags, parse_row
 
 class TestParsePollingStations(unittest.TestCase):
 
@@ -18,6 +18,14 @@ class TestParsePollingStations(unittest.TestCase):
         self.assertNotIn("<div>1 of 178</div>", remaining_soup)
         self.assertNotIn('<div class="endOfContent"></div>', remaining_soup)
         self.assertIn('<a href="hi.com">hi</a>', remaining_soup)
+
+    def test_parse_row(self):
+        row_items = ["1", "2", "3", "4", "5"]
+        html = "".join([f'<div class="textLayer">{h}</div>' for h in row_items])
+        soup = BeautifulSoup(html, "html.parser")
+        pages = soup.find_all("div", {"class": "textLayer"})
+        headers = parse_row(pages)
+        self.assertListEqual(headers, row_items)
 
 if __name__ == "__main__":
     unittest.main()

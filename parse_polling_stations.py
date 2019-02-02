@@ -1,10 +1,6 @@
 import re
 from bs4 import BeautifulSoup
 
-with open("polling-stations.html", "r", encoding="utf-8") as html_doc:
-    soup = BeautifulSoup(html_doc, 'html.parser')
-
-
 def remove_extra_tags(soup):
     """
     Removes the headers, footer and endOfContent marker in each page
@@ -20,3 +16,13 @@ def remove_extra_tags(soup):
         header.parent.decompose()
         footer.parent.decompose()
         marker.decompose()
+
+def parse_row(data_row):
+    row = []
+    for elem in data_row:
+        row.append(elem.get_text())
+    return row
+
+def main():
+    with open("polling-stations.html", "r", encoding="utf-8") as html_doc:
+        soup = BeautifulSoup(html_doc, 'html.parser')

@@ -17,12 +17,18 @@ def remove_extra_tags(soup):
         footer.parent.decompose()
         marker.decompose()
 
-def parse_row(data_row):
-    row = []
-    for elem in data_row:
-        row.append(elem.get_text())
-    return row
-
 def main():
     with open("polling-stations.html", "r", encoding="utf-8") as html_doc:
         soup = BeautifulSoup(html_doc, 'html.parser')
+    remove_extra_tags(soup)
+    pages = soup.find_all("div", {"class": "textLayer"})
+
+    data = []
+    for page_num, page in enumerate(pages):
+        page_list = list(page)
+        start = 0 if page_num == 0 else 11
+        for i in range(start,len(page_list),11):
+            data.append([elem.string for elem in page_list[i:i+11]])
+
+if __name__ == "__main__":
+    main()

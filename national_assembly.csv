@@ -1,6 +1,6 @@
 Province,Constituency,Name,Gender,Party,Votes
 Bulawayo,Bulawayo Central,House Gift,M,ZPM,250
-Bulawayo,Bulawayo Central,Manganda Farai Kizito,M,INDEPENDENT,365
+Bulawayo,Bulawayo Central,Manganda Farai Kizito,M,IND,365
 Bulawayo,Bulawayo Central,Manning Edward,M,UMD,86
 Bulawayo,Bulawayo Central,Manungo Tawonga,M,NPF,169
 Bulawayo,Bulawayo Central,Maphosa Tembani,M,ZAPU,429
@@ -8,13 +8,13 @@ Bulawayo,Bulawayo Central,Mawaro Naki,F,ZIPP,51
 Bulawayo,Bulawayo Central,Mhambi Joshua,M,ZDU,59
 Bulawayo,Bulawayo Central,Mhlanga Frank,M,PRC,271
 Bulawayo,Bulawayo Central,Moyo Mlungisi,M,ZANU-PF,4176
-Bulawayo,Bulawayo Central,Moyo Nhlanhla,M,INDEPENDENT,129
-Bulawayo,Bulawayo Central,Msimanga Nomathamsanqa Felizwe,F,FREE ZIM CONGRESS,65
+Bulawayo,Bulawayo Central,Moyo Nhlanhla,M,IND,129
+Bulawayo,Bulawayo Central,Msimanga Nomathamsanqa Felizwe,F,FZC,65
 Bulawayo,Bulawayo Central,Ndebele Sehliselo,F,MRP,215
 Bulawayo,Bulawayo Central,Ngwenya Kholwani,M,MDC-T,1648
-Bulawayo,Bulawayo Central,Sibanda Geneva,M,INDEPENDENT,45
-Bulawayo,Bulawayo Central,Sithole Taurai,M,PPPZ,150
-Bulawayo,Bulawayo Central,Watson Nicola Jane,F,MDC -ALLIANCE,11178
+Bulawayo,Bulawayo Central,Sibanda Geneva,M,IND,45
+Bulawayo,Bulawayo Central,Sithole Taurai,M,PPP,150
+Bulawayo,Bulawayo Central,Watson Nicola Jane,F,MDC-A,11178
 Bulawayo,Bulawayo Central,Zvihwa Ellen,F,CODE,50
 Bulawayo,Bulawayo East,Chabgwera Memory,F,UDA,219
 Bulawayo,Bulawayo East,Dagwaira Keresia,F,ZIPP,215
@@ -25,30 +25,30 @@ Bulawayo,Bulawayo East,Mguni Nomvula,F,MDC-T,2200
 Bulawayo,Bulawayo East,Moyo Mongiwa Khabelo,M,PRC,141
 Bulawayo,Bulawayo East,Moyo Sikhanyiso Welcome,M,ZDU,49
 Bulawayo,Bulawayo East,Muhlwa Rodger,M,ZAPU,602
-Bulawayo,Bulawayo East,Murena Elijar,M,FREE ZIM CONGRESS,280
+Bulawayo,Bulawayo East,Murena Elijar,M,FZC,280
 Bulawayo,Bulawayo East,Ncube Benedict,M,BZA,78
 Bulawayo,Bulawayo East,Ncube Cuthbert,M,ZRDP,263
-Bulawayo,Bulawayo East,Nyoni Ilos,M,MDC-ALLIANCE,9707
-Bulawayo,Bulawayo East,Shora Ernest Makandigona,M,ZANU PF,3941
+Bulawayo,Bulawayo East,Nyoni Ilos,M,MDC-A,9707
+Bulawayo,Bulawayo East,Shora Ernest Makandigona,M,ZANU-PF,3941
 Bulawayo,Bulawayo East,Zangare Dumisani,M,UMD,127
 Bulawayo,Bulawayo South,Ante Sheila,F,NPF,73
 Bulawayo,Bulawayo South,Chamboko Tichaona,M,ZIPP,80
 Bulawayo,Bulawayo South,Jones Clayton Carmichael,M,PRC,227
-Bulawayo,Bulawayo South,Mangwendeza Muvirimi Francis,M,MDC-ALLIANCE,4155
-Bulawayo,Bulawayo South,Matengu Rueben,M,INDEPENDENT,102
+Bulawayo,Bulawayo South,Mangwendeza Muvirimi Francis,M,MDC-A,4155
+Bulawayo,Bulawayo South,Matengu Rueben,M,IND,102
 Bulawayo,Bulawayo South,Modi Rajeshkumar. Indukant,M,ZANU-PF,5752
-Bulawayo,Bulawayo South,Mpofu  Teki,M,ZDU,135
-Bulawayo,Bulawayo South,Muchemwa Kunashe,M,MDC-ALLIANCE,2249
-Bulawayo,Bulawayo South,Munyaka Goodwin,M,PPPZ,12
-Bulawayo,Bulawayo South,Musvaburi Vimbaishe,F,INDEPENDENT,132
-Bulawayo,Bulawayo South,Ndhlebe Patricia,F,FREE ZIM CONGRESS,5
-Bulawayo,Bulawayo South,Ngulube Josphat,M,INDEPENDENT,701
-Bulawayo,Bulawayo South,Ngwenya Thamsanqa,M,INDEPENDENT,29
+Bulawayo,Bulawayo South,Mpofu Teki,M,ZDU,135
+Bulawayo,Bulawayo South,Muchemwa Kunashe,M,MDC-A,2249
+Bulawayo,Bulawayo South,Munyaka Goodwin,M,PPP,12
+Bulawayo,Bulawayo South,Musvaburi Vimbaishe,F,IND,132
+Bulawayo,Bulawayo South,Ndhlebe Patricia,F,FZC,5
+Bulawayo,Bulawayo South,Ngulube Josphat,M,IND,701
+Bulawayo,Bulawayo South,Ngwenya Thamsanqa,M,IND,29
 Bulawayo,Bulawayo South,Phiri Joseph,M,MRP,90
 Bulawayo,Bulawayo South,Sibanda Gibson,M,ZAPU,207
 Bulawayo,Bulawayo South,Zulu William,M,MDC-T,410
 Bulawayo,Emakhandeni/Entumbane,Dube Butholezwe,M,NPF,301
-Bulawayo,Emakhandeni/Entumbane,Jaravani  Gladwin,M,ZIPP,347
+Bulawayo,Emakhandeni/Entumbane,Jaravani Gladwin,M,ZIPP,347
 Bulawayo,Emakhandeni/Entumbane,Makhalima Bioz,M,MRP,289
 Bulawayo,Emakhandeni/Entumbane,Maphosa Mthandazo,M,PRC,205
 Bulawayo,Emakhandeni/Entumbane,Moyo Makeyi Gasper,M,ZDU,111
@@ -56,10 +56,10 @@ Bulawayo,Emakhandeni/Entumbane,Moyo Sambulo,M,UDA,81
 Bulawayo,Emakhandeni/Entumbane,Moyo Sidumiso,F,MDC-T,1451
 Bulawayo,Emakhandeni/Entumbane,Msebele Feauture,M,ZAPU,708
 Bulawayo,Emakhandeni/Entumbane,Muzungu Shadreck,M,BZA,226
-Bulawayo,Emakhandeni/Entumbane,Ncube Thokoza,M,ZIM FIRST,172
-Bulawayo,Emakhandeni/Entumbane,Tshuma Dingilizwe,M,MDC-ALLIANCE,8398
+Bulawayo,Emakhandeni/Entumbane,Ncube Thokoza,M,ZimFirst,172
+Bulawayo,Emakhandeni/Entumbane,Tshuma Dingilizwe,M,MDC-A,8398
 Bulawayo,Emakhandeni/Entumbane,Zhou Tafuma,M,ZANU-PF,3079
-Bulawayo,Lobengula,Banda Gift,M,MDC-ALLIANCE,7619
+Bulawayo,Lobengula,Banda Gift,M,MDC-A,7619
 Bulawayo,Lobengula,Dube Decent,M,NCA,84
 Bulawayo,Lobengula,Gwahara Beauty,F,UDA,70
 Bulawayo,Lobengula,Masuku Donovan Clavin,M,ZRDP,145
@@ -67,7 +67,7 @@ Bulawayo,Lobengula,Mbewe Naison,M,UCA,41
 Bulawayo,Lobengula,Moyo Abraham,M,DOP,147
 Bulawayo,Lobengula,Mpala Maideyi,F,ZANU-PF,3804
 Bulawayo,Lobengula,Ncube Alfred,M,MDC-T,1009
-Bulawayo,Lobengula,Ncube Shaniso Reinard,M,INDEPENDENT,268
+Bulawayo,Lobengula,Ncube Shaniso Reinard,M,IND,268
 Bulawayo,Lobengula,Ngirazi Sikholiwe,F,ZDU,71
 Bulawayo,Lobengula,Ngulube Presia,F,MRP,230
 Bulawayo,Lobengula,Ngwenya Reason,M,BZA,116
@@ -80,37 +80,37 @@ Bulawayo,Luveve,Banana Nathan Sipho,M,FJCZ,486
 Bulawayo,Luveve,Chiband-Zonde Garikai Paradzai,M,ZANU-PF,6669
 Bulawayo,Luveve,Chikowore Hector Tichaona,M,APA,168
 Bulawayo,Luveve,Dhlamini John Zolani Mjoli,M,ZAPU,889
-Bulawayo,Luveve,Donga Lieto,M,INDEPENDENT,131
-Bulawayo,Luveve,Dube Joshua,M,INDEPENDENT,122
+Bulawayo,Luveve,Donga Lieto,M,IND,131
+Bulawayo,Luveve,Dube Joshua,M,IND,122
 Bulawayo,Luveve,Gumbo Patricia,F,NCA,200
 Bulawayo,Luveve,Hove Nkosinathi,M,PRC,707
-Bulawayo,Luveve,Magonya  Clark,M,UDA,225
-Bulawayo,Luveve,Mangamiso  Bowasi,M,ZIPP,369
+Bulawayo,Luveve,Magonya Clark,M,UDA,225
+Bulawayo,Luveve,Mangamiso Bowasi,M,ZIPP,369
 Bulawayo,Luveve,Mcijo Percival,M,UMD,110
-Bulawayo,Luveve,Mlilo Sibongumusa,F,INDEPENDENT,216
-Bulawayo,Luveve,Moyo Bekezela,M,ZIM FIRST,119
+Bulawayo,Luveve,Mlilo Sibongumusa,F,IND,216
+Bulawayo,Luveve,Moyo Bekezela,M,ZimFirst,119
 Bulawayo,Luveve,Moyo Tamani,F,MDC-T,3080
-Bulawayo,Luveve,Moyo Thabani,M,INDEPENDENT,454
+Bulawayo,Luveve,Moyo Thabani,M,IND,454
 Bulawayo,Luveve,Ndlovu Clearance,M,MRP,658
 Bulawayo,Luveve,Ndlovu Handsome,M,NPF,191
-Bulawayo,Luveve,Ndlovu Stella,F,MDC -ALLIANCE,13193
-Bulawayo,Magwegwe,Banda Eric,M,FREE ZIM CONGRESS,72
-Bulawayo,Magwegwe,Dube Ishmael,M,INDEPENDENT,318
-Bulawayo,Magwegwe,Dube Nkosilathi,M,INDEPENDENT,203
+Bulawayo,Luveve,Ndlovu Stella,F,MDC-A,13193
+Bulawayo,Magwegwe,Banda Eric,M,FZC,72
+Bulawayo,Magwegwe,Dube Ishmael,M,IND,318
+Bulawayo,Magwegwe,Dube Nkosilathi,M,IND,203
 Bulawayo,Magwegwe,Dube Witness,M,MDC-T,1491
-Bulawayo,Magwegwe,Gwazemba  Nyasha William,M,INDEPENDENT,69
+Bulawayo,Magwegwe,Gwazemba Nyasha William,M,IND,69
 Bulawayo,Magwegwe,Jele Robert,M,MRP,145
 Bulawayo,Magwegwe,Masuku David Ngoyi,M,APA,128
-Bulawayo,Magwegwe,Mkandla Nkosana,M,INDEPENDENT,90
-Bulawayo,Magwegwe,Matarirano Jones Norris,M,INDEPENDENT,17
+Bulawayo,Magwegwe,Mkandla Nkosana,M,IND,90
+Bulawayo,Magwegwe,Matarirano Jones Norris,M,IND,17
 Bulawayo,Magwegwe,Mhlanga Jonathan,M,UDA,66
 Bulawayo,Magwegwe,Mlalazi Fortune Nkosilathi,M,PRC,400
 Bulawayo,Magwegwe,Moyo Silobani,M,RPZ,15
 Bulawayo,Magwegwe,Moyo Sukoluhle,F,ZIPP,62
 Bulawayo,Magwegwe,Mukasa Debrah,F,BZA,13
-Bulawayo,Magwegwe,Ndebele Anele,M,MDC-ALLIANCE,5650
+Bulawayo,Magwegwe,Ndebele Anele,M,MDC-A,5650
 Bulawayo,Magwegwe,Ndlovu Albert Philip,M,ZAPU,455
-Bulawayo,Magwegwe,Ndlovu Nigel,M,INDEPENDENT,139
+Bulawayo,Magwegwe,Ndlovu Nigel,M,IND,139
 Bulawayo,Magwegwe,Ngwaladi Victor Mpofu,M,NPF,128
 Bulawayo,Magwegwe,Nkiwane Stephen,M,ZRDP,52
 Bulawayo,Magwegwe,Nyoni Lameck,M,DOP,77
@@ -126,19 +126,19 @@ Bulawayo,Makokomba,Khupe Sibusisiwe,F,MDC-T,1335
 Bulawayo,Makokomba,Lawrence Sandra,F,CODE,84
 Bulawayo,Makokomba,Mashiche Moses Taurayi,M,RPZ,46
 Bulawayo,Makokomba,Masuku Nkosinomusa,M,NPF,174
-Bulawayo,Makokomba,Mathobela Rooyen,M,INDEPENDENT,43
+Bulawayo,Makokomba,Mathobela Rooyen,M,IND,43
 Bulawayo,Makokomba,Mguni Ntombizodwa,F,MRP,149
 Bulawayo,Makokomba,Nyandoro Tendai Sheldan,M,UMD,97
-Bulawayo,Makokomba,Nyoni Danger,M,INDEPENDENT,192
+Bulawayo,Makokomba,Nyoni Danger,M,IND,192
 Bulawayo,Makokomba,Sibanda Picolius Tavaziva,M,UDA,21
 Bulawayo,Makokomba,Sibanda Thembelihle,F,ZDU,160
-Bulawayo,Makokomba,Sithole James,M,MDC-ALLIANCE,7365
+Bulawayo,Makokomba,Sithole James,M,MDC-A,7365
 Bulawayo,Makokomba,Sithole Thecla,F,UCA,15
 Bulawayo,Nketa,Bulayani Esnat,F,PRC,661
 Bulawayo,Nketa,Jele Bekithemba,M,APA,333
-Bulawayo,Nketa,Mapfumo Hilary,M,FREE ZIM CONGRESS,89
+Bulawayo,Nketa,Mapfumo Hilary,M,FZC,89
 Bulawayo,Nketa,Mashaba Elifasi,M,ZANU-PF,7053
-Bulawayo,Nketa,Masuku Phelela,M,MDC-ALLIANCE,12799
+Bulawayo,Nketa,Masuku Phelela,M,MDC-A,12799
 Bulawayo,Nketa,Mharapara Cecilia,F,UDA,84
 Bulawayo,Nketa,Moyo David Junior Isheanesu,M,ZIPP,192
 Bulawayo,Nketa,Mpinga Brian,M,ERA,133
@@ -150,13 +150,13 @@ Bulawayo,Nketa,Yakobe Lazarus,M,RPZ,82
 Bulawayo,Nketa,Zikhali Nokulunga,F,ZDU,104
 Bulawayo,Nkulumane,Makubalo Senzeni,F,ZIPP,117
 Bulawayo,Nkulumane,Moyo David,M,PRC,1295
-Bulawayo,Nkulumane,Moyo Qinisani,M,INDEPENDENT,1701
+Bulawayo,Nkulumane,Moyo Qinisani,M,IND,1701
 Bulawayo,Nkulumane,Ndlovu Colson,M,ZAPU,455
 Bulawayo,Nkulumane,Ndlovu David,M,ZANU-PF,4261
 Bulawayo,Nkulumane,Ndlovu Dorothy Molly,F,MDC-T,1295
-Bulawayo,Nkulumane,Ndlovu Mbonisi,M,PPPZ,160
-Bulawayo,Nkulumane,Nobela Joe,M,FREE ZIM CONGRESS,198
-Bulawayo,Nkulumane,Phulu Kucaca Ivumile,M,MDC-ALLIANCE,7409
+Bulawayo,Nkulumane,Ndlovu Mbonisi,M,PPP,160
+Bulawayo,Nkulumane,Nobela Joe,M,FZC,198
+Bulawayo,Nkulumane,Phulu Kucaca Ivumile,M,MDC-A,7409
 Bulawayo,Nkulumane,Sibanda Killian,M,NPF,811
 Bulawayo,Nkulumane,Sibanda Miniyothando,M,RPZ,61
 Bulawayo,Nkulumane,Sibanda Mkhaliphi Tanaka,M,ERA,44
@@ -164,16 +164,16 @@ Bulawayo,Nkulumane,Sibanda Sibhekubuhle,M,NCA,20
 Bulawayo,Nkulumane,Whatt Morege,F,ZDU,71
 Bulawayo,Nkulumane,Xaba Partone,M,MRP,333
 Bulawayo,Pelandaba/Mpopoma,Bota Simon,M,ZIPP,127
-Bulawayo,Pelandaba/Mpopoma,Cheteni Jimius,M,FREE ZIM CONGRESS,178
+Bulawayo,Pelandaba/Mpopoma,Cheteni Jimius,M,FZC,178
 Bulawayo,Pelandaba/Mpopoma,Dube Bongani Godfrey,M,ZDU,68
 Bulawayo,Pelandaba/Mpopoma,Dube Giyani,M,UMD,80
-Bulawayo,Pelandaba/Mpopoma,Dube Mbalekelwa Augustine Tanayi,M,INDEPENDENT,55
+Bulawayo,Pelandaba/Mpopoma,Dube Mbalekelwa Augustine Tanayi,M,IND,55
 Bulawayo,Pelandaba/Mpopoma,Makulumo Cuthbert,M,NPF,88
 Bulawayo,Pelandaba/Mpopoma,Mbewe Kamuzu,M,UDA,33
 Bulawayo,Pelandaba/Mpopoma,Mhlanga Mxolisi,M,MRP,210
 Bulawayo,Pelandaba/Mpopoma,Mkandla Strike,M,ZAPU,410
-Bulawayo,Pelandaba/Mpopoma,Mpofu Elmon,M,INDEPENDENT,62
-Bulawayo,Pelandaba/Mpopoma,Moyo Charles,M,MDC -ALLIANCE,7059
+Bulawayo,Pelandaba/Mpopoma,Mpofu Elmon,M,IND,62
+Bulawayo,Pelandaba/Mpopoma,Moyo Charles,M,MDC-A,7059
 Bulawayo,Pelandaba/Mpopoma,Moyo Nhlanhla,M,APA,88
 Bulawayo,Pelandaba/Mpopoma,Nyathi Bekithemba,M,PRC,246
 Bulawayo,Pelandaba/Mpopoma,Sibanda Jellot Benard,M,RPZ,49
@@ -183,151 +183,151 @@ Bulawayo,Pelandaba/Mpopoma,Tshuma Joseph,M,ZANU-PF,4079
 Bulawayo,Pumula,Bhebhe Hosea George,M,ZDU,142
 Bulawayo,Pumula,Hlongwane Sifiso George,M,PRC,248
 Bulawayo,Pumula,Hove Marano,M,NCA,64
-Bulawayo,Pumula,Jaison Esnath,F,FREE ZIM CONGRESS,65
-Bulawayo,Pumula,Mahlangu  Sichelesile,F,MDC-ALLIANCE,9241
+Bulawayo,Pumula,Jaison Esnath,F,FZC,65
+Bulawayo,Pumula,Mahlangu Sichelesile,F,MDC-A,9241
 Bulawayo,Pumula,Moyo Ndumiso,M,UDA,111
-Bulawayo,Pumula,Mphamba Letlogonolo Nhlanhla,M,INDEPENDENT,91
+Bulawayo,Pumula,Mphamba Letlogonolo Nhlanhla,M,IND,91
 Bulawayo,Pumula,Mpofu Kumbulani,M,ZANU-PF,4650
-Bulawayo,Pumula,Ncube  Godfrey Malaba,M,NPF,715
-Bulawayo,Pumula,Ncube Losiya,F,INDEPENDENT,243
+Bulawayo,Pumula,Ncube Godfrey Malaba,M,NPF,715
+Bulawayo,Pumula,Ncube Losiya,F,IND,243
 Bulawayo,Pumula,Ncube Peter,M,ZIPP,92
 Bulawayo,Pumula,Ncube Richard,M,ZAPU,911
 Bulawayo,Pumula,Ncube Xolani,M,MRP,332
-Bulawayo,Pumula,Nkala Nkululeko,M,INDEPENDENT,838
+Bulawayo,Pumula,Nkala Nkululeko,M,IND,838
 Bulawayo,Pumula,Nyathi Paul,M,ZRDP,260
 Bulawayo,Pumula,Nyoni Stanford,M,RPZ,122
 Harare,Budiriro,Chirombe Oddrey Sydney,M,MDC -T,4409
-Harare,Budiriro,Chitate Nelson Tendai,M,Independent,611
+Harare,Budiriro,Chitate Nelson Tendai,M,IND,611
 Harare,Budiriro,Gatsi Clayton,M,PRC,212
-Harare,Budiriro,Gomwe Godwin Simbarashe,M,ZANUPF,8529
+Harare,Budiriro,Gomwe Godwin Simbarashe,M,ZANU-PF,8529
 Harare,Budiriro,Lupemba Derek,M,CODE,69
-Harare,Budiriro,Machingauta Costa,M,MDC -Alliance,28575
-Harare,Budiriro,Mavunga Kudakwashe Evans,M,Independent,78
+Harare,Budiriro,Machingauta Costa,M,MDC-A,28575
+Harare,Budiriro,Mavunga Kudakwashe Evans,M,IND,78
 Harare,Budiriro,Muchakasi Mary,F,NPF,60
 Harare,Budiriro,Mudoka Edmore,M,ZIPP,67
-Harare,Budiriro,Murwira Taona,M,Independent,61
+Harare,Budiriro,Murwira Taona,M,IND,61
 Harare,Budiriro,Musindo Evelyn Subuzikeni,F,NCA,68
-Harare,Budiriro,Shoniwa Ruth,F,FREEDOM FRONT,44
-Harare,Budiriro,Tavengwa Silas,M,MAAT ZIM,28
-Harare,Chitungwiza North,Chikasha Tendayi,M,ZANUPF,6262
+Harare,Budiriro,Shoniwa Ruth,F,FF,44
+Harare,Budiriro,Tavengwa Silas,M,MAAT,28
+Harare,Chitungwiza North,Chikasha Tendayi,M,ZANU-PF,6262
 Harare,Chitungwiza North,Dehwa Hapiness,F,UDA,166
 Harare,Chitungwiza North,Dzinoreva George Chakaipa,M,ZIPP,102
-Harare,Chitungwiza North,Kaseke Rufaro,M,Independent,115
-Harare,Chitungwiza North,Maruta Wellington,M,Independent,136
-Harare,Chitungwiza North,Mtembo Assan,M,Independent,3312
-Harare,Chitungwiza North,Mugadza Isaac,M,Independent,419
-Harare,Chitungwiza North,Nyashero Michael,M,Build Zim Alliance,37
+Harare,Chitungwiza North,Kaseke Rufaro,M,IND,115
+Harare,Chitungwiza North,Maruta Wellington,M,IND,136
+Harare,Chitungwiza North,Mtembo Assan,M,IND,3312
+Harare,Chitungwiza North,Mugadza Isaac,M,IND,419
+Harare,Chitungwiza North,Nyashero Michael,M,BZA,37
 Harare,Chitungwiza North,Nyaungwa Desmond Pedzisayi,M,MDC –T,1499
 Harare,Chitungwiza North,Samuriwo Esabel,F,ZDU,70
-Harare,Chitungwiza North,Sithole Godfrey Karakadzayi,M,MDC - Alliance,10756
+Harare,Chitungwiza North,Sithole Godfrey Karakadzayi,M,MDC-A,10756
 Harare,Chitungwiza North,Zharare Martins,M,PRC,49
 Harare,Chitungwiza South,Jasoni Shadreck,M,ZIPP,289
 Harare,Chitungwiza South,Kaliati Amos,M,MDC –T,3340
-Harare,Chitungwiza South,Mafuratidze Goodwell,M,Zanu PF,8434
-Harare,Chitungwiza South,Mahamba Chipo Bessie,F,Build Zim Alliance,419
+Harare,Chitungwiza South,Mafuratidze Goodwell,M,ZANU-PF,8434
+Harare,Chitungwiza South,Mahamba Chipo Bessie,F,BZA,419
 Harare,Chitungwiza South,Makaranga Tichaona,M,PPP,109
-Harare,Chitungwiza South,Mashinya Mabie,F,Independent,151
-Harare,Chitungwiza South,Mavhunga Maxwell,M,MDC Alliance,15823
+Harare,Chitungwiza South,Mashinya Mabie,F,IND,151
+Harare,Chitungwiza South,Mavhunga Maxwell,M,MDC-A,15823
 Harare,Chitungwiza South,Nyamusambira Brian Ngonidzashe,M,NPF,76
 Harare,Chitungwiza South,Svodziwa Jesca,F,UDA,27
 Harare,Chitungwiza South,Tamuka Lawrence Jonathan,M,PRC,58
 Harare,Chitungwiza South,Wallace Shailet,F,UANC,49
-Harare,Dzivarasekwa,Chihota Collen,M,Build Zim Alliance,218
-Harare,Dzivarasekwa,Chimhini George Patrick,M,Zanu PF,9422
+Harare,Dzivarasekwa,Chihota Collen,M,BZA,218
+Harare,Dzivarasekwa,Chimhini George Patrick,M,ZANU-PF,9422
 Harare,Dzivarasekwa,Chinouda Memory,F,NCA,110
 Harare,Dzivarasekwa,Gondongwe Tinashe,F,PRC,178
 Harare,Dzivarasekwa,Muchenje Irene,F,ZAPU,103
 Harare,Dzivarasekwa,Mufambisi Oliver,M,MDC-T,1984
-Harare,Dzivarasekwa,Mushoriwa Edwin,M,MDC -Alliance,15134
+Harare,Dzivarasekwa,Mushoriwa Edwin,M,MDC-A,15134
 Harare,Dzivarasekwa,Muzanenhamoruth,F,UANC,32
-Harare,Dzivarasekwa,Nkala Simbarashe,M,Independent,155
-Harare,Dzivarasekwa,Nyaruwata Luke,M,Independent,166
+Harare,Dzivarasekwa,Nkala Simbarashe,M,IND,155
+Harare,Dzivarasekwa,Nyaruwata Luke,M,IND,166
 Harare,Dzivarasekwa,Vhanga Nicodimus,M,NPF,58
 Harare,Epworth,Charakupa Kudzai Shekelton,M,PRC,419
-Harare,Epworth,Damson Kudakwashe,M,ZANUPF,16149
-Harare,Epworth,Gosha Felix,M,Independent,462
+Harare,Epworth,Damson Kudakwashe,M,ZANU-PF,16149
+Harare,Epworth,Gosha Felix,M,IND,462
 Harare,Epworth,Kahanda Calista,F,CODE,249
 Harare,Epworth,Kamukosi Christopher,M,ZDU,151
 Harare,Epworth,Kasvosve Memory,F,NCA,180
-Harare,Epworth,Kureva Earthrage,M,MDC -Alliance,26082
-Harare,Epworth,Makari Zalerah Hazvineyi,F,Independent,10745
-Harare,Epworth,Mukaadiralambert,M,FREEZIM CONGRESS,115
+Harare,Epworth,Kureva Earthrage,M,MDC-A,26082
+Harare,Epworth,Makari Zalerah Hazvineyi,F,IND,10745
+Harare,Epworth,Mukaadiralambert,M,FZC,115
 Harare,Epworth,Mukanhairi Damian,M,MDC-T,2673
 Harare,Epworth,Muroyiwa Tichaona,M,ZIPP,111
-Harare,Glen Norah,Chikombo Wellington,M,MDC -Alliance,14998
+Harare,Glen Norah,Chikombo Wellington,M,MDC-A,14998
 Harare,Glen Norah,Jaya Phillipa,F,UDA,183
 Harare,Glen Norah,Jiri Liberty Tapiwa,M,CODE,49
-Harare,Glen Norah,Juta Francis,M,Build Zim Alliance,67
-Harare,Glen Norah,Konde Simon,M,Independent,371
+Harare,Glen Norah,Juta Francis,M,BZA,67
+Harare,Glen Norah,Konde Simon,M,IND,371
 Harare,Glen Norah,Kwinjo Godwin Zvikomborero,M,ZIPP,151
 Harare,Glen Norah,Mangwiro Dumisani,M,NCA,33
 Harare,Glen Norah,Manomano Simbarashe,M,MDC –T,644
 Harare,Glen Norah,Muchenyura Tinashe,M,PRC,120
-Harare,Glen Norah,Mudzengerere Alexio,M,Zanu PF,4025
+Harare,Glen Norah,Mudzengerere Alexio,M,ZANU-PF,4025
 Harare,Glen Norah,Story Finess,F,UANC,55
 Harare,Glen View North,Chafa Silvia,F,CODE,100
 Harare,Glen View North,Chaparika George,M,PRC,192
 Harare,Glen View North,Chasakara Thomas,M,UDM,80
 Harare,Glen View North,Chikamvekareuben,M,MDC –T,1526
 Harare,Glen View North,Chiwamba Sitamire Fortunate,F,NCA,28
-Harare,Glen View North,Dinar Kennedy,M,MDC -Alliance,10523
+Harare,Glen View North,Dinar Kennedy,M,MDC-A,10523
 Harare,Glen View North,Kamtsamba Kevin Partson,M,ZDU,66
 Harare,Glen View North,Machingura Lovemore,M,ZIPP,76
-Harare,Glen View North,Mambo Martin,M,Zanu PF,2957
-Harare,Glen View North,Shana Fungai,M,Independent,59
-Harare,Glen View South,Chipango Dumisani,M,Zanu PF,3248
-Harare,Glen View South,Felizardo Penlodge,M,Build Zim Alliance,112
-Harare,Glen View South,Hakata Grandmore,M,Independent,3315
+Harare,Glen View North,Mambo Martin,M,ZANU-PF,2957
+Harare,Glen View North,Shana Fungai,M,IND,59
+Harare,Glen View South,Chipango Dumisani,M,ZANU-PF,3248
+Harare,Glen View South,Felizardo Penlodge,M,BZA,112
+Harare,Glen View South,Hakata Grandmore,M,IND,3315
 Harare,Glen View South,Howera Hilarion,M,NCA,34
 Harare,Glen View South,Huta Norleen,F,CODE,74
 Harare,Glen View South,Kahari Joseph,M,MDC –T,452
-Harare,Glen View South,Kasema Maxwell,M,Independent,130
+Harare,Glen View South,Kasema Maxwell,M,IND,130
 Harare,Glen View South,Million Edwin,M,PRC,39
 Harare,Glen View South,Rateiwa Crispen,M,ZIPP,100
-Harare,Glen View South,Tsvangirayi Java Vimbayi,F,MDC -Alliance,9942
+Harare,Glen View South,Tsvangirayi Java Vimbayi,F,MDC-A,9942
 Harare,Harare Central,Bvirakare Francis,M,PRC,105
-Harare,Harare Central,Chinyati Christopher,M,Build Zim Alliance,191
-Harare,Harare Central,Mangwende Misheck,M,Zanu PF,5632
-Harare,Harare Central,Masarira Linda Tsungirirai,F,MDC -,2251
-Harare,Harare Central,Matsaira Brian,M,Independent,286
+Harare,Harare Central,Chinyati Christopher,M,BZA,191
+Harare,Harare Central,Mangwende Misheck,M,ZANU-PF,5632
+Harare,Harare Central,Masarira Linda Tsungirirai,F,MDC-T,2251
+Harare,Harare Central,Matsaira Brian,M,IND,286
 Harare,Harare Central,Toure Edith,F,NCA,173
-Harare,Harare Central,Zwizwai Murisi,M,MDC -Alliance,10876
-Harare,Harare East,Biti Laxton Tendai,M,MDC -Alliance,20592
+Harare,Harare Central,Zwizwai Murisi,M,MDC-A,10876
+Harare,Harare East,Biti Laxton Tendai,M,MDC-A,20592
 Harare,Harare East,Gutu Obert Chaurura,M,MDC –T,1269
 Harare,Harare East,Mabviko Damiano,M,NCA,60
-Harare,Harare East,Mlambo Garikai,M,Independent,798
-Harare,Harare East,Mudavanhu Peter,M,Independent,239
+Harare,Harare East,Mlambo Garikai,M,IND,798
+Harare,Harare East,Mudavanhu Peter,M,IND,239
 Harare,Harare East,Mudzumwe Jobert,M,NPF,41
-Harare,Harare East,Mukupe Terence,M,Zanu PF,8593
-Harare,Harare East,Sibanyoni Linda Kushinga,F,Independent,485
+Harare,Harare East,Mukupe Terence,M,ZANU-PF,8593
+Harare,Harare East,Sibanyoni Linda Kushinga,F,IND,485
 Harare,Harare East,Zvenyika Munyoro Itai,M,PRC,381
 Harare,Harare North,Chipangura Shadreck Dzakoromoka,M,CODE,208
 Harare,Harare North,Kangadzi Tito,M,NCA,202
-Harare,Harare North,Kurisa Tarwireyi Arrigyienerrow,M,Build Zim Alliance,166
+Harare,Harare North,Kurisa Tarwireyi Arrigyienerrow,M,BZA,166
 Harare,Harare North,Makiseni Gift,M,PRC,146
-Harare,Harare North,Markham Allan Norman,M,MDC -Alliance,16820
+Harare,Harare North,Markham Allan Norman,M,MDC-A,16820
 Harare,Harare North,Mazarura Philemon,M,MDC-T,631
-Harare,Harare North,Mudambo Tongesayi,M,Zanu PF,12105
+Harare,Harare North,Mudambo Tongesayi,M,ZANU-PF,12105
 Harare,Harare North,Nyandoroh Rosemary Zvinaiye M,F,ZDU,404
 Harare,Harare South,Chigwada Tatenda,M,PRC,679
 Harare,Harare South,Chiwanika Spencer,M,NPF,620
 Harare,Harare South,Jambaya Desmond,M,MDC –T,4016
-Harare,Harare South,Kazetete Robson,M,Independent,1829
-Harare,Harare South,Kurisa Gaylord Kurisa,M,Build Zim Alliance,150
-Harare,Harare South,Mashayamombe Shadreck,M,MDC -Alliance,21366
+Harare,Harare South,Kazetete Robson,M,IND,1829
+Harare,Harare South,Kurisa Gaylord Kurisa,M,BZA,150
+Harare,Harare South,Mashayamombe Shadreck,M,MDC-A,21366
 Harare,Harare South,Mharadze Runwork,M,NCA,142
-Harare,Harare South,Mnangagwa Tongai Mafidi,M,ZANUPF,24503
-Harare,Harare South,Munondo Maxwell,M,Independent,1251
+Harare,Harare South,Mnangagwa Tongai Mafidi,M,ZANU-PF,24503
+Harare,Harare South,Munondo Maxwell,M,IND,1251
 Harare,Harare South,Ndagurwa Hearvy,M,ZIPP,189
-Harare,Harare South,Nyambuya Nathan Muchazondida,M,Independent,325
-Harare,Harare South,Piki Elliot,M,Independent,393
-Harare,Harare South,Saurombe Tichaona Samuel,M,MDC -Alliance,7816
-Harare,Harare South,Tanyiswa Super,M,Independent,136
+Harare,Harare South,Nyambuya Nathan Muchazondida,M,IND,325
+Harare,Harare South,Piki Elliot,M,IND,393
+Harare,Harare South,Saurombe Tichaona Samuel,M,MDC-A,7816
+Harare,Harare South,Tanyiswa Super,M,IND,136
 Harare,Harare West,Hoyi Dephine,F,ZIPP,210
-Harare,Harare West,Machiridza Malcom Tanaka,M,Independent,531
-Harare,Harare West,Majome Fungayi Jessie,F,Independent,4021
-Harare,Harare West,Mamombe Joanah,F,MDC -Alliance,20045
-Harare,Harare West,Mashavave George,M,Zanu PF,5115
+Harare,Harare West,Machiridza Malcom Tanaka,M,IND,531
+Harare,Harare West,Majome Fungayi Jessie,F,IND,4021
+Harare,Harare West,Mamombe Joanah,F,MDC-A,20045
+Harare,Harare West,Mashavave George,M,ZANU-PF,5115
 Harare,Harare West,Mukove Tawanda,M,UANC,81
 Harare,Harare West,Samson Samuel,M,NCA,29
 Harare,Harare West,Tome Vongai,F,PRC,249
@@ -337,890 +337,890 @@ Harare,Hatfield,Jirira Sindisiwe Sandra,F,NCA,160
 Harare,Hatfield,Kanyangu Richard Mutsa,M,UPZ,142
 Harare,Hatfield,Katiyo Jacqueline,F,PRC,166
 Harare,Hatfield,Makoni Tonderai Sidney,M,CODE,127
-Harare,Hatfield,Manyimwa Wicklord,M,Independent,1194
-Harare,Hatfield,Masango Owen,M,Independent,277
-Harare,Hatfield,Mashakada Tapiwa,M,MDC -Alliance,18576
-Harare,Hatfield,Musukuma Danny,M,Zanu PF,6455
+Harare,Hatfield,Manyimwa Wicklord,M,IND,1194
+Harare,Hatfield,Masango Owen,M,IND,277
+Harare,Hatfield,Mashakada Tapiwa,M,MDC-A,18576
+Harare,Hatfield,Musukuma Danny,M,ZANU-PF,6455
 Harare,Hatfield,Mwamuka Jatira Agatha,F,ZDU,128
-Harare,Hatfield,Ndoro Tendai Dephine,F,Independent,1128
-Harare,Hatfield,Shereni Bornwell,M,Independent,704
-Harare,Hatfield,Shoniwa Admire,M,Independent,87
+Harare,Hatfield,Ndoro Tendai Dephine,F,IND,1128
+Harare,Hatfield,Shereni Bornwell,M,IND,704
+Harare,Hatfield,Shoniwa Admire,M,IND,87
 Harare,Hatfield,Tapfumaneyi Lydia,F,ZIPP,52
 Harare,Hatfield,Vitrino Keith Tafadzwa,M,MDC –T,1119
 Harare,Highfield East,Bgwende Gilbert,M,PRC,453
 Harare,Highfield East,Charama Nyaradzo,F,MDC –T,1943
-Harare,Highfield East,Chinamano Kudakwashe I.T,M,Independent,726
+Harare,Highfield East,Chinamano Kudakwashe I.T,M,IND,726
 Harare,Highfield East,Kwenda Onias,M,CODE,106
 Harare,Highfield East,Luveve Pennina,F,NCA,43
-Harare,Highfield East,Mashonganyika Mike Taka,M,Zanu PF,3648
-Harare,Highfield East,Mhizha Wellington,M,Independent,412
-Harare,Highfield East,Murai Erick,M,MDC -Alliance,13079
+Harare,Highfield East,Mashonganyika Mike Taka,M,ZANU-PF,3648
+Harare,Highfield East,Mhizha Wellington,M,IND,412
+Harare,Highfield East,Murai Erick,M,MDC-A,13079
 Harare,Highfield East,Mushosho Cephas,M,ZIPP,100
-Harare,Highfield East,Ndawana Edina,F,Build Zim Alliance,97
+Harare,Highfield East,Ndawana Edina,F,BZA,97
 Harare,Highfield East,Shoko Timew Admire,M,UDF,23
-Harare,Highfield West,Chidziva Happymore,M,MDC -Alliance,11515
+Harare,Highfield West,Chidziva Happymore,M,MDC-A,11515
 Harare,Highfield West,Chitsora Kudakwashe Future,M,CODE,183
 Harare,Highfield West,Gwenzi George,M,PRC,150
-Harare,Highfield West,Kasawaya Virimayi Dzorerayi,M,Zanu PF,3473
+Harare,Highfield West,Kasawaya Virimayi Dzorerayi,M,ZANU-PF,3473
 Harare,Highfield West,Mangachena Musekiwa,M,MDC –T,730
 Harare,Highfield West,Marasiro Tsitsi Mercy,F,UDA,164
 Harare,Highfield West,Mutikani Claynious,M,ZIPP,44
-Harare,Highfield West,Mwendamberi Victor Vimbai,M,Build Zim Alliance,22
+Harare,Highfield West,Mwendamberi Victor Vimbai,M,BZA,22
 Harare,Highfield West,Ngano Charles,M,NPF,28
 Harare,Highfield West,Nyamande Michael Ngoni,M,UANC,113
 Harare,Highfield West,Zivambiso Enock,M,NCA,21
 Harare,Kambuzuma,Agoneka Michael,M,NPF,140
 Harare,Kambuzuma,Chigiji Ereck,M,NCA,152
-Harare,Kambuzuma,Ganje Petronella,F,Build Zim Alliance,75
+Harare,Kambuzuma,Ganje Petronella,F,BZA,75
 Harare,Kambuzuma,Gumbu Fungai,F,MDC –T,1164
-Harare,Kambuzuma,Machaya Lewis Johnson,M,Independent,172
-Harare,Kambuzuma,Madzimure Willias,M,MDC –Alliance,10694
+Harare,Kambuzuma,Machaya Lewis Johnson,M,IND,172
+Harare,Kambuzuma,Madzimure Willias,M,MDC-A,10694
 Harare,Kambuzuma,Mazana Netsai,F,PRC,183
-Harare,Kambuzuma,Mugwagwainnocent Zvidzai,M,Independent,1153
-Harare,Kambuzuma,Mupandanyama Simbarashe,M,ZANUPF,4269
+Harare,Kambuzuma,Mugwagwainnocent Zvidzai,M,IND,1153
+Harare,Kambuzuma,Mupandanyama Simbarashe,M,ZANU-PF,4269
 Harare,Kambuzuma,Pika Ignatius,M,CODE,64
 Harare,Kambuzuma,Verukayi Annah,F,NPF,75
-Harare,Kuwadzana East,Chagadama Ernest Kudzaishe,M,Zanu PF,3862
+Harare,Kuwadzana East,Chagadama Ernest Kudzaishe,M,ZANU-PF,3862
 Harare,Kuwadzana East,Chikoore Shylet,F,PRC,160
-Harare,Kuwadzana East,Hamandishe Emmerson,M,Build Zim Alliance,114
-Harare,Kuwadzana East,Hwende Chalton,M,MDC -Alliance,15390
+Harare,Kuwadzana East,Hamandishe Emmerson,M,BZA,114
+Harare,Kuwadzana East,Hwende Chalton,M,MDC-A,15390
 Harare,Kuwadzana East,Katsande Crispen,M,NCA,84
-Harare,Kuwadzana East,Kauzani Ishmael,M,Independent,93
+Harare,Kuwadzana East,Kauzani Ishmael,M,IND,93
 Harare,Kuwadzana East,Magondo Stuart,M,ZIPP,79
-Harare,Kuwadzana East,Mangwiro Urayayi,M,Independent,1127
+Harare,Kuwadzana East,Mangwiro Urayayi,M,IND,1127
 Harare,Kuwadzana East,Mutetwa Taurai,M,UDA,16
 Harare,Kuwadzana East,Nyanguwo Teriazer,F,UANC,25
-Harare,Kuwadzana East,Nyanhi Musekiwa Gift,M,Independent,129
-Harare,Kuwadzana,Chimbalanga Jossam,M,Independent,202
-Harare,Kuwadzana,Mafirowanda Wongai,F,Independent,602
+Harare,Kuwadzana East,Nyanhi Musekiwa Gift,M,IND,129
+Harare,Kuwadzana,Chimbalanga Jossam,M,IND,202
+Harare,Kuwadzana,Mafirowanda Wongai,F,IND,602
 Harare,Kuwadzana,Mafuta Richard,M,NCA,69
 Harare,Kuwadzana,Makasi Jenifa,F,PRC,198
-Harare,Kuwadzana,Mbewe Maston Zippie,M,Independent,63
-Harare,Kuwadzana,Muchemwa Munashe,M,Independent,197
+Harare,Kuwadzana,Mbewe Maston Zippie,M,IND,63
+Harare,Kuwadzana,Muchemwa Munashe,M,IND,197
 Harare,Kuwadzana,Muchenje Piniel Brighton,M,ZIPP,113
 Harare,Kuwadzana,Mudimu Kuda Vincent,M,NPF,38
-Harare,Kuwadzana,Mushayi Miriam,F,MDC –Alliance,19808
-Harare,Kuwadzana,Nhambu Betty,F,Zanu PF,9597
+Harare,Kuwadzana,Mushayi Miriam,F,MDC-T,19808
+Harare,Kuwadzana,Nhambu Betty,F,ZANU-PF,9597
 Harare,Kuwadzana,Nyamupingidza Joseph Taperasei Tuli,M,MDC –T,1338
 Harare,Mabvuku Tafara,Chemusaiziwa Elijah,M,CODE,229
-Harare,Mabvuku Tafara,Chidakwa James,M,MDC -Alliance,13806
+Harare,Mabvuku Tafara,Chidakwa James,M,MDC-A,13806
 Harare,Mabvuku Tafara,Chikwanha Joseph,M,MDC -T,1120
-Harare,Mabvuku Tafara,Chiraya Sandra,F,MAAT ZIM,56
-Harare,Mabvuku Tafara,Danda Terence Tendai,M,Build Zim Alliance,67
+Harare,Mabvuku Tafara,Chiraya Sandra,F,MAAT,56
+Harare,Mabvuku Tafara,Danda Terence Tendai,M,BZA,67
 Harare,Mabvuku Tafara,Kawara Moses,M,UANC,46
-Harare,Mabvuku Tafara,Maridadi James,M,MDC -Alliance,1977
-Harare,Mabvuku Tafara,Masimirembwa Godwills,M,Zanu PF,7566
+Harare,Mabvuku Tafara,Maridadi James,M,MDC-A,1977
+Harare,Mabvuku Tafara,Masimirembwa Godwills,M,ZANU-PF,7566
 Harare,Mabvuku Tafara,Muchero Simbarashe,M,ZIPP,60
-Harare,Mabvuku Tafara,Munzara Shasha Joel,M,Independent,0
-Harare,Mabvuku Tafara,Nyamuchena Takudzwa Evans,M,Independent,76
+Harare,Mabvuku Tafara,Munzara Shasha Joel,M,IND,0
+Harare,Mabvuku Tafara,Nyamuchena Takudzwa Evans,M,IND,76
 Harare,Mabvuku Tafara,Yotamu Andrew,M,NCA,60
 Harare,Mabvuku Tafara,Zenda Chipo,F,PRC,77
-Harare,Mbare,Chamisa Starman,M,MDC -Alliance,12981
-Harare,Mbare,Kundiwona Johanne,M,Build Zim Alliance,158
+Harare,Mbare,Chamisa Starman,M,MDC-A,12981
+Harare,Mbare,Kundiwona Johanne,M,BZA,158
 Harare,Mbare,Magombedze Eddington,M,ZIPP,108
 Harare,Mbare,Muleya Friday,M,PRC,82
-Harare,Mbare,Savanhu Tendai,M,ZANUPF,9590
+Harare,Mbare,Savanhu Tendai,M,ZANU-PF,9590
 Harare,Mbare,Takaindisa Pascalina,F,MDC -T,702
 Harare,Mbare,Taruvinga Everisto,M,NCA,41
-Harare,Mbare,Tsirare Ian,M,MAAT ZIM,28
-Harare,Mount Plesant,Banda Samuel,M,MDC -Alliance,9357
+Harare,Mbare,Tsirare Ian,M,MAAT,28
+Harare,Mount Plesant,Banda Samuel,M,MDC-A,9357
 Harare,Mount Plesant,Chikwanha Andrew Donald,M,CODE,103
 Harare,Mount Plesant,Dumba Warship,M,MDC -T,602
-Harare,Mount Plesant,Mahere Fadzayi,F,Independent,4388
+Harare,Mount Plesant,Mahere Fadzayi,F,IND,4388
 Harare,Mount Plesant,Murawu Caroline,F,NCA,50
-Harare,Mount Plesant,Passade Jaison,M,Zanu PF,5295
-Harare,Mufakose,Chamunorwa Florence,F,Independent,1683
+Harare,Mount Plesant,Passade Jaison,M,ZANU-PF,5295
+Harare,Mufakose,Chamunorwa Florence,F,IND,1683
 Harare,Mufakose,Chikerema Tineistanley,M,ZIPP,79
-Harare,Mufakose,Chiseva Agatha,F,Independent,350
-Harare,Mufakose,Derera Dunny,M,ZANUPF,2425
+Harare,Mufakose,Chiseva Agatha,F,IND,350
+Harare,Mufakose,Derera Dunny,M,ZANU-PF,2425
 Harare,Mufakose,Gahadza Abigail,F,NPF,112
 Harare,Mufakose,Jairos Charles,M,MDC -T,1075
-Harare,Mufakose,Khozomba Awali,M,Build Zim Alliance,202
+Harare,Mufakose,Khozomba Awali,M,BZA,202
 Harare,Mufakose,Lumumba Jonathan,M,CODE,108
-Harare,Mufakose,Matsunga Susan,F,MDC -Alliance,9087
-Harare,Mufakose,Ncube Desire Kudakwashe,M,FREEZIM CONGRESS,105
+Harare,Mufakose,Matsunga Susan,F,MDC-A,9087
+Harare,Mufakose,Ncube Desire Kudakwashe,M,FZC,105
 Harare,Mufakose,Rosi Rosa,F,NCA,79
 Harare,Mufakose,Zivave Farirai Remember,M,PRC,135
 Harare,Saint Mary'S,Chimedza John,M,PRC,536
-Harare,Saint Mary'S,Goliati Samson,M,Build Zim Alliance,348
+Harare,Saint Mary'S,Goliati Samson,M,BZA,348
 Harare,Saint Mary'S,Gudo Maria,F,NCA,89
-Harare,Saint Mary'S,Guyo Phillip,M,Zanu PF,7438
-Harare,Saint Mary'S,Gwata Garikayi Hillary,M,Independent,4287
+Harare,Saint Mary'S,Guyo Phillip,M,ZANU-PF,7438
+Harare,Saint Mary'S,Gwata Garikayi Hillary,M,IND,4287
 Harare,Saint Mary'S,Madimutsa Mambo,M,CODE,93
 Harare,Saint Mary'S,Makonola Rhoda,F,ZDU,81
 Harare,Saint Mary'S,Mapuranga Hughstess,M,MDC -T,1888
-Harare,Saint Mary'S,Mashiri Tsitsi Patience,F,Independent,102
+Harare,Saint Mary'S,Mashiri Tsitsi Patience,F,IND,102
 Harare,Saint Mary'S,Takaedza Thelma,F,ZIPP,111
-Harare,Saint Mary'S,Tarusenga Unganai Dickson,M,MDC -Alliance,10219
+Harare,Saint Mary'S,Tarusenga Unganai Dickson,M,MDC-A,10219
 Harare,Southerton,Chataika Godfrey,M,MDC -T,1138
 Harare,Southerton,Chingoto Trevor Nyasha,M,PRC,313
-Harare,Southerton,Chiposi Fungai,M,Independent,639
+Harare,Southerton,Chiposi Fungai,M,IND,639
 Harare,Southerton,Gobvu Abigail Natalie,F,ZIPP,174
 Harare,Southerton,Kunaka Jim,M,NPF,187
-Harare,Southerton,Makahamadze Andrew,M,Zanu PF,3191
-Harare,Southerton,Moyo Peter,M,MDC -Alliance,9073
-Harare,Southerton,Mtekesa Tafadzwa,F,Build Zim Alliance,60
-Harare,Southerton,Muponda Cosmas,M,Independent,9
+Harare,Southerton,Makahamadze Andrew,M,ZANU-PF,3191
+Harare,Southerton,Moyo Peter,M,MDC-A,9073
+Harare,Southerton,Mtekesa Tafadzwa,F,BZA,60
+Harare,Southerton,Muponda Cosmas,M,IND,9
 Harare,Sunningdale,Chimanikire Acknos,M,ZDU,104
 Harare,Sunningdale,Jayaguru Farai,M,UDA,168
-Harare,Sunningdale,Kankuni Winnie,F,MDC -Alliance,10599
+Harare,Sunningdale,Kankuni Winnie,F,MDC-A,10599
 Harare,Sunningdale,Makoni Fortunate,F,NCA,85
 Harare,Sunningdale,Mateu Israel,M,MDC -T,840
-Harare,Sunningdale,Matsika Charles,M,Zanu PF,4138
+Harare,Sunningdale,Matsika Charles,M,ZANU-PF,4138
 Harare,Sunningdale,Mhondamapango Arthur Kudzayi,M,ZIPP,46
 Harare,Sunningdale,Mupini Sipiwe,F,PRC,105
 Harare,Sunningdale,Wakatama Hazvineyi Eunice,F,CODE,56
 Harare,Warren Park,Dizara Andrew,M,DA-UPP,147
-Harare,Warren Park,Gore Jimson,M,Independent,202
-Harare,Warren Park,Hamauswa Shakespear,M,MDC -Alliance,18725
-Harare,Warren Park,Majoko Simbarashe,M,Build Zim Alliance,116
+Harare,Warren Park,Gore Jimson,M,IND,202
+Harare,Warren Park,Hamauswa Shakespear,M,MDC-A,18725
+Harare,Warren Park,Majoko Simbarashe,M,BZA,116
 Harare,Warren Park,Makwiza Tazvitya Hildah,F,ZIPP,110
 Harare,Warren Park,Mashayamombe Peter,M,PRC,119
-Harare,Warren Park,Muchenje Munyaradzi Joel,M,Independent,51
+Harare,Warren Park,Muchenje Munyaradzi Joel,M,IND,51
 Harare,Warren Park,Mulambo Gwendoline Mwarira,F,NCA,41
 Harare,Warren Park,Mupfiga James,M,NPF,58
-Harare,Warren Park,Muponda Gilbert Farai,M,Zanu PF,6838
-Harare,Warren Park,Mutisi Jacob Kudzayi,M,Independent,156
+Harare,Warren Park,Muponda Gilbert Farai,M,ZANU-PF,6838
+Harare,Warren Park,Mutisi Jacob Kudzayi,M,IND,156
 Harare,Warren Park,Nemaungwe Ernest,M,CODE,18
 Harare,Warren Park,Nyakutsikwa Celine Eunice,F,MDC -T,654
-Harare,Zengeza East,Bakare Juliet,F,Build Zim Alliance,196
-Harare,Zengeza East,Cheraoga Emmanuel,M,PPPZ,179
+Harare,Zengeza East,Bakare Juliet,F,BZA,196
+Harare,Zengeza East,Cheraoga Emmanuel,M,PPP,179
 Harare,Zengeza East,Chibura Patson,M,UDA,86
 Harare,Zengeza East,Chikuruwo Fortune Tichaona,M,FJCZ,46
-Harare,Zengeza East,Chimbaira Goodrich,M,MDC -Alliance,11658
+Harare,Zengeza East,Chimbaira Goodrich,M,MDC-A,11658
 Harare,Zengeza East,Chiunye Simbarashe Walter,M,ZDU,45
 Harare,Zengeza East,Gapara Tanaka,M,ZIPP,61
 Harare,Zengeza East,Gombe Abraham,M,NCA,21
-Harare,Zengeza East,Katiyo Llyod,M,MAAT ZIM,16
-Harare,Zengeza East,Makuzha Joel,M,# 1980 FREEDOM MOVEMENT Zimbabwe,45
-Harare,Zengeza East,Mhike Leonard Tawanda,M,Independent,72
-Harare,Zengeza East,Moyo Obadiah,M,Zanu PF,8333
+Harare,Zengeza East,Katiyo Llyod,M,MAAT,16
+Harare,Zengeza East,Makuzha Joel,M,#1980FMZ,45
+Harare,Zengeza East,Mhike Leonard Tawanda,M,IND,72
+Harare,Zengeza East,Moyo Obadiah,M,ZANU-PF,8333
 Harare,Zengeza East,Mudavanhu Chiziviso,F,PRC,128
-Harare,Zengeza East,Mwariwangu Obey,M,MDC - T,783
+Harare,Zengeza East,Mwariwangu Obey,M,MDC-T,783
 Harare,Zengeza East,Tigere Agrippa,M,CODE,99
-Harare,Zengeza West,Bomani Marakia,M,Independent,1469
+Harare,Zengeza West,Bomani Marakia,M,IND,1469
 Harare,Zengeza West,Chirihoro Peter,M,NCA,136
 Harare,Zengeza West,Chasi Annie Kudzai,F,MDC-T,1425
-Harare,Zengeza West,Chidakwa Simon,M,Independent,922
-Harare,Zengeza West,Marcolus Chiwoneso Annie,F,Independent,365
-Harare,Zengeza West,Marufu Lisbon Mutizwa,M,Zanu PF,5239
+Harare,Zengeza West,Chidakwa Simon,M,IND,922
+Harare,Zengeza West,Marcolus Chiwoneso Annie,F,IND,365
+Harare,Zengeza West,Marufu Lisbon Mutizwa,M,ZANU-PF,5239
 Harare,Zengeza West,Mlambala Tsvakai Minesh,M,ZDU,71
-Harare,Zengeza West,Mugwagwa Herbert,M,Independent,563
+Harare,Zengeza West,Mugwagwa Herbert,M,IND,563
 Harare,Zengeza West,Mutukura Merina,F,ZIPP,113
 Harare,Zengeza West,Muzenda Blessing,M,PRC,76
-Harare,Zengeza West,Patsika Clarence Kudzai,M,Independent,50
+Harare,Zengeza West,Patsika Clarence Kudzai,M,IND,50
 Harare,Zengeza West,Sabesa Marvellous,F,CODE,35
-Harare,Zengeza West,Saravadoro Renah,F,Build Zim Alliance,57
-Harare,Zengeza West,Sikhala Job,M,MDC - Alliance,12191
+Harare,Zengeza West,Saravadoro Renah,F,BZA,57
+Harare,Zengeza West,Sikhala Job,M,MDC-A,12191
 Harare,Zengeza West,Tazvitya Irene,F,UANC,88
 Manicaland,Buhera Central,Gudo Mudinzwa Bruce Tawanda,M,NPF,1455
 Manicaland,Buhera Central,Kandenga Timothy,M,PRC,827
 Manicaland,Buhera Central,Makonya Forget,M,MDC -T,1141
-Manicaland,Buhera Central,Matimba Ottiliah,F,MDC-ALLIANCE,5758
+Manicaland,Buhera Central,Matimba Ottiliah,F,MDC-A,5758
 Manicaland,Buhera Central,Misi Daisoni,M,CODE,121
 Manicaland,Buhera Central,Ngwere Gerber,M,UDM,92
-Manicaland,Buhera Central,Nyashanu Mathew,M,ZANU PF,13125
-Manicaland,Buhera North,Chikwiri Munetsi Lasty,M,INDEPENDENT,88
+Manicaland,Buhera Central,Nyashanu Mathew,M,ZANU-PF,13125
+Manicaland,Buhera North,Chikwiri Munetsi Lasty,M,IND,88
 Manicaland,Buhera North,Chinamasa Rinashe,M,NPF,212
 Manicaland,Buhera North,Chirume Collen,M,MDC-T,491
-Manicaland,Buhera North,Magarangoma Julius,M,MDC-ALLIANCE,5755
+Manicaland,Buhera North,Magarangoma Julius,M,MDC-A,5755
 Manicaland,Buhera North,Mombeyarara Leonard Mukucha,M,ZIPP,99
-Manicaland,Buhera North,Mutomba William,M,ZANU PF,10056
-Manicaland,Buhera South,Chinotimba Joseph,M,ZANU PF,13141
-Manicaland,Buhera South,Mabika Edwin,M,MDC ALLIANCE,6325
-Manicaland,Buhera South,Mudekunye Ngonidzashe,M,INDEPENDENT,3705
+Manicaland,Buhera North,Mutomba William,M,ZANU-PF,10056
+Manicaland,Buhera South,Chinotimba Joseph,M,ZANU-PF,13141
+Manicaland,Buhera South,Mabika Edwin,M,MDC-A,6325
+Manicaland,Buhera South,Mudekunye Ngonidzashe,M,IND,3705
 Manicaland,Buhera South,Sithole Isaya,M,PRC,87
 Manicaland,Buhera South,Mutero Jesmiel,M,ZIPP,59
-Manicaland,Buhera West,Chiguware Shephard,M,Independent,275
-Manicaland,Buhera West,Dzuma Soul,M,ZANU (PF),11901
-Manicaland,Buhera West,Mashangana Owen,M,People's Rainbow Coalition (PRC),209
-Manicaland,Buhera West,Matewu Jaison Andrew,M,MDC-Alliance,9227
-Manicaland,Buhera West,Mupungu Kelvin Teurayi,M,Independent,407
+Manicaland,Buhera West,Chiguware Shephard,M,IND,275
+Manicaland,Buhera West,Dzuma Soul,M,ZANU-PF,11901
+Manicaland,Buhera West,Mashangana Owen,M,PRCOPP,209
+Manicaland,Buhera West,Matewu Jaison Andrew,M,MDC-A,9227
+Manicaland,Buhera West,Mupungu Kelvin Teurayi,M,IND,407
 Manicaland,Chimanimani East,Chikukwa Macdonald,M,PRC,711
-Manicaland,Chimanimani East,Dube Innocent,M,INDEPENDENT,217
+Manicaland,Chimanimani East,Dube Innocent,M,IND,217
 Manicaland,Chimanimani East,Gwizah Maibah James,M,CODE,174
-Manicaland,Chimanimani East,Mahwendepi Batsirayi Enock,M,INDEPENDENT,228
-Manicaland,Chimanimani East,Mudhluli Maxwell,M,MDC–ALLIANCE,3034
+Manicaland,Chimanimani East,Mahwendepi Batsirayi Enock,M,IND,228
+Manicaland,Chimanimani East,Mudhluli Maxwell,M,MDC–A,3034
 Manicaland,Chimanimani East,Mukwayo Prudence,F,NCA,81
 Manicaland,Chimanimani East,Muusha Patrick,M,FZC,75
-Manicaland,Chimanimani East,Sacco Joshua Kurt,M,ZANU PF,16492
+Manicaland,Chimanimani East,Sacco Joshua Kurt,M,ZANU-PF,16492
 Manicaland,Chimanimani West,Bata Nomatter,F,CODE,166
 Manicaland,Chimanimani West,Chauke Alexander,M,ZDU,191
 Manicaland,Chimanimani West,Jinga Tinashe,M,MDC-T,0
 Manicaland,Chimanimani West,Kashiri John Wesley,M,PRC,113
-Manicaland,Chimanimani West,Mambakwe Panganai,M,# 1980 CHINHU CHEDU,66
-Manicaland,Chimanimani West,Matiashe Canaan,M,MDC-Alliance,9199
-Manicaland,Chimanimani West,Matsikenyere Nokuthula,F,ZANU PF,10757
-Manicaland,Chipinge Central,Dhlumo Livingstone,M,MDC Alliance,7606
+Manicaland,Chimanimani West,Mambakwe Panganai,M,#1980CC,66
+Manicaland,Chimanimani West,Matiashe Canaan,M,MDC-A,9199
+Manicaland,Chimanimani West,Matsikenyere Nokuthula,F,ZANU-PF,10757
+Manicaland,Chipinge Central,Dhlumo Livingstone,M,MDC-A,7606
 Manicaland,Chipinge Central,Dube,Robert M,MDC-T,1037
-Manicaland,Chipinge Central,Machingura Raymore,M,ZANU PF,12167
+Manicaland,Chipinge Central,Machingura Raymore,M,ZANU-PF,12167
 Manicaland,Chipinge Central,Muhlupeko Vhurande,M,NCA,146
 Manicaland,Chipinge Central,Maremudze Notion,M,ZIPP,146
 Manicaland,Chipinge Central,Mathabuka Shingai,M,PRC,898
-Manicaland,Chipinge East,Mlambo Win Busayi Juyana,M,Zanu PF,8349
-Manicaland,Chipinge East,Mlambo Mathias Matewu,M,MDC Alliance,8967
+Manicaland,Chipinge East,Mlambo Win Busayi Juyana,M,ZANU-PF,8349
+Manicaland,Chipinge East,Mlambo Mathias Matewu,M,MDC-A,8967
 Manicaland,Chipinge East,Masunungure Lovemore,M,PRC,765
 Manicaland,Chipinge East,Mwarera Joseph Taurayi,M,NCA,137
-Manicaland,Chipinge South,Chiororo Kudakwashe Freeman,M,INDEPENDENT,723
-Manicaland,Chipinge South,Hlatywayo Clifford,M,MDC-ALLIANCE,7870
+Manicaland,Chipinge South,Chiororo Kudakwashe Freeman,M,IND,723
+Manicaland,Chipinge South,Hlatywayo Clifford,M,MDC-A,7870
 Manicaland,Chipinge South,Kumbula Kudakwashe,M,ZIPP,253
-Manicaland,Chipinge South,Moyana Jerry Matinaka,M,INDEPENDENT,2366
+Manicaland,Chipinge South,Moyana Jerry Matinaka,M,IND,2366
 Manicaland,Chipinge South,Muhamba Vhula,M,CODE,107
 Manicaland,Chipinge South,Mupakati Takawira,M,NCA,238
-Manicaland,Chipinge South,Porusingazi Enock,M,ZANU PF,9382
-Manicaland,Chipinge West,Nyamudeza Sibonile,M,MDC Alliance,8754
-Manicaland,Chipinge West,Chimwamurombe Adam,M,Zanu PF,6475
+Manicaland,Chipinge South,Porusingazi Enock,M,ZANU-PF,9382
+Manicaland,Chipinge West,Nyamudeza Sibonile,M,MDC-A,8754
+Manicaland,Chipinge West,Chimwamurombe Adam,M,ZANU-PF,6475
 Manicaland,Chipinge West,Mhlanga Robert Peter,M,NCA,410
 Manicaland,Chipinge West,Saungweme Lovemore,M,NPF,121
 Manicaland,Chipinge West,Chateya Daisy,F,PRC,272
-Manicaland,Danfamvura/Chikanga,Chipanga Hosia,M,INDEPENDENT,1385
+Manicaland,Danfamvura/Chikanga,Chipanga Hosia,M,IND,1385
 Manicaland,Danfamvura/Chikanga,Choto Ngoni,M,ZIPP,520
 Manicaland,Danfamvura/Chikanga,Jerimani Alec,M,CP,282
-Manicaland,Danfamvura/Chikanga,Kadzere Chengetai Richard,M,INDEPENDENT,327
+Manicaland,Danfamvura/Chikanga,Kadzere Chengetai Richard,M,IND,327
 Manicaland,Danfamvura/Chikanga,Machikwa Emmanuel,M,APA,170
 Manicaland,Danfamvura/Chikanga,Maeresera Taziveyi Rajab,M,PRC,266
 Manicaland,Danfamvura/Chikanga,Mudehwe Tendayi Lynnet,F,MDC-T,2818
-Manicaland,Danfamvura/Chikanga,Mupfumi Isau Fungai,M,ZANU PF,9856
-Manicaland,Danfamvura/Chikanga,Mutseyami Chapfiwa Prosper,M,MDC-ALLIANCE,32381
-Manicaland,Danfamvura/Chikanga,Nyamande Hatizivi Joachem,M,INDEPENDENT,899
-Manicaland,Danfamvura/Chikanga,Nyazenga Misheck,M,INDEPENDENT,42
+Manicaland,Danfamvura/Chikanga,Mupfumi Isau Fungai,M,ZANU-PF,9856
+Manicaland,Danfamvura/Chikanga,Mutseyami Chapfiwa Prosper,M,MDC-A,32381
+Manicaland,Danfamvura/Chikanga,Nyamande Hatizivi Joachem,M,IND,899
+Manicaland,Danfamvura/Chikanga,Nyazenga Misheck,M,IND,42
 Manicaland,Danfamvura/Chikanga,Rusike Judith,F,ZDU,102
-Manicaland,Danfamvura/Chikanga,Tetena Tarisai,M,# 1980 CHINHU CHEDU,22
-Manicaland,Danfamvura/Chikanga,Tsikiwa Norman,M,INDEPENDENT,142
+Manicaland,Danfamvura/Chikanga,Tetena Tarisai,M,#1980CC,22
+Manicaland,Danfamvura/Chikanga,Tsikiwa Norman,M,IND,142
 Manicaland,Danfamvura/Chikanga,Ziduche Mercy,F,NCA,172
-Manicaland,Headlands,Chingosho Christopher Peter,M,ZANU PF,13798
-Manicaland,Headlands,Chiripamberi Taurai William,M,INDEPENDENT,1536
+Manicaland,Headlands,Chingosho Christopher Peter,M,ZANU-PF,13798
+Manicaland,Headlands,Chiripamberi Taurai William,M,IND,1536
 Manicaland,Headlands,Chiro Cliford,M,BZA,168
 Manicaland,Headlands,Chitauro Kingston,M,MDC-T,2190
-Manicaland,Headlands,Chiunya Vengai Godfrey,M,# 1980 CHINHU CHEDU,63
+Manicaland,Headlands,Chiunya Vengai Godfrey,M,#1980CC,63
 Manicaland,Headlands,Goneso Canaan,M,ZIPP,79
-Manicaland,Headlands,Jindu Phillip,M,INDEPENDENT,299
+Manicaland,Headlands,Jindu Phillip,M,IND,299
 Manicaland,Headlands,Julius Lastone,M,CODE,94
 Manicaland,Headlands,Kaunye James,M,PRC,165
-Manicaland,Headlands,Mukaratirwa Albert,M,MDC-ALLIANCE,4880
+Manicaland,Headlands,Mukaratirwa Albert,M,MDC-A,4880
 Manicaland,Headlands,Mutowa Chriswell,M,NCA,28
-Manicaland,Headlands,Sibanda Lawrence,M,INDEPENDENT,63
-Manicaland,Headlands,Tandi Keddy Cliff,M,MAAT ZIMBABWE,69
-Manicaland,Makoni Central,Tekeshe David,M,MDC-ALLIANCE,12531
-Manicaland,Makoni Central,Chinamasa Patrick Anthony,M,ZANU PF,9256
+Manicaland,Headlands,Sibanda Lawrence,M,IND,63
+Manicaland,Headlands,Tandi Keddy Cliff,M,MAAT,69
+Manicaland,Makoni Central,Tekeshe David,M,MDC-A,12531
+Manicaland,Makoni Central,Chinamasa Patrick Anthony,M,ZANU-PF,9256
 Manicaland,Makoni Central,Chasara Nesbert Pfunya,M,UDA,304
 Manicaland,Makoni Central,Matope Juliet,F,NCA,191
-Manicaland,Makoni Central,Mukaka Shepherd,M,# 1980 CHINHU CHEDU,59
-Manicaland,Makoni North,Chigume Paul,M,Independent,435
+Manicaland,Makoni Central,Mukaka Shepherd,M,#1980CC,59
+Manicaland,Makoni North,Chigume Paul,M,IND,435
 Manicaland,Makoni North,Chiro Joseph,M,BZA,186
 Manicaland,Makoni North,Kwangwa Virginia,F,NCA,94
 Manicaland,Makoni North,Mabvepi Muwanga,M,CODE,224
-Manicaland,Makoni North,Manyengawana Moses,M,MDC-Alliance,4941
-Manicaland,Makoni North,Munetsi James,M,ZANU PF,12189
-Manicaland,Makoni North,Mupfapairi Brighton,M,Independent,468
+Manicaland,Makoni North,Manyengawana Moses,M,MDC-A,4941
+Manicaland,Makoni North,Munetsi James,M,ZANU-PF,12189
+Manicaland,Makoni North,Mupfapairi Brighton,M,IND,468
 Manicaland,Makoni North,Nyawaranda Clever,M,ZIPP,77
-Manicaland,Makoni South,Chiwukira Munodaani Gilbert,M,PPPZ,365
-Manicaland,Makoni South,Kutiya John,M,MDC-ALLIANCE,9037
-Manicaland,Makoni South,Mataranyika Dudzai Misheck,M,ZANU PF,11622
+Manicaland,Makoni South,Chiwukira Munodaani Gilbert,M,PPP,365
+Manicaland,Makoni South,Kutiya John,M,MDC-A,9037
+Manicaland,Makoni South,Mataranyika Dudzai Misheck,M,ZANU-PF,11622
 Manicaland,Makoni South,Mukunda David,M,NCA,81
-Manicaland,Makoni South,Mupimbira Misheck,M,FREEZIM CONGRESS PARTY,108
+Manicaland,Makoni South,Mupimbira Misheck,M,FZC,108
 Manicaland,Makoni South,Murerawanhu Obert,M,ZIPP,130
 Manicaland,Makoni South,Mvundura Itayi Washington,M,PRC,131
-Manicaland,Makoni South,Samunumba Anderson,M,# 1980 Chinhu Chedu,67
+Manicaland,Makoni South,Samunumba Anderson,M,#1980CC,67
 Manicaland,Makoni West,Chinyadza Webber,M,MDC-T,2507
-Manicaland,Makoni West,Danha Francis,M,# 1980 Freedom Movement Zimbabwe,292
-Manicaland,Makoni West,Govha Godfrey Makwasha,M,MDC-Alliance,4530
+Manicaland,Makoni West,Danha Francis,M,#1980FMZ,292
+Manicaland,Makoni West,Govha Godfrey Makwasha,M,MDC-A,4530
 Manicaland,Makoni West,Kunze Pahwaringira Veniah,F,CODE,43
 Manicaland,Makoni West,Kwanayi Josphine,F,NCA,58
 Manicaland,Makoni West,Mukucha Kenneth,M,APC,70
-Manicaland,Makoni West,Muswere Jenfan,M,ZANU PF,7772
+Manicaland,Makoni West,Muswere Jenfan,M,ZANU-PF,7772
 Manicaland,Makoni West,Muteweye Silvester,M,RPZ,51
 Manicaland,Makoni West,Ndlovu Nhlanhla,M,ZIPP,81
 Manicaland,Makoni West,Sambo Macdonald,M,PRC,54
-Manicaland,Musikavanhu,Murire Joshua,M,ZANU PF,6559
+Manicaland,Musikavanhu,Murire Joshua,M,ZANU-PF,6559
 Manicaland,Musikavanhu,Simango Simon,M,PRC,1029
-Manicaland,Musikavanhu,Sithole Sifiso,M,MDC-ALLIANCE,6162
-Manicaland,Musikavanhu,Muchauraya Pishai,M,INDEPENDENT,1855
+Manicaland,Musikavanhu,Sithole Sifiso,M,MDC-A,6162
+Manicaland,Musikavanhu,Muchauraya Pishai,M,IND,1855
 Manicaland,Musikavanhu,Sithole Pambuka Canfred,M,NCA,155
-Manicaland,Mutare Central,Chitaka Patrick,M,Independent,192
-Manicaland,Mutare Central,Gonese Innocent Tinashe,M,MDC Alliance,11950
+Manicaland,Mutare Central,Chitaka Patrick,M,IND,192
+Manicaland,Mutare Central,Gonese Innocent Tinashe,M,MDC-A,11950
 Manicaland,Mutare Central,Mauya Emmanuel,M,NCA,106
-Manicaland,Mutare Central,Mundembe George,M,Independent,251
+Manicaland,Mutare Central,Mundembe George,M,IND,251
 Manicaland,Mutare Central,Mushunje Appross,M,ZIPP,62
 Manicaland,Mutare Central,Mutasa Musiyiwa,F,ZDU,20
-Manicaland,Mutare Central,Porunobva Vengai Allan,M,Coalition of Demo,11
-Manicaland,Mutare Central,Rumhungwe Marvin,M,MDC T,210
+Manicaland,Mutare Central,Porunobva Vengai Allan,M,CODE,11
+Manicaland,Mutare Central,Rumhungwe Marvin,M,MDC-T,210
 Manicaland,Mutare Central,Simpindi Brian Tendai,M,PRC,50
-Manicaland,Mutare Central,Saungweme Nancy,F,ZANU PF,5684
-Manicaland,Mutare Central,Zimbudzi Nathan,M,Free Zim Congress,33
-Manicaland,Mutare North,Madiro Michael,M,Zanu PF,6511
+Manicaland,Mutare Central,Saungweme Nancy,F,ZANU-PF,5684
+Manicaland,Mutare Central,Zimbudzi Nathan,M,FZC,33
+Manicaland,Mutare North,Madiro Michael,M,ZANU-PF,6511
 Manicaland,Mutare North,Masiyakurima Agrippa Bopela,M,NPF,3229
 Manicaland,Mutare North,Matai Maud Ngonidzashe,F,ZIPP,154
 Manicaland,Mutare North,Matara Pedigree,F,PRC,137
-Manicaland,Mutare North,Munyamana Godfrey,M,MDC Alliance,3962
-Manicaland,Mutare South,Gwazaza Oliver,M,INDEPENDENT,748
+Manicaland,Mutare North,Munyamana Godfrey,M,MDC-A,3962
+Manicaland,Mutare South,Gwazaza Oliver,M,IND,748
 Manicaland,Mutare South,Jambaya Takunda,M,NCA,470
 Manicaland,Mutare South,Machikiti Langton,M,PRC,237
 Manicaland,Mutare South,Mangoyana Haward,M,NPF,449
 Manicaland,Mutare South,Mapudzi Givemore,M,ZIPP,181
 Manicaland,Mutare South,Mlambo Nelson,M,ZDU,105
 Manicaland,Mutare South,Mukundidza Blessing,M,APA,138
-Manicaland,Mutare South,Ngome Jefry,M,ZANU PF,16495
+Manicaland,Mutare South,Ngome Jefry,M,ZANU-PF,16495
 Manicaland,Mutare South,Puwai Gashirai,M,ZIPP,182
-Manicaland,Mutare South,Saunyama Robert,M,MDC-ALLIANCE,10050
-Manicaland,Mutare South,Taruvinga Moreblessing,F,# 1980 CHINHU CHEDU,71
+Manicaland,Mutare South,Saunyama Robert,M,MDC-A,10050
+Manicaland,Mutare South,Taruvinga Moreblessing,F,#1980CC,71
 Manicaland,Mutare West,Marange Israel Smart,M,ZIPP,853
-Manicaland,Mutare West,Marange Rodwell Shambare,M,INDEPENDENT,550
-Manicaland,Mutare West,Muchimwe Percy Teedzai,M,ZANU PF,17871
-Manicaland,Mutare West,Mudiwa Malvern,M,MDC-ALLIANCE,7920
+Manicaland,Mutare West,Marange Rodwell Shambare,M,IND,550
+Manicaland,Mutare West,Muchimwe Percy Teedzai,M,ZANU-PF,17871
+Manicaland,Mutare West,Mudiwa Malvern,M,MDC-A,7920
 Manicaland,Mutare West,Mudiwa Shuah,M,PRC,476
-Manicaland,Mutare West,Munjoma Thomas,M,INDEPENDENT,964
+Manicaland,Mutare West,Munjoma Thomas,M,IND,964
 Manicaland,Mutare West,Muzama Tariro,M,NCA,116
-Manicaland,Mutare West,Nhaitai Fungai,M,INDEPENDENT,130
+Manicaland,Mutare West,Nhaitai Fungai,M,IND,130
 Manicaland,Mutasa Central,Chikuni Tapiwa Laxon,M,ZDU,297
 Manicaland,Mutasa Central,Dzoma Ernest Kuziwa,M,NCA,163
 Manicaland,Mutasa Central,Mapenzi Netsayi,F,MDC-T,819
 Manicaland,Mutasa Central,Mukura Norman Sarayi,M,ZIPP,99
-Manicaland,Mutasa Central,Mwashita Richard,M,Independent,58
-Manicaland,Mutasa Central,Sakupwanya Jefter Kuziwa,M,ZANU PF,9621
-Manicaland,Mutasa Central,Saruwaka Trevor Jones Lovelace,M,MDC-Alliance,11919
-Manicaland,Mutasa Central,Tande Confidence,F,FreeZim Congress Party,30
+Manicaland,Mutasa Central,Mwashita Richard,M,IND,58
+Manicaland,Mutasa Central,Sakupwanya Jefter Kuziwa,M,ZANU-PF,9621
+Manicaland,Mutasa Central,Saruwaka Trevor Jones Lovelace,M,MDC-A,11919
+Manicaland,Mutasa Central,Tande Confidence,F,FZC,30
 Manicaland,Mutasa North,Chideya Shepherd Tapuwa,M,ZIPP,712
-Manicaland,Mutasa North,Chimhini David Antony,M,MDC-Alliance,11635
+Manicaland,Mutasa North,Chimhini David Antony,M,MDC-A,11635
 Manicaland,Mutasa North,Chiremba John,M,CODE,153
-Manicaland,Mutasa North,Madiwa Chido,F,ZANU PF,11913
-Manicaland,Mutasa North,Masamvu James Tawanda,M,Independent,1060
+Manicaland,Mutasa North,Madiwa Chido,F,ZANU-PF,11913
+Manicaland,Mutasa North,Masamvu James Tawanda,M,IND,1060
 Manicaland,Mutasa North,Mudowaya Shadreck Steven,M,MDC-T,0
-Manicaland,Mutasa South,Mugadza Misheck,M,ZANU PF,12736
-Manicaland,Mutasa South,Mukarakate Anyway,M,FREEZIM CONGRESS PARTY,201
+Manicaland,Mutasa South,Mugadza Misheck,M,ZANU-PF,12736
+Manicaland,Mutasa South,Mukarakate Anyway,M,FZC,201
 Manicaland,Mutasa South,Munyoro Learnmore,M,ZIPP,185
 Manicaland,Mutasa South,Murahwa Daniel Ngonidzaishe,M,PRC,168
 Manicaland,Mutasa South,Nyakunu Walter,M,APA,144
 Manicaland,Mutasa South,Sande Patrick,M,ZDU,128
-Manicaland,Mutasa South,Tsunga Regai,M,MDC-ALLIANCE,14783
-Manicaland,Nyanga North,Chatsanga Sarudzai,F,INDEPENDENT,1967
+Manicaland,Mutasa South,Tsunga Regai,M,MDC-A,14783
+Manicaland,Nyanga North,Chatsanga Sarudzai,F,IND,1967
 Manicaland,Nyanga North,Chibvura Lovemore,M,NPF,362
 Manicaland,Nyanga North,Kapomba Maxwell,M,PRC,212
-Manicaland,Nyanga North,Kicheni Blessing Bruce,M,FREEZIM CONGRESS PARTY,121
-Manicaland,Nyanga North,Matoro Solomon Chenjerai,M,MDC-ALLIANCE,6750
-Manicaland,Nyanga North,Sanyatwe Chido,F,ZANU PF,14167
-Manicaland,Nyanga South,Kadzima Talent,F,INDEPENDENT,3119
-Manicaland,Nyanga South,Mandiwanzira Supa Collins,M,ZANU PF,12322
-Manicaland,Nyanga South,Mupotsa Nickson,M,# 1980 CHINHU CHEDU,95
+Manicaland,Nyanga North,Kicheni Blessing Bruce,M,FZC,121
+Manicaland,Nyanga North,Matoro Solomon Chenjerai,M,MDC-A,6750
+Manicaland,Nyanga North,Sanyatwe Chido,F,ZANU-PF,14167
+Manicaland,Nyanga South,Kadzima Talent,F,IND,3119
+Manicaland,Nyanga South,Mandiwanzira Supa Collins,M,ZANU-PF,12322
+Manicaland,Nyanga South,Mupotsa Nickson,M,#1980CC,95
 Manicaland,Nyanga South,Ngonzwe Webster,M,MDC-T,1114
-Manicaland,Nyanga South,Samanyanga Tonderai Denholm,M,MDC-ALLIANCE,7464
+Manicaland,Nyanga South,Samanyanga Tonderai Denholm,M,MDC-A,7464
 Mashonaland Central,Bindura North,Chagweka Takawira,M,PRC,601
 Mashonaland Central,Bindura North,Chindi Darleen,F,NCA,97
-Mashonaland Central,Bindura North,Chinguruve Taonashe Majaji,M,ZIMFIRST,82
+Mashonaland Central,Bindura North,Chinguruve Taonashe Majaji,M,ZimFirst,82
 Mashonaland Central,Bindura North,Kasukuvere Tongai,M,NPF,695
-Mashonaland Central,Bindura North,Musanhi Kenneth Shupikai,M,ZANU  PF,29888
-Mashonaland Central,Bindura North,Mutambara Agrippah,M,MDC-Alliance,11052
+Mashonaland Central,Bindura North,Musanhi Kenneth Shupikai,M,ZANU-PF,29888
+Mashonaland Central,Bindura North,Mutambara Agrippah,M,MDC-A,11052
 Mashonaland Central,Bindura North,Sintala Asani,M,FMZ,378
 Mashonaland Central,Bindura North,Yakobe Chiedza,M,MDC-T,595
 Mashonaland Central,Bindura South,Chinakwetu Justice,M,NPF,351
-Mashonaland Central,Bindura South,Denga Stephen,M,INDEPENDENT,215
+Mashonaland Central,Bindura South,Denga Stephen,M,IND,215
 Mashonaland Central,Bindura South,Gwangwawa Nelson,M,PRC,312
-Mashonaland Central,Bindura South,Gwarada George,M,MDC -Alliance,9298
+Mashonaland Central,Bindura South,Gwarada George,M,MDC-A,9298
 Mashonaland Central,Bindura South,Mandova Simbarashe,M,MDC -T,636
-Mashonaland Central,Bindura South,Matangira Toendepi Remigious,M,ZANU  PF,19201
-Mashonaland Central,Bindura South,Mhembere Nemia,M,INDEPENDENT,204
-Mashonaland Central,Guruve North,Dzepasi Girovah,M,ZANU PF,24271
+Mashonaland Central,Bindura South,Matangira Toendepi Remigious,M,ZANU-PF,19201
+Mashonaland Central,Bindura South,Mhembere Nemia,M,IND,204
+Mashonaland Central,Guruve North,Dzepasi Girovah,M,ZANU-PF,24271
 Mashonaland Central,Guruve North,Kagande Philip,M,NPF,454
 Mashonaland Central,Guruve North,Mashingayidze Kenneth,M,FMZ,157
 Mashonaland Central,Guruve North,Mugabe Jekesai,F,PRC,266
-Mashonaland Central,Guruve North,Mupunga Andrew,M,MDC -Alliance,3108
-Mashonaland Central,Guruve South,Chakaodza Austin Mutandwa,M,INDEPENDENT,646
-Mashonaland Central,Guruve South,Dube Angeline,F,MDC -Alliance,1758
-Mashonaland Central,Guruve South,Dutiro Patrick,M,ZANU  PF,17103
-Mashonaland Central,Guruve South,Mubaiwa Wilbert Archbald,M,INDEPENDENT,7162
+Mashonaland Central,Guruve North,Mupunga Andrew,M,MDC-A,3108
+Mashonaland Central,Guruve South,Chakaodza Austin Mutandwa,M,IND,646
+Mashonaland Central,Guruve South,Dube Angeline,F,MDC-A,1758
+Mashonaland Central,Guruve South,Dutiro Patrick,M,ZANU-PF,17103
+Mashonaland Central,Guruve South,Mubaiwa Wilbert Archbald,M,IND,7162
 Mashonaland Central,Guruve South,Mushonga Virimai,M,NPF,93
 Mashonaland Central,Guruve South,Mutematsaka Chriswell,M,PRC,172
 Mashonaland Central,Guruve South,Mutsvene Simbarashe,M,NCA,94
-Mashonaland Central,Mazoe Central,Chidamba Sydney,M,ZANU PF,12380
+Mashonaland Central,Mazoe Central,Chidamba Sydney,M,ZANU-PF,12380
 Mashonaland Central,Mazoe Central,Choundo Benvolio,M,ZDU,158
 Mashonaland Central,Mazoe Central,Kakora Edward,M,MDC-T,917
 Mashonaland Central,Mazoe Central,Madzudzo Ozigrai,M,ZIPP,84
 Mashonaland Central,Mazoe Central,Mandaza Isiah,M,NPF,134
 Mashonaland Central,Mazoe Central,Mazorodze Ellen Mberi,F,PRC,130
-Mashonaland Central,Mazoe Central,Muroyiwa Blessing,M,MDC ALLIANCE,4024
-Mashonaland Central,Mazoe Central,Mushonga Shepherd Lenard,M,INDEPENDENT,1556
+Mashonaland Central,Mazoe Central,Muroyiwa Blessing,M,MDC-A,4024
+Mashonaland Central,Mazoe Central,Mushonga Shepherd Lenard,M,IND,1556
 Mashonaland Central,Mazoe North,Lumbe Rambai,M,PRC,582
 Mashonaland Central,Mazoe North,Malukula Elias,M,CODE,256
-Mashonaland Central,Mazoe North,Muchenje Tinashe Stephen,M,MDC -Alliance,1435
-Mashonaland Central,Mazoe North,Mugweni Campion Takura,M,ZANU  PF,17277
-Mashonaland Central,Mazoe North,Ndlovu Thulani Mcumillan,M,MDC -Alliance,2069
-Mashonaland Central,Mazoe North,Rungangah Shingirai,M,INDEPENDENT,247
+Mashonaland Central,Mazoe North,Muchenje Tinashe Stephen,M,MDC-A,1435
+Mashonaland Central,Mazoe North,Mugweni Campion Takura,M,ZANU-PF,17277
+Mashonaland Central,Mazoe North,Ndlovu Thulani Mcumillan,M,MDC-A,2069
+Mashonaland Central,Mazoe North,Rungangah Shingirai,M,IND,247
 Mashonaland Central,Mazoe South,Baradzi Lovemore,M,NPF,732
-Mashonaland Central,Mazoe South,Chakwera Faith Gamuchirai,F,MDC - Alliance,4539
-Mashonaland Central,Mazoe South,Chasi Fortune,M,ZANU  PF,16830
+Mashonaland Central,Mazoe South,Chakwera Faith Gamuchirai,F,MDC-A,4539
+Mashonaland Central,Mazoe South,Chasi Fortune,M,ZANU-PF,16830
 Mashonaland Central,Mazoe South,Chidamba Tawengwa,M,ZDU,225
-Mashonaland Central,Mazoe South,Chimanikire Gift,M,MDC -ALLIANCE,5278
+Mashonaland Central,Mazoe South,Chimanikire Gift,M,MDC-A,5278
 Mashonaland Central,Mazoe South,Kanengoni Charles,M,PRC,421
-Mashonaland Central,Mazoe West,Chimanzi Thamarie,F,MDC –Alliance,2143
+Mashonaland Central,Mazoe West,Chimanzi Thamarie,F,MDC-A,2143
 Mashonaland Central,Mazoe West,Dumbura Lloyd,M,PRC,202
 Mashonaland Central,Mazoe West,Gumbochuma Moses,M,NPF,699
-Mashonaland Central,Mazoe West,Kazembe Kazembe,M,ZANU  PF,18349
-Mashonaland Central,Mazoe West,Muchihwa Rorana,F,MDC -Alliance,735
+Mashonaland Central,Mazoe West,Kazembe Kazembe,M,ZANU-PF,18349
+Mashonaland Central,Mazoe West,Muchihwa Rorana,F,MDC-A,735
 Mashonaland Central,Mazoe West,Muchipisa Oscar,M,ZIPP,121
 Mashonaland Central,Mbire,Butau David,M,ZDU,4704
-Mashonaland Central,Mbire,Karoro Douglas,M,ZANU PF,17071
-Mashonaland Central,Mbire,Mccormick Allan Ivor Corner,M,MDC ALLIANCE,3009
+Mashonaland Central,Mbire,Karoro Douglas,M,ZANU-PF,17071
+Mashonaland Central,Mbire,Mccormick Allan Ivor Corner,M,MDC-A,3009
 Mashonaland Central,Mbire,Sigauke Tonderai Pinimhidzai Josphat,M,PRC,211
-Mashonaland Central,Mount Darwin East,Chaukura Respect,M,MDC -Alliance,2472
+Mashonaland Central,Mount Darwin East,Chaukura Respect,M,MDC-A,2472
 Mashonaland Central,Mount Darwin East,Honzeri Shephard,M,NPF,500
-Mashonaland Central,Mount Darwin East,Kadere Greatman,M,INDEPENDENT,603
+Mashonaland Central,Mount Darwin East,Kadere Greatman,M,IND,603
 Mashonaland Central,Mount Darwin East,Kajokoto Cain,M,PRC,934
-Mashonaland Central,Mount Darwin East,Marikisi Norman,M,ZANU  PF,20570
+Mashonaland Central,Mount Darwin East,Marikisi Norman,M,ZANU-PF,20570
 Mashonaland Central,Mount Darwin North,Maponga Hamunyari,F,NPF,396
-Mashonaland Central,Mount Darwin North,Moyo Sikhathazile,F,MDC -Alliance,1062
+Mashonaland Central,Mount Darwin North,Moyo Sikhathazile,F,MDC-A,1062
 Mashonaland Central,Mount Darwin North,Munemo Labbany,M,PRC,2230
-Mashonaland Central,Mount Darwin North,Muponora Noveti,M,ZANU  PF,16166
-Mashonaland Central,Mount Darwin South,Kabozo Stephen,M,ZANU PF,21248
-Mashonaland Central,Mount Darwin South,Kalonga Tawanda,M,MDC -Alliance,3148
+Mashonaland Central,Mount Darwin North,Muponora Noveti,M,ZANU-PF,16166
+Mashonaland Central,Mount Darwin South,Kabozo Stephen,M,ZANU-PF,21248
+Mashonaland Central,Mount Darwin South,Kalonga Tawanda,M,MDC-A,3148
 Mashonaland Central,Mount Darwin South,Mugari Letwin,F,PRC,473
 Mashonaland Central,Mount Darwin South,Nhete Tapfumaneyi,M,NPF,653
 Mashonaland Central,Mount Darwin West,Karima Caleb,M,NPF,888
-Mashonaland Central,Mount Darwin West,Manyika Petiaus,M,INDEPENDENT,704
-Mashonaland Central,Mount Darwin West,Muradzi Cyril,M,MDC -Alliance,1572
+Mashonaland Central,Mount Darwin West,Manyika Petiaus,M,IND,704
+Mashonaland Central,Mount Darwin West,Muradzi Cyril,M,MDC-A,1572
 Mashonaland Central,Mount Darwin West,Musevenzi Julius,M,PRC,1806
-Mashonaland Central,Mount Darwin West,Musoki Advance,M,INDEPENDENT,139
-Mashonaland Central,Mount Darwin West,Seremwe Bannwell,M,ZANU PF,19488
-Mashonaland Central,Muzarabani North,Kagura Agreement Takawira,M,MDC -Alliance,1161
+Mashonaland Central,Mount Darwin West,Musoki Advance,M,IND,139
+Mashonaland Central,Mount Darwin West,Seremwe Bannwell,M,ZANU-PF,19488
+Mashonaland Central,Muzarabani North,Kagura Agreement Takawira,M,MDC-A,1161
 Mashonaland Central,Muzarabani North,Keche Sarudzayi,F,PRC,165
-Mashonaland Central,Muzarabani North,Mushori Lawrence,M,MDC -Alliance,142
-Mashonaland Central,Muzarabani North,Zhemu Soda,M,ZANU PF,17098
-Mashonaland Central,Muzarabani South,Choruwa Tapiwa Talent,ND,MDC ALLIANCE,1604
+Mashonaland Central,Muzarabani North,Mushori Lawrence,M,MDC-A,142
+Mashonaland Central,Muzarabani North,Zhemu Soda,M,ZANU-PF,17098
+Mashonaland Central,Muzarabani South,Choruwa Tapiwa Talent,ND,MDC-A,1604
 Mashonaland Central,Muzarabani South,Gundasu Mika,ND,PRC,416
-Mashonaland Central,Muzarabani South,Saizi Tapera,ND,ZANU PF,23466
-Mashonaland Central,Rushinga,Chideya Kudakwashe,M,MDC -Alliance,2306
+Mashonaland Central,Muzarabani South,Saizi Tapera,ND,ZANU-PF,23466
+Mashonaland Central,Rushinga,Chideya Kudakwashe,M,MDC-A,2306
 Mashonaland Central,Rushinga,Hedegwe Gilson,M,PRC,330
 Mashonaland Central,Rushinga,Mashange Wonder,M,NPF,1201
-Mashonaland Central,Rushinga,Nyabani Tendai,M,ZANU  PF,22752
+Mashonaland Central,Rushinga,Nyabani Tendai,M,ZANU-PF,22752
 Mashonaland Central,Shamva North,Chagwambare Danwell,M,ZIPP,267
-Mashonaland Central,Shamva North,Gorerino Oscar,M,ZANU  PF,20556
+Mashonaland Central,Shamva North,Gorerino Oscar,M,ZANU-PF,20556
 Mashonaland Central,Shamva North,Humbasha Enock,M,PRC,137
-Mashonaland Central,Shamva North,Mutambara Ester,F,MDC - Alliance,2552
+Mashonaland Central,Shamva North,Mutambara Ester,F,MDC-A,2552
 Mashonaland Central,Shamva North,Nyamangara Presten,M,NPF,23
-Mashonaland Central,Shamva North,Nyamidzi Kenneth,M,INDEPENDENT,213
-Mashonaland Central,Shamva South,Bushu Bramwell,M,ZANU  PF,27711
+Mashonaland Central,Shamva North,Nyamidzi Kenneth,M,IND,213
+Mashonaland Central,Shamva South,Bushu Bramwell,M,ZANU-PF,27711
 Mashonaland Central,Shamva South,Chiradza Tawanda,M,NPF,172
 Mashonaland Central,Shamva South,Choga Stephen,M,PRC,96
-Mashonaland Central,Shamva South,Daniel Lovemore,M,MDC -Alliance,2917
+Mashonaland Central,Shamva South,Daniel Lovemore,M,MDC-A,2917
 Mashonaland Central,Shamva South,Gwature Cosmas,M,MDC -T,221
-Mashonaland Central,Shamva South,Kadzepi Nigel Evidence,M,MAAT ZIMBABWE,83
-Mashonaland East,Chikomba Central,Chandiwana Ngonidzashe Shiri,M,Independent,1456
-Mashonaland East,Chikomba Central,Denga Piniel,M,MDC-Alliance,4537
-Mashonaland East,Chikomba Central,Mhona Felix Tapiwa,M,ZANU PF,7543
-Mashonaland East,Chikomba Central,Mugaduyi Situta,M,Build Zimbabwe Alliance,93
-Mashonaland East,Chikomba Central,Mugova Eddington,M,United Democracy Movement,70
-Mashonaland East,Chikomba Central,Muwungani Thanks,M,People’s Rainbow Coalition,176
-Mashonaland East,Chikomba East,Chivige Rapheal,M,People’s Rainbow Coalition,344
-Mashonaland East,Chikomba East,Dahwa Lawrence Enock,M,MDC-Alliance,3595
-Mashonaland East,Chikomba East,Kanhutu Irene Nzenza,F,ZANU PF,7972
-Mashonaland East,Chikomba East,Katsenga Derek,M,Zimbabwe AfricanPeople’s Union,60
-Mashonaland East,Chikomba East,Tangazu Debra,F,Zimbabwe Partnership for Prosperity,104
+Mashonaland Central,Shamva South,Kadzepi Nigel Evidence,M,MAAT,83
+Mashonaland East,Chikomba Central,Chandiwana Ngonidzashe Shiri,M,IND,1456
+Mashonaland East,Chikomba Central,Denga Piniel,M,MDC-A,4537
+Mashonaland East,Chikomba Central,Mhona Felix Tapiwa,M,ZANU-PF,7543
+Mashonaland East,Chikomba Central,Mugaduyi Situta,M,BZA,93
+Mashonaland East,Chikomba Central,Mugova Eddington,M,UDM,70
+Mashonaland East,Chikomba Central,Muwungani Thanks,M,PRCOPP,176
+Mashonaland East,Chikomba East,Chivige Rapheal,M,PRCOPP,344
+Mashonaland East,Chikomba East,Dahwa Lawrence Enock,M,MDC-A,3595
+Mashonaland East,Chikomba East,Kanhutu Irene Nzenza,F,ZANU-PF,7972
+Mashonaland East,Chikomba East,Katsenga Derek,M,ZAPU,60
+Mashonaland East,Chikomba East,Tangazu Debra,F,ZPP,104
 Mashonaland East,Chikomba West,Madhuveko Jeremia,M,MDC-T,1661
-Mashonaland East,Chikomba West,Madyangove Chrispen,M,People’s Rainbow Coalition,325
-Mashonaland East,Chikomba West,Magawa Anderson,M,Zimbabwe Partnership for Prosperity,309
-Mashonaland East,Chikomba West,Mangwiro John Chamunorwa,M,ZANU PF,17079
-Mashonaland East,Chikomba West,Mutodza Antony,M,MDC-Alliance Party,5575
-Mashonaland East,Goromonzi North,Bvute Ozias,M,ZANU PF,17277
-Mashonaland East,Goromonzi North,Mapira Bindu Allan,M,People’s Rainbow Coalition,289
-Mashonaland East,Goromonzi North,Muriyengwe Brian,M,Zimbabwe Partnership for Prosperity,127
+Mashonaland East,Chikomba West,Madyangove Chrispen,M,PRCOPP,325
+Mashonaland East,Chikomba West,Magawa Anderson,M,ZPP,309
+Mashonaland East,Chikomba West,Mangwiro John Chamunorwa,M,ZANU-PF,17079
+Mashonaland East,Chikomba West,Mutodza Antony,M,MDC-A,5575
+Mashonaland East,Goromonzi North,Bvute Ozias,M,ZANU-PF,17277
+Mashonaland East,Goromonzi North,Mapira Bindu Allan,M,PRCOPP,289
+Mashonaland East,Goromonzi North,Muriyengwe Brian,M,ZPP,127
 Mashonaland East,Goromonzi North,Samanyanga George,M,MDC-T,1237
-Mashonaland East,Goromonzi North,Sauka  Ellard,M,MDC-Alliance,5362
+Mashonaland East,Goromonzi North,Sauka Ellard,M,MDC-A,5362
 Mashonaland East,Goromonzi South,Chauke Grace,F,MDC-T,2443
-Mashonaland East,Goromonzi South,Chikudo Rueben,M,MDC-Alliance,32423
-Mashonaland East,Goromonzi South,Chimunhu Albert,M,Zimbabwe Labour Party,277
-Mashonaland East,Goromonzi South,Chiridza Clive,M,Independent,289
-Mashonaland East,Goromonzi South,Chiwashira Licious,M,United African National Council,118
-Mashonaland East,Goromonzi South,Chiyangwa Shelton,M,Zimbabwe Partnership for Prosperity,190
-Mashonaland East,Goromonzi South,Gwanzura Oswell Ndumo,M,Independent.,4735
-Mashonaland East,Goromonzi South,Kagonye Petronella,F,ZANU PF,18821
-Mashonaland East,Goromonzi South,Makoni Dominic  Mufudzi,M,Independent.,294
-Mashonaland East,Goromonzi South,Makore Eugene,M,Independent,224
+Mashonaland East,Goromonzi South,Chikudo Rueben,M,MDC-A,32423
+Mashonaland East,Goromonzi South,Chimunhu Albert,M,ZLP,277
+Mashonaland East,Goromonzi South,Chiridza Clive,M,IND,289
+Mashonaland East,Goromonzi South,Chiwashira Licious,M,UANC,118
+Mashonaland East,Goromonzi South,Chiyangwa Shelton,M,ZPP,190
+Mashonaland East,Goromonzi South,Gwanzura Oswell Ndumo,M,IND,4735
+Mashonaland East,Goromonzi South,Kagonye Petronella,F,ZANU-PF,18821
+Mashonaland East,Goromonzi South,Makoni Dominic Mufudzi,M,IND,294
+Mashonaland East,Goromonzi South,Makore Eugene,M,IND,224
 Mashonaland East,Goromonzi South,Mangate Hazel,F,NCA,127
-Mashonaland East,Goromonzi South,Mugariwa Jullean,F,People’s Rainbow Coalition,176
-Mashonaland East,Goromonzi South,Muwodzeri Thomas,M,Independent.,1257
-Mashonaland East,Goromonzi South,Vengai Ephraim,F,Independent,77
-Mashonaland East,Goromonzi West,Karimatsenga Nyamupinga Biata Beatrice,F,Independent,2909
-Mashonaland East,Goromonzi West,Machokoto Cryton,M,People’s Rainbow Coalition Party,425
-Mashonaland East,Goromonzi West,Mutodi Energy,M,ZANU PF,12384
-Mashonaland East,Goromonzi West,Muzonikwa Ndanga Ronald Paidamoyo,M,United African National Council,122
-Mashonaland East,Goromonzi West,Nhamburo Taurai Clifford,M,MDC-Alliance Party,10274
-Mashonaland East,Goromonzi West,Tamborinyoka Luke Batsirai,M,MDC-Alliance Party,6691
-Mashonaland East,Goromonzi West,Tizora Lewis,M,Coalition  Democrats,99
-Mashonaland East,Maramba Pfungwe,Chakwiza Admire,M,MDC-Alliance,929
-Mashonaland East,Maramba Pfungwe,Karumazondo Makuwi Tichawona,M,ZANU PF,24317
-Mashonaland East,Maramba Pfungwe,Makope Tonderai,M,Coalition of Democrats,75
-Mashonaland East,Maramba Pfungwe,Sandi Wellington,M,People’s Rainbow Coalition,83
-Mashonaland East,Marondera Central,Chasesa Fred,M,People’s Rainbow Coalition,288
-Mashonaland East,Marondera Central,Kundiona Cleopas,M,ZANU PF,8386
-Mashonaland East,Marondera Central,Makayi Onias,M,Zimbabwe Partnership for Prosperity,71
-Mashonaland East,Marondera Central,Makaza Solomon,M,Freezim Congress,34
-Mashonaland East,Marondera Central,Makombe Francis,M,MDCT,840
-Mashonaland East,Marondera Central,Matewu Caston,M,MDC-AllianceParty,14604
-Mashonaland East,Marondera Central,Munuhwa Chipo Contilda,F,Independent,189
-Mashonaland East,Marondera Central,Nyika Kingdom,M,Independent,57
-Mashonaland East,Marondera East,Chakaingesu Musekiwa,M,MDC-Alliance,4604
-Mashonaland East,Marondera East,Chidakwa Patrick,M,ZANU PF,18365
-Mashonaland East,Marondera East,Mandaza Moses,M,Zimbabwe Labour Party,187
-Mashonaland East,Marondera West,Kunaka Marceline,F,Zimbabwe Partnership for Prosperity,597
-Mashonaland East,Marondera West,Maisvoreva Amon,M,MDC Alliance,5400
-Mashonaland East,Marondera West,Mari Adam,M,People’s Rainbow Coalition,69
-Mashonaland East,Marondera West,Mavunga Richard Godfrey,M,Independent,559
-Mashonaland East,Marondera West,Mdokwani Chivero Stanley,M,Independent,90
-Mashonaland East,Marondera West,Muchetwa Macdonald,M,MDC T,368
-Mashonaland East,Marondera West,Mukunyaidze Spiwe Elizabeth I,F,ZANU PF,7619
-Mashonaland East,Mudzi North,Kachepa Newton,M,Zanu PF,20113
-Mashonaland East,Mudzi South,Samukange Jonathan Tawonana,M,ZANU PF,18429
-Mashonaland East,Mudzi West,Mudyiwa Magna,F,ZANU PF,14289
-Mashonaland East,Mudzi West,Mutereko Gift Danai,M,MDC-Alliance,1147
-Mashonaland East,Murewa North,Chiroto Emmanuel,M,Build Zimbabwe Alliance,544
-Mashonaland East,Murewa North,Garwe Daniel,M,ZANU PF,16781
+Mashonaland East,Goromonzi South,Mugariwa Jullean,F,PRCOPP,176
+Mashonaland East,Goromonzi South,Muwodzeri Thomas,M,IND,1257
+Mashonaland East,Goromonzi South,Vengai Ephraim,F,IND,77
+Mashonaland East,Goromonzi West,Karimatsenga Nyamupinga Biata Beatrice,F,IND,2909
+Mashonaland East,Goromonzi West,Machokoto Cryton,M,PRCOPP,425
+Mashonaland East,Goromonzi West,Mutodi Energy,M,ZANU-PF,12384
+Mashonaland East,Goromonzi West,Muzonikwa Ndanga Ronald Paidamoyo,M,UANC,122
+Mashonaland East,Goromonzi West,Nhamburo Taurai Clifford,M,MDC-A,10274
+Mashonaland East,Goromonzi West,Tamborinyoka Luke Batsirai,M,MDC-A,6691
+Mashonaland East,Goromonzi West,Tizora Lewis,M,CODE,99
+Mashonaland East,Maramba Pfungwe,Chakwiza Admire,M,MDC-A,929
+Mashonaland East,Maramba Pfungwe,Karumazondo Makuwi Tichawona,M,ZANU-PF,24317
+Mashonaland East,Maramba Pfungwe,Makope Tonderai,M,CODE,75
+Mashonaland East,Maramba Pfungwe,Sandi Wellington,M,PRCOPP,83
+Mashonaland East,Marondera Central,Chasesa Fred,M,PRCOPP,288
+Mashonaland East,Marondera Central,Kundiona Cleopas,M,ZANU-PF,8386
+Mashonaland East,Marondera Central,Makayi Onias,M,ZPP,71
+Mashonaland East,Marondera Central,Makaza Solomon,M,FZC,34
+Mashonaland East,Marondera Central,Makombe Francis,M,MDC-T,840
+Mashonaland East,Marondera Central,Matewu Caston,M,MDC-A,14604
+Mashonaland East,Marondera Central,Munuhwa Chipo Contilda,F,IND,189
+Mashonaland East,Marondera Central,Nyika Kingdom,M,IND,57
+Mashonaland East,Marondera East,Chakaingesu Musekiwa,M,MDC-A,4604
+Mashonaland East,Marondera East,Chidakwa Patrick,M,ZANU-PF,18365
+Mashonaland East,Marondera East,Mandaza Moses,M,ZLP,187
+Mashonaland East,Marondera West,Kunaka Marceline,F,ZPP,597
+Mashonaland East,Marondera West,Maisvoreva Amon,M,MDC-A,5400
+Mashonaland East,Marondera West,Mari Adam,M,PRCOPP,69
+Mashonaland East,Marondera West,Mavunga Richard Godfrey,M,IND,559
+Mashonaland East,Marondera West,Mdokwani Chivero Stanley,M,IND,90
+Mashonaland East,Marondera West,Muchetwa Macdonald,M,MDC-T,368
+Mashonaland East,Marondera West,Mukunyaidze Spiwe Elizabeth I,F,ZANU-PF,7619
+Mashonaland East,Mudzi North,Kachepa Newton,M,ZANU-PF,20113
+Mashonaland East,Mudzi South,Samukange Jonathan Tawonana,M,ZANU-PF,18429
+Mashonaland East,Mudzi West,Mudyiwa Magna,F,ZANU-PF,14289
+Mashonaland East,Mudzi West,Mutereko Gift Danai,M,MDC-A,1147
+Mashonaland East,Murewa North,Chiroto Emmanuel,M,BZA,544
+Mashonaland East,Murewa North,Garwe Daniel,M,ZANU-PF,16781
 Mashonaland East,Murewa North,Muchenje Desire,M,NCA,153
-Mashonaland East,Murewa North,Mutize Golden,M,MDC-Alliance,4910
-Mashonaland East,Murewa South,Chawora Jeremy Jonathan,M,MDC-Alliance,1821
+Mashonaland East,Murewa North,Mutize Golden,M,MDC-A,4910
+Mashonaland East,Murewa South,Chawora Jeremy Jonathan,M,MDC-A,1821
 Mashonaland East,Murewa South,Chodewa Tukisai,M,NCA,129
-Mashonaland East,Murewa South,Mangondo Noah Takawota Joni,M,Independent,10653
-Mashonaland East,Murewa South,Matiza Biggie Joel,M,ZANU PF,10808
+Mashonaland East,Murewa South,Mangondo Noah Takawota Joni,M,IND,10653
+Mashonaland East,Murewa South,Matiza Biggie Joel,M,ZANU-PF,10808
 Mashonaland East,Murewa South,Mupanguri Musatye,M,ZAPU,81
-Mashonaland East,Murewa South,Muparadzi Blessed,M,Peoples’ Rainbow Coalition,50
+Mashonaland East,Murewa South,Muparadzi Blessed,M,PRCOPP,50
 Mashonaland East,Murewa West,Chinhiwu Thompson,M,NCA,313
-Mashonaland East,Murewa West,Chirumiko Emanuel,M,MDC T,2020
-Mashonaland East,Murewa West,Jiji Tafirenyika Farai,M,Independent,166
-Mashonaland East,Murewa West,Magaso Peter,M,People’s Rainbow Coalition,188
-Mashonaland East,Murewa West,Mudzipuri Taurai,M,FreeZim Congress,91
-Mashonaland East,Murewa West,Mukurazhizha Lesley Manika,M,MDC Alliance,6216
-Mashonaland East,Murewa West,Nezi Ward,M,Coalition of Democrats,75
-Mashonaland East,Murewa West,Nhamburo Silence,M,National Patriotic Front,100
-Mashonaland East,Murewa West,Sewera Jonah Nyikadzino,M,ZANU PF,12982
-Mashonaland East,Murewa West,Zamadura Solomon,M,Independent,81
-Mashonaland East,Mutoko East,Musiyiwa Richard,M,ZANU PF,15109
-Mashonaland East,Mutoko East,Samakande Abel,M,MDC-Alliance,2189
-Mashonaland East,Mutoko North,Chinomona Mabel Memory,F,ZANU PF,16902
-Mashonaland East,Mutoko North,Kativhu Shamh,M,Free Zim Congress,262
-Mashonaland East,Mutoko North,Mushore Boniface,M,MDC-Alliance,3151
+Mashonaland East,Murewa West,Chirumiko Emanuel,M,MDC-T,2020
+Mashonaland East,Murewa West,Jiji Tafirenyika Farai,M,IND,166
+Mashonaland East,Murewa West,Magaso Peter,M,PRCOPP,188
+Mashonaland East,Murewa West,Mudzipuri Taurai,M,FZC,91
+Mashonaland East,Murewa West,Mukurazhizha Lesley Manika,M,MDC-A,6216
+Mashonaland East,Murewa West,Nezi Ward,M,CODE,75
+Mashonaland East,Murewa West,Nhamburo Silence,M,NPF,100
+Mashonaland East,Murewa West,Sewera Jonah Nyikadzino,M,ZANU-PF,12982
+Mashonaland East,Murewa West,Zamadura Solomon,M,IND,81
+Mashonaland East,Mutoko East,Musiyiwa Richard,M,ZANU-PF,15109
+Mashonaland East,Mutoko East,Samakande Abel,M,MDC-A,2189
+Mashonaland East,Mutoko North,Chinomona Mabel Memory,F,ZANU-PF,16902
+Mashonaland East,Mutoko North,Kativhu Shamh,M,FZC,262
+Mashonaland East,Mutoko North,Mushore Boniface,M,MDC-A,3151
 Mashonaland East,Mutoko South,Chifeva Rangarirai Joel,M,NCA,223
-Mashonaland East,Mutoko South,Mapengo Mapango,M,MDC-Alliance,2839
+Mashonaland East,Mutoko South,Mapengo Mapango,M,MDC-A,2839
 Mashonaland East,Mutoko South,Mburundu Beaullah,F,MDC-T,265
-Mashonaland East,Mutoko South,Shumbamhini Hebert,M,ZANU PF,20283
-Mashonaland East,Seke,Chikwanha Kudakwashe Lawrence,M,Independent,578
-Mashonaland East,Seke,Gandiwa Christopher,M,United African National Council,729
-Mashonaland East,Seke,Gava Leah Hazviperi,F,Coalition of Democrats,199
-Mashonaland East,Seke,Gunguwo Rairo Chengetai,F,Independent,346
-Mashonaland East,Seke,Kaseke Charles,M,Zimbabwe Partnership for Prosperity,505
-Mashonaland East,Seke,Kashambe Munyaradzi Tobias,M,ZANU PF,18050
-Mashonaland East,Seke,Kunaka Tawineyi,M,MDC-Alliance,16369
+Mashonaland East,Mutoko South,Shumbamhini Hebert,M,ZANU-PF,20283
+Mashonaland East,Seke,Chikwanha Kudakwashe Lawrence,M,IND,578
+Mashonaland East,Seke,Gandiwa Christopher,M,UANC,729
+Mashonaland East,Seke,Gava Leah Hazviperi,F,CODE,199
+Mashonaland East,Seke,Gunguwo Rairo Chengetai,F,IND,346
+Mashonaland East,Seke,Kaseke Charles,M,ZPP,505
+Mashonaland East,Seke,Kashambe Munyaradzi Tobias,M,ZANU-PF,18050
+Mashonaland East,Seke,Kunaka Tawineyi,M,MDC-A,16369
 Mashonaland East,Seke,Mabika Silas,M,NCA,189
-Mashonaland East,Seke,Marembo Almighty,M,People’s Rainbow Coalition,291
-Mashonaland East,Uzumba,Kazingizi Peckson,M,MDC-Alliance,1850
-Mashonaland East,Uzumba,Mudarikwa Simbaneuta,M,ZANU PF,21405
-Mashonaland East,Wedza North,Dzinemunhenzva Egypt,M,Forces of Liberation Organization of African National,303
-Mashonaland East,Wedza North,Makara Tichaona,M,MDC-Alliance Party,3187
-Mashonaland East,Wedza North,Musabayana David,M,ZANU PF,13785
-Mashonaland East,Wedza South,Archibald Royc,M,People’s Rainbow coalition,272
-Mashonaland East,Wedza South,Gukwe Phanuel,M,MDC Alliance,2101
-Mashonaland East,Wedza South,Machakarika Tinoda,M,ZANU PF,9525
+Mashonaland East,Seke,Marembo Almighty,M,PRCOPP,291
+Mashonaland East,Uzumba,Kazingizi Peckson,M,MDC-A,1850
+Mashonaland East,Uzumba,Mudarikwa Simbaneuta,M,ZANU-PF,21405
+Mashonaland East,Wedza North,Dzinemunhenzva Egypt,M,FLOANP,303
+Mashonaland East,Wedza North,Makara Tichaona,M,MDC-A,3187
+Mashonaland East,Wedza North,Musabayana David,M,ZANU-PF,13785
+Mashonaland East,Wedza South,Archibald Royc,M,PRCOPP,272
+Mashonaland East,Wedza South,Gukwe Phanuel,M,MDC-A,2101
+Mashonaland East,Wedza South,Machakarika Tinoda,M,ZANU-PF,9525
 Mashonaland West,Chakari,Eremia Mafios,M,NPF,738
-Mashonaland West,Chakari,Mapolisa Isaac,M,INDEPENDENT,494
+Mashonaland West,Chakari,Mapolisa Isaac,M,IND,494
 Mashonaland West,Chakari,Mateveke Happymore,F,ZIPP,455
-Mashonaland West,Chakari,Nkani Andrew,M,ZANU PF,25028
-Mashonaland West,Chakari,Phiri Asiyatu,F,MDC ALLIANCE,4202
-Mashonaland West,Chegutu East,Bvumo Tawanda,M,MDC ALLIANCE,5092
-Mashonaland West,Chegutu East,Chidende Onias,M,MDC T,987
-Mashonaland West,Chegutu East,Chindiya Washington,M,INDEPENDENT,317
-Mashonaland West,Chegutu East,Kapeta Samuel,M,INDEPENDENT,442
+Mashonaland West,Chakari,Nkani Andrew,M,ZANU-PF,25028
+Mashonaland West,Chakari,Phiri Asiyatu,F,MDC-A,4202
+Mashonaland West,Chegutu East,Bvumo Tawanda,M,MDC-A,5092
+Mashonaland West,Chegutu East,Chidende Onias,M,MDC-T,987
+Mashonaland West,Chegutu East,Chindiya Washington,M,IND,317
+Mashonaland West,Chegutu East,Kapeta Samuel,M,IND,442
 Mashonaland West,Chegutu East,Kunonga Clever,M,NPF,272
-Mashonaland West,Chegutu East,Muchenga Pardon,M,INDEPENDENT,126
+Mashonaland West,Chegutu East,Muchenga Pardon,M,IND,126
 Mashonaland West,Chegutu East,Muzariri Agnes,F,ZIPP,196
 Mashonaland West,Chegutu East,Ndoro Mathew,M,BZA,39
-Mashonaland West,Chegutu East,Nhira David,M,INDEPENDENT,271
-Mashonaland West,Chegutu East,Shamu Webster Kotiwani,M,ZANU PF,15873
+Mashonaland West,Chegutu East,Nhira David,M,IND,271
+Mashonaland West,Chegutu East,Shamu Webster Kotiwani,M,ZANU-PF,15873
 Mashonaland West,Chegutu East,Zimani Zvakwana Prosper,M,PRC,333
 Mashonaland West,Chegutu West,Bobo Shingirai Canious,M,PRC,180
-Mashonaland West,Chegutu West,Dzingirai Tavonga,M,MDCT,1796
+Mashonaland West,Chegutu West,Dzingirai Tavonga,M,MDC-T,1796
 Mashonaland West,Chegutu West,Kache Simon,M,UCADPZ,224
-Mashonaland West,Chegutu West,Konjani Gift Machoka,M,MDC ALLIANCE,10828
+Mashonaland West,Chegutu West,Konjani Gift Machoka,M,MDC-A,10828
 Mashonaland West,Chegutu West,Munatsi Owen,M,NDF,381
-Mashonaland West,Chegutu West,Mundayi Arnod Freddie,M,INDEPENDENT,539
+Mashonaland West,Chegutu West,Mundayi Arnod Freddie,M,IND,539
 Mashonaland West,Chegutu West,Museta Kennedy,M,UDA,76
-Mashonaland West,Chegutu West,Nduna Dexter,M,ZANU PF,10932
-Mashonaland West,Chinhoyi,Cheney Ray Anthony,M,INDEPENDENT,460
-Mashonaland West,Chinhoyi,Mapfumo Damson Botholomew,M,FCZ,262
-Mashonaland West,Chinhoyi,Mataruse Peter,M,MDC ALLIANCE,17931
+Mashonaland West,Chegutu West,Nduna Dexter,M,ZANU-PF,10932
+Mashonaland West,Chinhoyi,Cheney Ray Anthony,M,IND,460
+Mashonaland West,Chinhoyi,Mapfumo Damson Botholomew,M,FDZ,262
+Mashonaland West,Chinhoyi,Mataruse Peter,M,MDC-A,17931
 Mashonaland West,Chinhoyi,Mbondiya Nelson,M,MDC-T,753
 Mashonaland West,Chinhoyi,Mhangwa Leslie Everman,M,PRC,817
-Mashonaland West,Chinhoyi,Nyandoro Jacob Israel,M,INDEPENDENT,290
-Mashonaland West,Chinhoyi,Sauramba Last Taguma,M,ZANU PF,9096
+Mashonaland West,Chinhoyi,Nyandoro Jacob Israel,M,IND,290
+Mashonaland West,Chinhoyi,Sauramba Last Taguma,M,ZANU-PF,9096
 Mashonaland West,Chinhoyi,Taderera Audiney,M,NPF,298
 Mashonaland West,Chinhoyi,Tigere Onesayi,M,BZA,113
 Mashonaland West,Chinhoyi,Viyazhero Lovemore,M,ZIPP,52
 Mashonaland West,Hurungwe Central,Banda Everjoy,F,ZIPP,454
 Mashonaland West,Hurungwe Central,Kuipa Ebba,F,NPF,2118
-Mashonaland West,Hurungwe Central,Magunje Tawanda R.,M,MDC ALLIANCE,7439
+Mashonaland West,Hurungwe Central,Magunje Tawanda R.,M,MDC-A,7439
 Mashonaland West,Hurungwe Central,Manyembere Fidelis,M,PRC,211
-Mashonaland West,Hurungwe Central,Mutero Taylor,M,INDEPENDENT,495
-Mashonaland West,Hurungwe Central,Ndiweni Doubt,M,ZANU PF,14281
+Mashonaland West,Hurungwe Central,Mutero Taylor,M,IND,495
+Mashonaland West,Hurungwe Central,Ndiweni Doubt,M,ZANU-PF,14281
 Mashonaland West,Hurungwe East,Chongo Batsirai,M,PRC,710
-Mashonaland West,Hurungwe East,Gukwa Marko,M,INDEPENDENT,634
+Mashonaland West,Hurungwe East,Gukwa Marko,M,IND,634
 Mashonaland West,Hurungwe East,Mahoka Sarah,F,NPF,4072
-Mashonaland West,Hurungwe East,Masenda Ngoni T.,M,ZANU PF,21286
+Mashonaland West,Hurungwe East,Masenda Ngoni T.,M,ZANU-PF,21286
 Mashonaland West,Hurungwe East,Mhuka Tsitsi,F,ZIPP,204
 Mashonaland West,Hurungwe East,Nzimbe Edson,M,NZRP,198
-Mashonaland West,Hurungwe North,Dindingwe John Clever,M,MDC ALLIANCE,5779
-Mashonaland West,Hurungwe North,Gandawa Musavaya Ability,M,ZANU PF,12726
+Mashonaland West,Hurungwe North,Dindingwe John Clever,M,MDC-A,5779
+Mashonaland West,Hurungwe North,Gandawa Musavaya Ability,M,ZANU-PF,12726
 Mashonaland West,Hurungwe North,Kawara Cosmar,M,NCA,506
 Mashonaland West,Hurungwe North,Maramba Hapiness,M,RZP,346
 Mashonaland West,Hurungwe North,Mawarire Mbizvo Jealous,M,NPF,263
 Mashonaland West,Hurungwe West,Bamu Aleck,M,NPF,403
-Mashonaland West,Hurungwe West,Makanyaire Wilson,M,MDC ALLIANCE,7311
+Mashonaland West,Hurungwe West,Makanyaire Wilson,M,MDC-A,7311
 Mashonaland West,Hurungwe West,Makombe Henry,M,ZIPP,264
-Mashonaland West,Hurungwe West,Mliswa Mary T,F,ZANU PF,11645
+Mashonaland West,Hurungwe West,Mliswa Mary T,F,ZANU-PF,11645
 Mashonaland West,Hurungwe West,Rozario Washington,M,PRC,184
-Mashonaland West,Kadoma Central,Chinyanganya Muchineripi,M,MDC ALLIANCE,15278
+Mashonaland West,Kadoma Central,Chinyanganya Muchineripi,M,MDC-A,15278
 Mashonaland West,Kadoma Central,Karukwaru Matha,F,UANC,102
 Mashonaland West,Kadoma Central,Gaza Gift,M,ZIPP,332
 Mashonaland West,Kadoma Central,Kabvara Jeofrey,M,PRC,152
 Mashonaland West,Kadoma Central,Mapuranga Lovemore,M,NCA,79
 Mashonaland West,Kadoma Central,Matambo Peter Chandafira,M,MDC-T,1122
-Mashonaland West,Kadoma Central,Matombo Edson Munyaradzi,M,INDEPENDENT,1654
-Mashonaland West,Kadoma Central,Mavesere Zivanayi,M,INDEPENDENT,2031
-Mashonaland West,Kadoma Central,Phiri Fani Phanuel,M,ZANU PF,7382
+Mashonaland West,Kadoma Central,Matombo Edson Munyaradzi,M,IND,1654
+Mashonaland West,Kadoma Central,Mavesere Zivanayi,M,IND,2031
+Mashonaland West,Kadoma Central,Phiri Fani Phanuel,M,ZANU-PF,7382
 Mashonaland West,Kadoma Central,Saita Noel,M,NPF,194
-Mashonaland West,Kadoma Central,Tembo Solomon Isaac,M,INDEPENDENT,1152
-Mashonaland West,Kariba,Houghton John Roland,M,MDC ALLIANCE,13258
-Mashonaland West,Kariba,Mackenzie Evidence Tinotennda,M,INDEPENDENT,619
+Mashonaland West,Kadoma Central,Tembo Solomon Isaac,M,IND,1152
+Mashonaland West,Kariba,Houghton John Roland,M,MDC-A,13258
+Mashonaland West,Kariba,Mackenzie Evidence Tinotennda,M,IND,619
 Mashonaland West,Kariba,Makuwerere Tapfumaneyi,M,MDC-T,634
 Mashonaland West,Kariba,Mhora Diskson,M,ZIPP,213
 Mashonaland West,Kariba,Muchiyatahwa Tangisai,M,PRC,308
 Mashonaland West,Kariba,Mugadza Patrick Phillip,M,UDM,76
 Mashonaland West,Kariba,Murodza Augustine,M,FZC,63
-Mashonaland West,Kariba,Shumba Tapson,M,ZANU PF,11951
-Mashonaland West,Magunje,Gandawa Godfrey,M,INDEPENDENT,5598
+Mashonaland West,Kariba,Shumba Tapson,M,ZANU-PF,11951
+Mashonaland West,Magunje,Gandawa Godfrey,M,IND,5598
 Mashonaland West,Magunje,Gatsi Thomas,M,PRC,387
-Mashonaland West,Magunje,Kashiri Cecil,M,ZANU PF,6726
-Mashonaland West,Magunje,Kusemamuriwo Tonderai,M,MDC ALLIANCE,5694
+Mashonaland West,Magunje,Kashiri Cecil,M,ZANU-PF,6726
+Mashonaland West,Magunje,Kusemamuriwo Tonderai,M,MDC-A,5694
 Mashonaland West,Magunje,Madiro Henry,M,ZIPP,183
 Mashonaland West,Makonde,Muteera Andrew,M,FMZ,523
 Mashonaland West,Makonde,Nyakata Christopher,M,NPF,617
-Mashonaland West,Makonde,Paradza Kindness,M,ZANU PF,19337
-Mashonaland West,Makonde,Tigere Noel,M,MDC ALLIANCE,4261
-Mashonaland West,Mhangura,Gorejema Garikai,M,MDC ALLIANCE,3466
+Mashonaland West,Makonde,Paradza Kindness,M,ZANU-PF,19337
+Mashonaland West,Makonde,Tigere Noel,M,MDC-A,4261
+Mashonaland West,Mhangura,Gorejema Garikai,M,MDC-A,3466
 Mashonaland West,Mhangura,Kadambe Peter,M,NPF,306
-Mashonaland West,Mhangura,Masango Chinhamo Precious,F,ZANU PF,26072
+Mashonaland West,Mhangura,Masango Chinhamo Precious,F,ZANU-PF,26072
 Mashonaland West,Mhangura,Munaki Aleck,M,FMZ,132
 Mashonaland West,Mhondoro Mubaira,Jonga Liveas,M,PRC,437
 Mashonaland West,Mhondoro Mubaira,Kandambi Tamanikwa,M,NCA,308
-Mashonaland West,Mhondoro Mubaira,Kapuya Freddy,M,ZANU PF,9418
+Mashonaland West,Mhondoro Mubaira,Kapuya Freddy,M,ZANU-PF,9418
 Mashonaland West,Mhondoro Mubaira,Kuveya Farai Marvelous,M,ZDU,306
 Mashonaland West,Mhondoro Mubaira,Mazani Wilfred Tapiwa,M,ZIPP,101
-Mashonaland West,Mhondoro Mubaira,Monera Christopher,M,MDC ALLIANCE,5514
-Mashonaland West,Mhondoro Mubaira,Nguni Sylvester Robert,M,INDEPENDENT,3151
+Mashonaland West,Mhondoro Mubaira,Monera Christopher,M,MDC-A,5514
+Mashonaland West,Mhondoro Mubaira,Nguni Sylvester Robert,M,IND,3151
 Mashonaland West,Mhondoro Ngezi,Magaya Edgar,M,ZIPP,596
-Mashonaland West,Mhondoro Ngezi,Mukuhlani Tavengwa,M,ZANU PF,12708
-Mashonaland West,Mhondoro Ngezi,Munemo Manasseh Munashe,M,MDC ALLIANCE,6563
-Mashonaland West,Mhondoro Ngezi,Nomdoka Kurebwa Javangwe,M,INDEPENDENT,777
-Mashonaland West,Mhondoro Ngezi,Rusike Vengai,M,MDC T,584
-Mashonaland West,Mhondoro Ngezi,Sweva Elson,M,INDEPENDENT,95
+Mashonaland West,Mhondoro Ngezi,Mukuhlani Tavengwa,M,ZANU-PF,12708
+Mashonaland West,Mhondoro Ngezi,Munemo Manasseh Munashe,M,MDC-A,6563
+Mashonaland West,Mhondoro Ngezi,Nomdoka Kurebwa Javangwe,M,IND,777
+Mashonaland West,Mhondoro Ngezi,Rusike Vengai,M,MDC-T,584
+Mashonaland West,Mhondoro Ngezi,Sweva Elson,M,IND,95
 Mashonaland West,Mhondoro Ngezi,Tapera Simon,M,PRC,1267
-Mashonaland West,Muzvenzve,Bwanyashuro Nicholas Tererai,M,MDC-ALLIANCE,7109
+Mashonaland West,Muzvenzve,Bwanyashuro Nicholas Tererai,M,MDC-A,7109
 Mashonaland West,Muzvenzve,Chigwangwaware Rangarirai,M,MDC-T,1449
-Mashonaland West,Muzvenzve,Danda Hamlet,M,INDEPENDENT,211
+Mashonaland West,Muzvenzve,Danda Hamlet,M,IND,211
 Mashonaland West,Muzvenzve,Gendere James,M,NPF,104
 Mashonaland West,Muzvenzve,Guzura Johnsai,M,ZIPP,174
-Mashonaland West,Muzvenzve,Haritatos Vangelis Peter,M,ZANU PF,23833
+Mashonaland West,Muzvenzve,Haritatos Vangelis Peter,M,ZANU-PF,23833
 Mashonaland West,Muzvenzve,Masaba Nima,M,NGA,73
 Mashonaland West,Muzvenzve,Mashongandoro Modock,M,PRC,103
 Mashonaland West,Muzvenzve,Nyaromo Nyarai Babra,F,PDZ,144
 Mashonaland West,Norton,Cheteni Abraham,M,NPF,173
-Mashonaland West,Norton,Chigunwe Tapiwa,M,INDEPENDENT,167
-Mashonaland West,Norton,Hwerengwe Lovemore,M,MDC T,566
-Mashonaland West,Norton,Matemere Samuel,M,MDC ALLIANCE,7850
-Mashonaland West,Norton,Mliswa Temba Peter,M,INDEPENDENT,16857
+Mashonaland West,Norton,Chigunwe Tapiwa,M,IND,167
+Mashonaland West,Norton,Hwerengwe Lovemore,M,MDC-T,566
+Mashonaland West,Norton,Matemere Samuel,M,MDC-A,7850
+Mashonaland West,Norton,Mliswa Temba Peter,M,IND,16857
 Mashonaland West,Norton,Muchemwa Tendai,M,ZIPP,185
 Mashonaland West,Norton,Mudzengi Gerald Obert,M,FZC,56
-Mashonaland West,Norton,Mutsvangwa Christopher Hatikure,M,ZANU PF,4255
+Mashonaland West,Norton,Mutsvangwa Christopher Hatikure,M,ZANU-PF,4255
 Mashonaland West,Sanyati,Chabuka Simangaliso,F,NPF,122
-Mashonaland West,Sanyati,Chigoro Nathaniel,M,INDEPENDENT,257
-Mashonaland West,Sanyati,Edziwa Xaverabel,M,MDC ALLIANCE,4752
+Mashonaland West,Sanyati,Chigoro Nathaniel,M,IND,257
+Mashonaland West,Sanyati,Edziwa Xaverabel,M,MDC-A,4752
 Mashonaland West,Sanyati,Gwatinyanya Florence,F,ZIPP,109
-Mashonaland West,Sanyati,Kambamwa Polite,M,ZANU PF,12082
+Mashonaland West,Sanyati,Kambamwa Polite,M,ZANU-PF,12082
 Mashonaland West,Sanyati,Magwizi Baster,M,ZAPU,62
 Mashonaland West,Sanyati,Nyandoro Gift,M,PRC,176
-Mashonaland West,Zvimba East,Gava Gumisai Washington,M,INDEPENDENT,633
+Mashonaland West,Zvimba East,Gava Gumisai Washington,M,IND,633
 Mashonaland West,Zvimba East,Mangisani Christopher,M,ZIPP,599
 Mashonaland West,Zvimba East,Murefu Maibiri Dominic,M,NPF,275
-Mashonaland West,Zvimba East,Mhende Chester Nhamo,M,INDEPENDENT,2781
-Mashonaland West,Zvimba East,Mugari Fidelis Zvidzai,M,MDC ALLIANCE,13283
+Mashonaland West,Zvimba East,Mhende Chester Nhamo,M,IND,2781
+Mashonaland West,Zvimba East,Mugari Fidelis Zvidzai,M,MDC-A,13283
 Mashonaland West,Zvimba East,Mutsetsema Innocent Dennis,M,UDA,164
 Mashonaland West,Zvimba East,Mutumbami Robson,M,PRC,219
-Mashonaland West,Zvimba East,Tungamirayi Tawanda,M,ZANU PF,14302
-Mashonaland West,Zvimba North,Lunesu Joe Godfrey,M,MDC ALLIANCE,2032
+Mashonaland West,Zvimba East,Tungamirayi Tawanda,M,ZANU-PF,14302
+Mashonaland West,Zvimba North,Lunesu Joe Godfrey,M,MDC-A,2032
 Mashonaland West,Zvimba North,Chirimanyemba Rosejoy,F,ZIPP,447
-Mashonaland West,Zvimba North,Gonga Nosper,M,MDC T,860
+Mashonaland West,Zvimba North,Gonga Nosper,M,MDC-T,860
 Mashonaland West,Zvimba North,Matare Nobert,M,UANC,144
-Mashonaland West,Zvimba North,Chombo Marrian,F,ZANU PF,20308
-Mashonaland West,Zvimba North,Matibiri Edwin,M,INDEPENDENT,254
+Mashonaland West,Zvimba North,Chombo Marrian,F,ZANU-PF,20308
+Mashonaland West,Zvimba North,Matibiri Edwin,M,IND,254
 Mashonaland West,Zvimba North,Imbayarwo Tecla,F,PRC,249
 Mashonaland West,Zvimba North,Kembo Paul Mushonga,M,NPF,159
-Mashonaland West,Zvimba South,Chidhakwa Walter Kufakunesu,M,INDEPENDENT,4856
-Mashonaland West,Zvimba South,Chiyangwa Phillip,M,ZANU PF,11819
+Mashonaland West,Zvimba South,Chidhakwa Walter Kufakunesu,M,IND,4856
+Mashonaland West,Zvimba South,Chiyangwa Phillip,M,ZANU-PF,11819
 Mashonaland West,Zvimba South,Gombingo Walker Ishmael,M,ZIPP,240
-Mashonaland West,Zvimba South,Jamu Christopher Nyamadzawo,M,INDEPENDENT,436
-Mashonaland West,Zvimba South,Nyamadzawo Nkoswati Alloys,M,MDC ALLIANCE,3978
+Mashonaland West,Zvimba South,Jamu Christopher Nyamadzawo,M,IND,436
+Mashonaland West,Zvimba South,Nyamadzawo Nkoswati Alloys,M,MDC-A,3978
 Mashonaland West,Zvimba South,Shayamano Nelson,M,PRC,170
 Mashonaland West,Zvimba West,Chikazhe Simbarashe Edwin,M,ZIPP,332
-Mashonaland West,Zvimba West,Chitehwe Francis Tichaona,M,INDEPENDENT,818
+Mashonaland West,Zvimba West,Chitehwe Francis Tichaona,M,IND,818
 Mashonaland West,Zvimba West,Gombe Donemore,M,NPF,1936
 Mashonaland West,Zvimba West,Katandika Jeniffer,F,BZA,105
 Mashonaland West,Zvimba West,Mapanje Ecock,M,ZDU,64
-Mashonaland West,Zvimba West,Mareverwa Elvis,M,INDEPENDENT,203
-Mashonaland West,Zvimba West,Maoza Lovejoy,M,INDEPENDENT,991
-Mashonaland West,Zvimba West,Mbaimbai Ephraim,M,MDC ALLIANCE,2228
-Mashonaland West,Zvimba West,Tanyanyiwa Mekia,M,INDEPENDENT,3669
+Mashonaland West,Zvimba West,Mareverwa Elvis,M,IND,203
+Mashonaland West,Zvimba West,Maoza Lovejoy,M,IND,991
+Mashonaland West,Zvimba West,Mbaimbai Ephraim,M,MDC-A,2228
+Mashonaland West,Zvimba West,Tanyanyiwa Mekia,M,IND,3669
 Mashonaland West,Zvimba West,Zinyakatira Maxwell,M,PRC,155
-Mashonaland West,Zvimba West,Ziyambi Ziyambi,M,ZANU PF,6902
-Masvingo,Bikita East,Madhuku Johnson,M,ZANU PF,10261
-Masvingo,Bikita East,Mudzingwa Bornface,M,MDC-Alliance,8542
-Masvingo,Bikita East,Ngarivhume Jacob Chengedzeni Satiya,M,MDC-Alliance,638
+Mashonaland West,Zvimba West,Ziyambi Ziyambi,M,ZANU-PF,6902
+Masvingo,Bikita East,Madhuku Johnson,M,ZANU-PF,10261
+Masvingo,Bikita East,Mudzingwa Bornface,M,MDC-A,8542
+Masvingo,Bikita East,Ngarivhume Jacob Chengedzeni Satiya,M,MDC-A,638
 Masvingo,Bikita East,Rambe Ernest,M,NCA,76
-Masvingo,Bikita South,Jaboon Jeppy,M,MDC-Alliance,3587
-Masvingo,Bikita South,Mukatawa Tawanda,M,MDC T,792
+Masvingo,Bikita South,Jaboon Jeppy,M,MDC-A,3587
+Masvingo,Bikita South,Mukatawa Tawanda,M,MDC-T,792
 Masvingo,Bikita South,Mukuwe Robert,M,PRC,342
-Masvingo,Bikita South,Nyajena Charles,M,Independent,1815
-Masvingo,Bikita South,Sithole Josiah,M,ZANU PF,10559
+Masvingo,Bikita South,Nyajena Charles,M,IND,1815
+Masvingo,Bikita South,Sithole Josiah,M,ZANU-PF,10559
 Masvingo,Bikita South,Ziki Dennis Anyway,M,NCA,88
-Masvingo,Bikita West,Bhadharai Kudakwashe,M,MDC-ALLIANCE,7409
+Masvingo,Bikita West,Bhadharai Kudakwashe,M,MDC-A,7409
 Masvingo,Bikita West,Chivasa Madock Tatirai,M,NCA,463
-Masvingo,Bikita West,Katema Benjamin,M,MDC T,592
-Masvingo,Bikita West,Musakwa Elia,M,ZANU PF,12991
-Masvingo,Chiredzi East,Makuni Sure,M,MDC ALLIANCE,3889
-Masvingo,Chiredzi East,Masiya Denford,M,ZANU PF,11052
-Masvingo,Chiredzi North,Bhilla Royi,M,ZANU PF,35893
+Masvingo,Bikita West,Katema Benjamin,M,MDC-T,592
+Masvingo,Bikita West,Musakwa Elia,M,ZANU-PF,12991
+Masvingo,Chiredzi East,Makuni Sure,M,MDC-A,3889
+Masvingo,Chiredzi East,Masiya Denford,M,ZANU-PF,11052
+Masvingo,Chiredzi North,Bhilla Royi,M,ZANU-PF,35893
 Masvingo,Chiredzi North,Chiturumani Joseph,M,NPF,1291
 Masvingo,Chiredzi North,Machiva Faith,F,ZIPP,635
-Masvingo,Chiredzi South,Chinhavi Jephias,M,Independent,780
-Masvingo,Chiredzi South,Gwanetsa Kalisto Killion,M,ZANU PF,9710
-Masvingo,Chiredzi South,Shumba Sithembinkosi,M,MDC T,431
-Masvingo,Chiredzi South,Tsumele Patrick,M,MDC-Alliance,1936
-Masvingo,Chiredzi West,Baloyi Simbarashe,M,INDEPENDENT,2493
-Masvingo,Chiredzi West,Bhebhe Livison,M,INDEPENDENT,335
-Masvingo,Chiredzi West,Chiwa Darlington,M,INDEPENDENT,2361
+Masvingo,Chiredzi South,Chinhavi Jephias,M,IND,780
+Masvingo,Chiredzi South,Gwanetsa Kalisto Killion,M,ZANU-PF,9710
+Masvingo,Chiredzi South,Shumba Sithembinkosi,M,MDC-T,431
+Masvingo,Chiredzi South,Tsumele Patrick,M,MDC-A,1936
+Masvingo,Chiredzi West,Baloyi Simbarashe,M,IND,2493
+Masvingo,Chiredzi West,Bhebhe Livison,M,IND,335
+Masvingo,Chiredzi West,Chiwa Darlington,M,IND,2361
 Masvingo,Chiredzi West,Majekwana Fungisai,F,ZIPP,220
 Masvingo,Chiredzi West,Makonese Samson Alphonce,M,NPF,259
-Masvingo,Chiredzi West,Manganye John,M,INDEPENDENT,890
-Masvingo,Chiredzi West,Musikavanhu Dumo Augustine,M,ZANU PF,15759
-Masvingo,Chiredzi West,Temba Stanley,M,MDC ALLIANCE,10508
-Masvingo,Chivi Central,Chinjakanja Joseph,M,MDC T,892
-Masvingo,Chivi Central,Chivhanga Henry,M,MDC-Alliance,4694
-Masvingo,Chivi Central,Gwanongodza Ephraim,M,ZANU PF,14186
+Masvingo,Chiredzi West,Manganye John,M,IND,890
+Masvingo,Chiredzi West,Musikavanhu Dumo Augustine,M,ZANU-PF,15759
+Masvingo,Chiredzi West,Temba Stanley,M,MDC-A,10508
+Masvingo,Chivi Central,Chinjakanja Joseph,M,MDC-T,892
+Masvingo,Chivi Central,Chivhanga Henry,M,MDC-A,4694
+Masvingo,Chivi Central,Gwanongodza Ephraim,M,ZANU-PF,14186
 Masvingo,Chivi Central,Mbangure Clophas,M,ZIPP,214
 Masvingo,Chivi Central,Mbenganai Esau,M,NCA,90
-Masvingo,Chivi Central,Sharara Brighton,M,PEOPLE'S RAINBOW COALITION,194
-Masvingo,Chivi North,Mapipi Dickson,M,MDC-Alliance,4905
+Masvingo,Chivi Central,Sharara Brighton,M,PRCOPP,194
+Masvingo,Chivi North,Mapipi Dickson,M,MDC-A,4905
 Masvingo,Chivi North,Mudzivo Owen,M,PRZ,494
 Masvingo,Chivi North,Tongofa Mathias,M,ZANU-PF,10627
-Masvingo,Chivi South,Dzingirai Ivene,M,Independent,1823
+Masvingo,Chivi South,Dzingirai Ivene,M,IND,1823
 Masvingo,Chivi South,Madzimure Tarisai,F,PRC,226
 Masvingo,Chivi South,Malunguza Sharon,F,RPZ,184
-Masvingo,Chivi South,Mhlolo Paul Thompson,M,MDC Alliance,3312
-Masvingo,Chivi South,Zivhu Killer,M,ZANU PF,13330
+Masvingo,Chivi South,Mhlolo Paul Thompson,M,MDC-A,3312
+Masvingo,Chivi South,Zivhu Killer,M,ZANU-PF,13330
 Masvingo,Chivi South,Zizhou Togarepi,M,ZIPP,248
-Masvingo,Gutu Central,Bikoloni Shillah,F,Build Zimbabwe Alliance,128
-Masvingo,Gutu Central,Chitando Wiston,M,ZANU PF,11496
+Masvingo,Gutu Central,Bikoloni Shillah,F,BZA,128
+Masvingo,Gutu Central,Chitando Wiston,M,ZANU-PF,11496
 Masvingo,Gutu Central,Mafuratidze Last,M,PRC,163
-Masvingo,Gutu Central,Mandigo Enerst,M,MDC-Alliance,3805
-Masvingo,Gutu Central,Musoni Crispa Zvovuno,M,MDC-Alliance,1048
-Masvingo,Gutu Central,Rugwaro Pias,M,MDC T,14
-Masvingo,Gutu East,Chikwama Berta,F,ZANU PF,7203
-Masvingo,Gutu East,Chirume Kuraoga Godfrey,M,MDC T,1045
-Masvingo,Gutu East,Marwiza Jackson,M,MDC-Alliance,5020
-Masvingo,Gutu North,Manyere Juniel,M,MDC-Alliance,3278
+Masvingo,Gutu Central,Mandigo Enerst,M,MDC-A,3805
+Masvingo,Gutu Central,Musoni Crispa Zvovuno,M,MDC-A,1048
+Masvingo,Gutu Central,Rugwaro Pias,M,MDC-T,14
+Masvingo,Gutu East,Chikwama Berta,F,ZANU-PF,7203
+Masvingo,Gutu East,Chirume Kuraoga Godfrey,M,MDC-T,1045
+Masvingo,Gutu East,Marwiza Jackson,M,MDC-A,5020
+Masvingo,Gutu North,Manyere Juniel,M,MDC-A,3278
 Masvingo,Gutu North,Wakurawarerwa Jonah,M,MDC-T,436
-Masvingo,Gutu North,Simbanegavi Yeukai,M,ZANU PF,8080
+Masvingo,Gutu North,Simbanegavi Yeukai,M,ZANU-PF,8080
 Masvingo,Gutu South,Mudzamiri Thomas,M,NCA,224
-Masvingo,Gutu South,Musendekwa Eriam,M,MDC-Alliance,6052
-Masvingo,Gutu South,Mutero Fanuel,M,MDC T,259
-Masvingo,Gutu South,Shayanowako Brighton,M,UNITED PARTY ZIMBABWE,72
-Masvingo,Gutu South,Togarepi Pupurai,M,ZANU PF,7938
-Masvingo,Gutu South,Tome Edward,M,BUILD ZIMBABWE ALLIANCE,95
-Masvingo,Gutu West,Chinama Tauya,M,PEOPLE'S RAINBOW COALITION,442
-Masvingo,Gutu West,Manguma Stanley,M,MDC-Alliance,2998
-Masvingo,Gutu West,Mupini Knowledge,M,MDC-Alliance,536
-Masvingo,Gutu West,Paradza John,M,ZANU PF,14139
-Masvingo,Masvingo Central,Jeko Ishmael,M,INDEPENDENT,950
+Masvingo,Gutu South,Musendekwa Eriam,M,MDC-A,6052
+Masvingo,Gutu South,Mutero Fanuel,M,MDC-T,259
+Masvingo,Gutu South,Shayanowako Brighton,M,UPZ,72
+Masvingo,Gutu South,Togarepi Pupurai,M,ZANU-PF,7938
+Masvingo,Gutu South,Tome Edward,M,BZA,95
+Masvingo,Gutu West,Chinama Tauya,M,PRCOPP,442
+Masvingo,Gutu West,Manguma Stanley,M,MDC-A,2998
+Masvingo,Gutu West,Mupini Knowledge,M,MDC-A,536
+Masvingo,Gutu West,Paradza John,M,ZANU-PF,14139
+Masvingo,Masvingo Central,Jeko Ishmael,M,IND,950
 Masvingo,Masvingo Central,Mavhaire Moses Tinashe,M,PRC,689
 Masvingo,Masvingo Central,Mazorodze Garikai,M,UDA,169
-Masvingo,Masvingo Central,Mhere Edmond,M,ZANU PF,8152
+Masvingo,Masvingo Central,Mhere Edmond,M,ZANU-PF,8152
 Masvingo,Masvingo Central,Pazorora Ranganai,M,BZA,592
-Masvingo,Masvingo Central,Manhazu Innocent,M,MDC-ALLIANCE,4709
+Masvingo,Masvingo Central,Manhazu Innocent,M,MDC-A,4709
 Masvingo,Masvingo North,Bgwende Tanaka Last,M,PRC,348
 Masvingo,Masvingo North,Chigome Stanley,M,RPZ,251
-Masvingo,Masvingo North,Chinhema Emily,F,MDC T,654
+Masvingo,Masvingo North,Chinhema Emily,F,MDC-T,654
 Masvingo,Masvingo North,Makwara Pepukai Martin,M,ZIPP,221
-Masvingo,Masvingo North,Marapira Davison,M,ZANU PF,11906
-Masvingo,Masvingo North,Masocha Progress,M,MDC-Alliance,3355
+Masvingo,Masvingo North,Marapira Davison,M,ZANU-PF,11906
+Masvingo,Masvingo North,Masocha Progress,M,MDC-A,3355
 Masvingo,Masvingo North,Muchuchuti Fortune,M,UDA,49
-Masvingo,Masvingo North,Mudzikisi Jerry Pascal,M,Independent,2442
-Masvingo,Masvingo South,Haruchenjerwi Action,M,Independent,815
+Masvingo,Masvingo North,Mudzikisi Jerry Pascal,M,IND,2442
+Masvingo,Masvingo South,Haruchenjerwi Action,M,IND,815
 Masvingo,Masvingo South,Mabvuure Knowledge,M,BZA,500
-Masvingo,Masvingo South,Makota Justin,M,MDC-Alliance,2353
-Masvingo,Masvingo South,Maronge Claudios,M,ZANU PF,9228
-Masvingo,Masvingo South,Matongo Lovemore,M,MDC-Alliance,1443
+Masvingo,Masvingo South,Makota Justin,M,MDC-A,2353
+Masvingo,Masvingo South,Maronge Claudios,M,ZANU-PF,9228
+Masvingo,Masvingo South,Matongo Lovemore,M,MDC-A,1443
 Masvingo,Masvingo South,Mavhaire Tawanda Lawrence,M,PRC,2545
 Masvingo,Masvingo South,Senda Simon,M,UDA,141
-Masvingo,Masvingo Urban,Chapfudza Sam,M,Independent,2009
-Masvingo,Masvingo Urban,Chevure Lovemore,M,United Democratic Alliance,316
-Masvingo,Masvingo Urban,Makaranga Hellen,F,PPPZ,89
-Masvingo,Masvingo Urban,Mazarire Taguma Benjamin,M,ZANU PF,12637
-Masvingo,Masvingo Urban,Munhuweyi Phillip Nyeberah,M,MDC T,2051
+Masvingo,Masvingo Urban,Chapfudza Sam,M,IND,2009
+Masvingo,Masvingo Urban,Chevure Lovemore,M,UDA,316
+Masvingo,Masvingo Urban,Makaranga Hellen,F,PPP,89
+Masvingo,Masvingo Urban,Mazarire Taguma Benjamin,M,ZANU-PF,12637
+Masvingo,Masvingo Urban,Munhuweyi Phillip Nyeberah,M,MDC-T,2051
 Masvingo,Masvingo Urban,Nyakurita Francis Samuel,M,PRC,162
-Masvingo,Masvingo Urban,Nyashanu Paul,M,Independent,107
-Masvingo,Masvingo Urban,Nyokanhete Jacob,M,MDC-Alliance,17451
+Masvingo,Masvingo Urban,Nyashanu Paul,M,IND,107
+Masvingo,Masvingo Urban,Nyokanhete Jacob,M,MDC-A,17451
 Masvingo,Masvingo Urban,Taderera Michael,M,NPF,196
-Masvingo,Masvingo West,Chadzamira Ruvai Ezra,M,ZANU PF,9212
-Masvingo,Masvingo West,Madzivire Rosiwita,F,MDC-Alliance,4694
+Masvingo,Masvingo West,Chadzamira Ruvai Ezra,M,ZANU-PF,9212
+Masvingo,Masvingo West,Madzivire Rosiwita,F,MDC-A,4694
 Masvingo,Masvingo West,Makusha Henry,M,PRC,290
-Masvingo,Masvingo West,Masvosvere Thomas,M,MDC T,879
-Masvingo,Masvingo West,Mharadza Tachiona,M,Independent,887
-Masvingo,Masvingo West,Mutarisi Daniel,M,Independent,231
+Masvingo,Masvingo West,Masvosvere Thomas,M,MDC-T,879
+Masvingo,Masvingo West,Mharadza Tachiona,M,IND,887
+Masvingo,Masvingo West,Mutarisi Daniel,M,IND,231
 Masvingo,Masvingo West,Shiri Abraham,M,MRP,77
-Masvingo,Mwenezi East,Bhasikiti-Chuma Kudakwashe,M,MDC-Alliance,3574
-Masvingo,Mwenezi East,Omar Joosbi,M,ZANU PF,22926
+Masvingo,Mwenezi East,Bhasikiti-Chuma Kudakwashe,M,MDC-A,3574
+Masvingo,Mwenezi East,Omar Joosbi,M,ZANU-PF,22926
 Masvingo,Mwenezi East,Mashora Josiya,M,ZIPP,511
-Masvingo,Mwenezi East,Mhango Turner,M,FreeZim Congress,317
-Masvingo,Mwenezi West,Dube Isau,M,Independent,544
-Masvingo,Mwenezi West,Hungwe Amos,M,MDC-Alliance,1312
-Masvingo,Mwenezi West,Moyo Priscilla,F,ZANU PF,23778
+Masvingo,Mwenezi East,Mhango Turner,M,FZC,317
+Masvingo,Mwenezi West,Dube Isau,M,IND,544
+Masvingo,Mwenezi West,Hungwe Amos,M,MDC-A,1312
+Masvingo,Mwenezi West,Moyo Priscilla,F,ZANU-PF,23778
 Masvingo,Mwenezi West,Zoto Tafadzwa,M,RPZ,243
-Masvingo,Zaka Central,Chapfidza Jefry,M,Build ZimbabweAlliance,421
-Masvingo,Zaka Central,Chinoputsa Lovemore,M,MDC-Alliance,6940
+Masvingo,Zaka Central,Chapfidza Jefry,M,BZA,421
+Masvingo,Zaka Central,Chinoputsa Lovemore,M,MDC-A,6940
 Masvingo,Zaka Central,Mangoyo Evelyn,F,PRC,140
-Masvingo,Zaka Central,Svuure Davison,M,ZANU PF,11784
+Masvingo,Zaka Central,Svuure Davison,M,ZANU-PF,11784
 Masvingo,Zaka East,Chavarika Clemence,M,NCA,280
-Masvingo,Zaka East,Gumbi James,M,MDC-Alliance,3804
-Masvingo,Zaka East,Gumbwanda Katson Ringirisai,M,ZANU PF,8855
+Masvingo,Zaka East,Gumbi James,M,MDC-A,3804
+Masvingo,Zaka East,Gumbwanda Katson Ringirisai,M,ZANU-PF,8855
 Masvingo,Zaka East,Ngirivani Tavengwa,M,PRC,165
 Masvingo,Zaka East,Nyuni Patrick,M,ZIPP,77
 Masvingo,Zaka North,Darikayi Naboth,M,PRC,455
-Masvingo,Zaka North,Mahenga Herbert Tinashe,M,Independent,259
-Masvingo,Zaka North,Mavenyengwa Robson,M,ZANU PF,10570
-Masvingo,Zaka North,Mupindu Simon,M,MDC-Alliance,5508
+Masvingo,Zaka North,Mahenga Herbert Tinashe,M,IND,259
+Masvingo,Zaka North,Mavenyengwa Robson,M,ZANU-PF,10570
+Masvingo,Zaka North,Mupindu Simon,M,MDC-A,5508
 Masvingo,Zaka North,Mutimhairi Modrack,M,UDA,118
-Masvingo,Zaka North,Peter John,M,MDC T,307
-Masvingo,Zaka North,Riekert Phionah,F,National Patriotic Front,1017
+Masvingo,Zaka North,Peter John,M,MDC-T,307
+Masvingo,Zaka North,Riekert Phionah,F,NPF,1017
 Masvingo,Zaka North,Toruvanda Prichard,M,ZIPP,124
-Masvingo,Zaka West,Dumbu Festus,M,MDC-Alliance,3267
+Masvingo,Zaka West,Dumbu Festus,M,MDC-A,3267
 Masvingo,Zaka West,Jasi Happyson,M,ZIPP,233
 Masvingo,Zaka West,Mahlekete Peter,M,PRC,311
-Masvingo,Zaka West,Mugari Elvis,M,National Patriotic Front,91
-Masvingo,Zaka West,Murambiwa Ophias,M,ZANU PF,8481
-Masvingo,Zaka West,Zivenge William,M,MDC-Alliance,465
+Masvingo,Zaka West,Mugari Elvis,M,NPF,91
+Masvingo,Zaka West,Murambiwa Ophias,M,ZANU-PF,8481
+Masvingo,Zaka West,Zivenge William,M,MDC-A,465
 Matabeleland North,Binga North,Mudenda Cephas Siangoma,M,ZANU-PF,7751
 Matabeleland North,Binga North,Mudimba Jessie,F,PRC,621
 Matabeleland North,Binga North,Munkuli Funwell,M,NCA,403
 Matabeleland North,Binga North,Muntanga Robert Baggio,M,ZIPP,384
 Matabeleland North,Binga North,Mwembe Peter,M,NPF,191
-Matabeleland North,Binga North,Siampuwo Robert,M,INDEPENDENT,133
+Matabeleland North,Binga North,Siampuwo Robert,M,IND,133
 Matabeleland North,Binga North,Sibanda Dubeko Prince,M,MDC-A,18428
-Matabeleland North,Binga South,Chumanzala Fanuel,M,INDEPENDENT,7390
-Matabeleland North,Binga South,Gabbuza Joel Gabuza,M,MDC-ALLIANCE,10357
+Matabeleland North,Binga South,Chumanzala Fanuel,M,IND,7390
+Matabeleland North,Binga South,Gabbuza Joel Gabuza,M,MDC-A,10357
 Matabeleland North,Binga South,Kamombo Tobias,M,PRC,262
 Matabeleland North,Binga South,Mpande Mcabango,M,APA,265
 Matabeleland North,Binga South,Mudenda Mackson,M,ZANU-PF,6511
@@ -1234,8 +1234,8 @@ Matabeleland North,Bubi,Gumede Zenzele,F,MRP,413
 Matabeleland North,Bubi,Mathambo Cecil,M,NPF,627
 Matabeleland North,Bubi,Mguni Sonny Key,M,ZANU-PF,16214
 Matabeleland North,Bubi,Mlotshwa Thabani,M,ZAPU,413
-Matabeleland North,Bubi,Moyo Dumisani,M,MDC-ALLIANCE,5819
-Matabeleland North,Bubi,Mpofu Vuyile Jamela,M,INDEPENDENT,244
+Matabeleland North,Bubi,Moyo Dumisani,M,MDC-A,5819
+Matabeleland North,Bubi,Mpofu Vuyile Jamela,M,IND,244
 Matabeleland North,Bubi,Muyambi Sydney,M,ZIPP,193
 Matabeleland North,Bubi,Ncube Mark Harold,M,MDC-T,2218
 Matabeleland North,Bubi,Nkomo Zakha,M,PRC,175
@@ -1243,9 +1243,9 @@ Matabeleland North,Hwange Central,Chitambira Charles,M,NCA,268
 Matabeleland North,Hwange Central,Dube Reeds,M,ZANU-PF,5063
 Matabeleland North,Hwange Central,Kativu Shadreck Goliath,M,ZIPP,502
 Matabeleland North,Hwange Central,Kwidini Michael Bale,M,PRC,142
-Matabeleland North,Hwange Central,Molokela-Tsiye Fortune Daniel,M,MDC-ALLIANCE,15702
+Matabeleland North,Hwange Central,Molokela-Tsiye Fortune Daniel,M,MDC-A,15702
 Matabeleland North,Hwange Central,Moyo Luzibo,M,ZDU,80
-Matabeleland North,Hwange Central,Mudenda Moses,M,INDEPENDENT,72
+Matabeleland North,Hwange Central,Mudenda Moses,M,IND,72
 Matabeleland North,Hwange Central,Muzamba Sam,M,MDC-T,995
 Matabeleland North,Hwange Central,Nkole Tafara,M,CODE,44
 Matabeleland North,Hwange Central,Nkomazana Salani,M,PRC,57
@@ -1257,11 +1257,11 @@ Matabeleland North,Hwange East,Mhlanga Ackim,M,MRP,223
 Matabeleland North,Hwange East,Mpofu Fati,M,ZANU-PF,4972
 Matabeleland North,Hwange East,Muzamba Richard,M,UDF,140
 Matabeleland North,Hwange East,Ncube Ndlelende,M,NPF,135
-Matabeleland North,Hwange East,Sansole Tose Wesley,M,MDC-ALLIANCE,8648
+Matabeleland North,Hwange East,Sansole Tose Wesley,M,MDC-A,8648
 Matabeleland North,Hwange East,Sibanda Mangaliso Gibson,M,RPZ,56
-Matabeleland North,Hwange East,Sikuka Alois Sundani,M,INDEPENDENT,2793
+Matabeleland North,Hwange East,Sikuka Alois Sundani,M,IND,2793
 Matabeleland North,Hwange West,Bimha Tadiwanashe Moses,M,NCA,245
-Matabeleland North,Hwange West,Dube Godfrey,M,MDC-ALLIANCE,11580
+Matabeleland North,Hwange West,Dube Godfrey,M,MDC-A,11580
 Matabeleland North,Hwange West,Dube Morgan,M,MDC-T,2944
 Matabeleland North,Hwange West,Jiyane Nkosilathi,M,ZANU-PF,7428
 Matabeleland North,Hwange West,Mpofu Paul,M,CODE,103
@@ -1272,10 +1272,10 @@ Matabeleland North,Hwange West,Nkomo Nhlanganiso,M,MRP,1481
 Matabeleland North,Hwange West,Nyoni Salvation,M,ZIPP,140
 Matabeleland North,Lupane East,Bhebhe Majoni,M,RPZ,272
 Matabeleland North,Lupane East,Gumbo Sithembile,F,ZANU-PF,7875
-Matabeleland North,Lupane East,Khumalo Dalumuzi,M,MDC-ALLIANCE,5791
+Matabeleland North,Lupane East,Khumalo Dalumuzi,M,MDC-A,5791
 Matabeleland North,Lupane East,Khumalo Kletus,M,ZRDP,215
 Matabeleland North,Lupane East,Khumalo Mlungisi,M,MRP,269
-Matabeleland North,Lupane East,Mkandla Nelson Bhekihlalo,M,NATIONAL ACTION PARTY,151
+Matabeleland North,Lupane East,Mkandla Nelson Bhekihlalo,M,NAP,151
 Matabeleland North,Lupane East,Mkwebu Gezekile,M,ZAPU,161
 Matabeleland North,Lupane East,Mvanya Bright,M,PRC,402
 Matabeleland North,Lupane East,Ncube Given,M,MDC-T,759
@@ -1291,18 +1291,18 @@ Matabeleland North,Lupane West,Mpofu Neru,M,RPZ,53
 Matabeleland North,Lupane West,Ncube Benny,M,ZAPU,287
 Matabeleland North,Lupane West,Ndlovu Casper,M,MRP,186
 Matabeleland North,Lupane West,Ndlovu Philani,M,MDC-T,1426
-Matabeleland North,Lupane West,Sibanda Mxolisi Charles,M,MDC-ALLIANCE,5341
+Matabeleland North,Lupane West,Sibanda Mxolisi Charles,M,MDC-A,5341
 Matabeleland North,Nkayi North,Mangena Khabani Collen,M,MRP,88
 Matabeleland North,Nkayi North,Ncube Leadership,M,NAP,116
-Matabeleland North,Nkayi North,Nyoni Sithembiso  G. G.,F,ZANU-PF,8695
+Matabeleland North,Nkayi North,Nyoni Sithembiso G. G.,F,ZANU-PF,8695
 Matabeleland North,Nkayi North,Ndhlovu Mxolisi,M,RPZ,134
 Matabeleland North,Nkayi North,Ndlovu Chief,M,MDC-T,6097
 Matabeleland North,Nkayi North,Ndlovu Lameck,M,PRC,206
-Matabeleland North,Nkayi North,Sibanda Fiso,M,MDC-ALLIANCE,1507
+Matabeleland North,Nkayi North,Sibanda Fiso,M,MDC-A,1507
 Matabeleland North,Nkayi North,Sitsha Micha,M,ZRDP,123
 Matabeleland North,Nkayi North,Waison Innocent,M,ZIPP,75
 Matabeleland North,Nkayi South,Bhebhe Abednico,M,MDC-T,3923
-Matabeleland North,Nkayi South,Hadebe Jabulani,M,MDC-ALLIANCE,6647
+Matabeleland North,Nkayi South,Hadebe Jabulani,M,MDC-A,6647
 Matabeleland North,Nkayi South,Mathe Stars,F,ZANU-PF,7312
 Matabeleland North,Nkayi South,Mkandla Nomvelo,F,ZRDP,114
 Matabeleland North,Nkayi South,Mpofu Marshall,M,ZAPU,323
@@ -1313,68 +1313,68 @@ Matabeleland North,Nkayi South,Ncube Kufakwezwe,M,NPF,92
 Matabeleland North,Nkayi South,Ncube Mkhokheli,M,ZDU,145
 Matabeleland North,Nkayi South,Nyoni Lovejoy,M,RPZ,97
 Matabeleland North,Tsholotsho North,Khumalo Sibangumuzi Sixtone,M,ZANU-PF,7107
-Matabeleland North,Tsholotsho North,Khumalo Witness,M,MDC-ALLIANCE,4857
+Matabeleland North,Tsholotsho North,Khumalo Witness,M,MDC-A,4857
 Matabeleland North,Tsholotsho North,Mahonondo Colbert,M,ANSA,92
 Matabeleland North,Tsholotsho North,Moyo Khumbulani,M,MRP,188
 Matabeleland North,Tsholotsho North,Ncube Mthokozisi,M,ZIPP,82
 Matabeleland North,Tsholotsho North,Ndlovu Allan,M,NPF,117
-Matabeleland North,Tsholotsho North,Ndlovu Rophas,M,INDEPENDENT,496
+Matabeleland North,Tsholotsho North,Ndlovu Rophas,M,IND,496
 Matabeleland North,Tsholotsho North,Nkomo Roselene,F,PRC,336
 Matabeleland North,Tsholotsho North,Sibanda Mehluli,M,UDA,57
 Matabeleland North,Tsholotsho North,Sibanda Mlungisi Michael,M,MDC-T,425
 Matabeleland North,Tsholotsho North,Sikosana Hebert Mabunu,M,ZAPU,151
 Matabeleland North,Tsholotsho South,Dube Maxwell,M,MDC-T,1628
 Matabeleland North,Tsholotsho South,Mathe Thamusanqo,M,ZIPP,254
-Matabeleland North,Tsholotsho South,Matshazi Lawrence Hastings,M,INDEPENDENT,1540
+Matabeleland North,Tsholotsho South,Matshazi Lawrence Hastings,M,IND,1540
 Matabeleland North,Tsholotsho South,Mlingo Mthabisi,M,ZAPU,486
 Matabeleland North,Tsholotsho South,Moyo Bongani,M,ZDU,122
-Matabeleland North,Tsholotsho South,Ndlovu Colin,M,INDEPENDENT,137
+Matabeleland North,Tsholotsho South,Ndlovu Colin,M,IND,137
 Matabeleland North,Tsholotsho South,Nkomo Edward,M,NPF,167
-Matabeleland North,Tsholotsho South,Nkomo Innocent Zenzo,M,MDC-ALLIANCE,2508
+Matabeleland North,Tsholotsho South,Nkomo Innocent Zenzo,M,MDC-A,2508
 Matabeleland North,Tsholotsho South,Nyathi Majaha,M,RPZ,73
-Matabeleland North,Tsholotsho South,Sibanda Zenzo,M,ZANU PF,8283
+Matabeleland North,Tsholotsho South,Sibanda Zenzo,M,ZANU-PF,8283
 Matabeleland North,Tsholotsho South,Sebele Sithithibele,F,PRC,131
 Matabeleland North,Umguza,Ncube Khumbulani,M,DOP,99
-Matabeleland North,Umguza,Kwembeya Selwin Angirayi,M,FREE ZIM CONGRESS PARTY,367
+Matabeleland North,Umguza,Kwembeya Selwin Angirayi,M,FZC,367
 Matabeleland North,Umguza,Maliga Queen,F,PRC,354
 Matabeleland North,Umguza,Mashonganyika Mark Erikias,M,MDC-T,2344
 Matabeleland North,Umguza,Mbaiwa Mark,M,ZAPU,624
 Matabeleland North,Umguza,Melasi Robson,M,NPF,113
 Matabeleland North,Umguza,Moyo Richard,M,ZANU-PF,15331
 Matabeleland North,Umguza,Ncube Forgiveness,M,MRP,334
-Matabeleland North,Umguza,Ncube Winston M.,M,INDEPENDENT,102
-Matabeleland North,Umguza,Nkomo Senzo,M,MDC-ALLIANCE,6653
-Matabeleland North,Umguza,Nyoni Nomuhle,F,INDEPENDENT,176
-Matabeleland North,Umguza,Wolfenden Stanely,M,INDEPENDENT,136
-Matabeleland South,Beitbridge East,Mbedzi Handsome,M,INDEPENDENT,1148
-Matabeleland South,Beitbridge East,Ndlovu Patricia,F,MDC ALLIANCE,11495
+Matabeleland North,Umguza,Ncube Winston M.,M,IND,102
+Matabeleland North,Umguza,Nkomo Senzo,M,MDC-A,6653
+Matabeleland North,Umguza,Nyoni Nomuhle,F,IND,176
+Matabeleland North,Umguza,Wolfenden Stanely,M,IND,136
+Matabeleland South,Beitbridge East,Mbedzi Handsome,M,IND,1148
+Matabeleland South,Beitbridge East,Ndlovu Patricia,F,MDC-A,11495
 Matabeleland South,Beitbridge East,Ndou Johane,M,PRC,795
-Matabeleland South,Beitbridge East,Nguluvhe Albert,M,ZANU PF,13949
-Matabeleland South,Beitbridge West,Maboyi Ruth Mavhungu,F,ZANU PF,8421
-Matabeleland South,Beitbridge West,Ndlovu Ronald,M,FREE ZIM CONGRESS,357
+Matabeleland South,Beitbridge East,Nguluvhe Albert,M,ZANU-PF,13949
+Matabeleland South,Beitbridge West,Maboyi Ruth Mavhungu,F,ZANU-PF,8421
+Matabeleland South,Beitbridge West,Ndlovu Ronald,M,FZC,357
 Matabeleland South,Beitbridge West,Ndou Moffat Cephas,M,PRC,1033
 Matabeleland South,Beitbridge West,Sibanda Brighton Ithuteng,M,MRP,205
-Matabeleland South,Beitbridge West,Singo Enock,M,MDC-ALLIANCE,2883
-Matabeleland South,Bulilima East,Maplanka Bekezela,F,MDC T,855
-Matabeleland South,Bulilima East,Moyo Solani,M,MDC ALLIANCE,4801
+Matabeleland South,Beitbridge West,Singo Enock,M,MDC-A,2883
+Matabeleland South,Bulilima East,Maplanka Bekezela,F,MDC-T,855
+Matabeleland South,Bulilima East,Moyo Solani,M,MDC-A,4801
 Matabeleland South,Bulilima East,Moyo Vicent,M,UMD,256
-Matabeleland South,Bulilima East,Mpofu Norman,M,INDEPENDENT,357
-Matabeleland South,Bulilima East,Ndhlovu Nqobizitha Mangaliso,M,ZANU PF,7657
+Matabeleland South,Bulilima East,Mpofu Norman,M,IND,357
+Matabeleland South,Bulilima East,Ndhlovu Nqobizitha Mangaliso,M,ZANU-PF,7657
 Matabeleland South,Bulilima East,Ndlovu Enerst Msongelwa,M,ZAPU,207
 Matabeleland South,Bulilima East,Ndlovu Herod,M,MRP,156
 Matabeleland South,Bulilima East,Ndlovu Mzila Moses,M,ANSA,131
-Matabeleland South,Bulilima East,Ndlovu Washington,M,INDEPENDENT,165
+Matabeleland South,Bulilima East,Ndlovu Washington,M,IND,165
 Matabeleland South,Bulilima West,Khupe Lungisani,M,MRP,410
-Matabeleland South,Bulilima West,Moyo Aleck,M,MDC T,1312
+Matabeleland South,Bulilima West,Moyo Aleck,M,MDC-T,1312
 Matabeleland South,Bulilima West,Ndlovu Artwell,M,ZAPU,352
 Matabeleland South,Bulilima West,Nleya Pepetual Nomcebo,F,ANSA,205
-Matabeleland South,Bulilima West,Phuti Dingumuzi,M,ZANU PF,6984
-Matabeleland South,Bulilima West,Tshuma Mduduzi,M,MDC ALLIANCE,3504
-Matabeleland South,Gwanda Central,Dube Patrick,ND,MDC-ALLIANCE,10390
+Matabeleland South,Bulilima West,Phuti Dingumuzi,M,ZANU-PF,6984
+Matabeleland South,Bulilima West,Tshuma Mduduzi,M,MDC-A,3504
+Matabeleland South,Gwanda Central,Dube Patrick,ND,MDC-A,10390
 Matabeleland South,Gwanda Central,Gumbo Edison,ND,ZANU-PF,9460
 Matabeleland South,Gwanda Central,Langa Jackson,ND,ZIPP,162
-Matabeleland South,Gwanda Central,Mkwananzi Butholezwe,ND,INDEPENDENT,287
-Matabeleland South,Gwanda Central,Mkandla Thandeko,ND,INDEPENDENT,370
+Matabeleland South,Gwanda Central,Mkwananzi Butholezwe,ND,IND,287
+Matabeleland South,Gwanda Central,Mkandla Thandeko,ND,IND,370
 Matabeleland South,Gwanda Central,Nare Mpiyezwe,ND,MDC-T,1140
 Matabeleland South,Gwanda Central,Ndlovu Brian,ND,PRC,75
 Matabeleland South,Gwanda Central,Ngubo Tshiyane,ND,RPZ,100
@@ -1383,241 +1383,241 @@ Matabeleland South,Gwanda Central,Nkala Cannicious,ND,ZAPU,320
 Matabeleland South,Gwanda Central,Nyathi Malwande,ND,MRP,215
 Matabeleland South,Gwanda North,Dube Mcebisi,M,MRP,271
 Matabeleland South,Gwanda North,Madlela Nqobizitha Charles,M,PRC,302
-Matabeleland South,Gwanda North,Moyo Younger,M,MDC T,1081
+Matabeleland South,Gwanda North,Moyo Younger,M,MDC-T,1081
 Matabeleland South,Gwanda North,Masiye Micah,M,ZAPU,265
-Matabeleland South,Gwanda North,Ncube Lungisani,M,INDEPENDENT,3510
+Matabeleland South,Gwanda North,Ncube Lungisani,M,IND,3510
 Matabeleland South,Gwanda North,Ndlovu Busile,F,RPZ,71
-Matabeleland South,Gwanda North,Sibanda Beki,M,MDC ALLIANCE,3300
-Matabeleland South,Gwanda North,Sibanda Madodana,M,ZANU PF,4419
+Matabeleland South,Gwanda North,Sibanda Beki,M,MDC-A,3300
+Matabeleland South,Gwanda North,Sibanda Madodana,M,ZANU-PF,4419
 Matabeleland South,Gwanda South,Dombo Bhekimpilo,M,ZIPP,305
-Matabeleland South,Gwanda South,Moyo Ekem,M,MDC ALLIANCE,4701
-Matabeleland South,Gwanda South,Ncube Abedinico,M,ZANU PF,5890
+Matabeleland South,Gwanda South,Moyo Ekem,M,MDC-A,4701
+Matabeleland South,Gwanda South,Ncube Abedinico,M,ZANU-PF,5890
 Matabeleland South,Gwanda South,Ncube Rabson,M,ZAPU,499
-Matabeleland South,Gwanda South,Sibanda Almar,F,MDC T,501
-Matabeleland South,Gwanda South,Sibanda Vusumuzi,M,INDEPENDENT,176
+Matabeleland South,Gwanda South,Sibanda Almar,F,MDC-T,501
+Matabeleland South,Gwanda South,Sibanda Vusumuzi,M,IND,176
 Matabeleland South,Insiza North,Bunhu Sibongile,F,ZIPP,442
-Matabeleland South,Insiza North,Mabhena Sidumiso,F,MDC T,2024
+Matabeleland South,Insiza North,Mabhena Sidumiso,F,MDC-T,2024
 Matabeleland South,Insiza North,Moyo Vumani Esau,M,NPF,1825
 Matabeleland South,Insiza North,Mpofu Sithembiso,F,ZAPU,411
 Matabeleland South,Insiza North,Ncube Phathisani,M,PRC,165
 Matabeleland South,Insiza North,Ndlovu Earnest,M,ZAPU,473
 Matabeleland South,Insiza North,Siwela Amon,M,RPZ,182
-Matabeleland South,Insiza North,Taruvinga Farai,M,ZANU PF,15276
+Matabeleland South,Insiza North,Taruvinga Farai,M,ZANU-PF,15276
 Matabeleland South,Insiza South,Dube Kenneth,M,MDC-T,945
 Matabeleland South,Insiza South,Langa Johnson,M,NPF,262
-Matabeleland South,Insiza South,Ndlovu Angilacala,M,MDC ALLIANCE,3245
+Matabeleland South,Insiza South,Ndlovu Angilacala,M,MDC-A,3245
 Matabeleland South,Insiza South,Ncube Richard Malele,M,ZAPU,339
 Matabeleland South,Insiza South,Ncube Zenzo,M,MRP,160
 Matabeleland South,Insiza South,Sibanda Mandla,M,ANSA,137
 Matabeleland South,Insiza South,Siwela Wellington,M,RPZ,160
-Matabeleland South,Insiza South,Sithole Spare,M,ZANU PF,6585
+Matabeleland South,Insiza South,Sithole Spare,M,ZANU-PF,6585
 Matabeleland South,Insiza South,Tshuma Nkululeko,M,PRC,230
 Matabeleland South,Mangwe,Mangoye-Dlamini Nketha,M,ANSA,639
-Matabeleland South,Mangwe,Mguni Obedingwa,M,ZANU PF,7744
-Matabeleland South,Mangwe,Nyathi Thembinkosi Elexio,F,MDC T,1335
+Matabeleland South,Mangwe,Mguni Obedingwa,M,ZANU-PF,7744
+Matabeleland South,Mangwe,Nyathi Thembinkosi Elexio,F,MDC-T,1335
 Matabeleland South,Mangwe,Sibanda Mathew,M,ZAPU,812
-Matabeleland South,Mangwe,Sihlabo Vincent,M,MDC ALLIANCE,4536
+Matabeleland South,Mangwe,Sihlabo Vincent,M,MDC-A,4536
 Matabeleland South,Matobo North,Dube Nicholas Abson,M,ZAPU,760
 Matabeleland South,Matobo North,Dube Simangaliphi,F,ZDU,241
-Matabeleland South,Matobo North,Moyo Edgar,M,ZANU PF,8797
+Matabeleland South,Matobo North,Moyo Edgar,M,ZANU-PF,8797
 Matabeleland South,Matobo North,Moyo Mqondisi,M,MRP,357
 Matabeleland South,Matobo North,Ncube Mendy,F,UMD,229
-Matabeleland South,Matobo North,Ndlovu Amon,M,MDC ALLIANCE,4403
+Matabeleland South,Matobo North,Ndlovu Amon,M,MDC-A,4403
 Matabeleland South,Matobo North,Sibanda Charles,M,NPF,93
-Matabeleland South,Matobo North,Sibanda Watchy,M,MDC T,635
+Matabeleland South,Matobo North,Sibanda Watchy,M,MDC-T,635
 Matabeleland South,Matobo North,Zulu Kudakwashe Yunusu,M,APA,78
 Matabeleland South,Matobo South,Bajilla Sindisiwe,F,ZDU,235
-Matabeleland South,Matobo South,Dube Zanele,M,MDC ALLIANCE,4206
-Matabeleland South,Matobo South,Moyo Athaliah,F,MDC T,481
+Matabeleland South,Matobo South,Dube Zanele,M,MDC-A,4206
+Matabeleland South,Matobo South,Moyo Athaliah,F,MDC-T,481
 Matabeleland South,Matobo South,Ncube Henry,M,UMD,269
 Matabeleland South,Matobo South,Ncube Innocent,M,ZAPU,851
-Matabeleland South,Matobo South,Ncube Soul,M,ZANU PF,6130
+Matabeleland South,Matobo South,Ncube Soul,M,ZANU-PF,6130
 Matabeleland South,Matobo South,Ndlovu Khethani,M,MRP,106
-Matabeleland South,Matobo South,Ndlovu Upshy,M,INDEPENDENT,221
+Matabeleland South,Matobo South,Ndlovu Upshy,M,IND,221
 Matabeleland South,Umzingwane,Hadebe Ngqabutho Wellington,M,ZPP:GPM,328
-Matabeleland South,Umzingwane,Mayihlome Levi,M,ZANU PF,11630
+Matabeleland South,Umzingwane,Mayihlome Levi,M,ZANU-PF,11630
 Matabeleland South,Umzingwane,Mnyandu Anele,F,PRC,285
-Matabeleland South,Umzingwane,Moyo Khumbulani,M,MDC ALLIANCE,6962
+Matabeleland South,Umzingwane,Moyo Khumbulani,M,MDC-A,6962
 Matabeleland South,Umzingwane,Mpofu Chelesani,M,NPF,154
 Matabeleland South,Umzingwane,Ncube Khawulani,M,MRP,123
-Matabeleland South,Umzingwane,Ndlovu Danisa,M,MDC T,1005
+Matabeleland South,Umzingwane,Ndlovu Danisa,M,MDC-T,1005
 Matabeleland South,Umzingwane,Nkala Echem,M,ZAPU,335
 Matabeleland South,Umzingwane,Sibanda Alice Charity,F,UCA,67
 Matabeleland South,Umzingwane,Siwela Nathaniel,M,RPZ,93
 Midlands,Chirumanzu Zibagwe,Kurasha George,M,NPF,509
-Midlands,Chirumanzu Zibagwe,Machando Prosper,M,ZANU PF,19045
-Midlands,Chirumanzu Zibagwe,Mlilo Nqobizitha Mahole,M,MDC Alliance,6969
+Midlands,Chirumanzu Zibagwe,Machando Prosper,M,ZANU-PF,19045
+Midlands,Chirumanzu Zibagwe,Mlilo Nqobizitha Mahole,M,MDC-A,6969
 Midlands,Chirumanzu Zibagwe,Mukobvu Rangarirai,M,ZIPP,166
-Midlands,Chirumanzu Zibagwe,Mupeta Jacob,M,Independent,561
+Midlands,Chirumanzu Zibagwe,Mupeta Jacob,M,IND,561
 Midlands,Chirumanzu Zibagwe,Nyamadzawo Nyaradzo Agnes,F,PRC,115
-Midlands,Chirumanzu,Mukashi Simbarashe,M,MDC Alliance,4855
+Midlands,Chirumanzu,Mukashi Simbarashe,M,MDC-A,4855
 Midlands,Chirumanzu,Ndiya Shingirirai Michael,M,PRC,247
-Midlands,Chirumanzu,Rwodzi Barbara,F,ZANU PF,11144
+Midlands,Chirumanzu,Rwodzi Barbara,F,ZANU-PF,11144
 Midlands,Chirumanzu,Vurawa Casian Kufakunesu,M,APA,81
-Midlands,Chiundura,Chimina Livingstone,M,MDC Alliance,14895
+Midlands,Chiundura,Chimina Livingstone,M,MDC-A,14895
 Midlands,Chiundura,Guyo Thulisile,F,PRC,443
-Midlands,Chiundura,Monde  Michael,M,BZA,222
-Midlands,Chiundura,Murondiwa Blessing,M,Independent,3153
-Midlands,Chiundura,Ndlovu Brown,M,ZANU PF,14678
+Midlands,Chiundura,Monde Michael,M,BZA,222
+Midlands,Chiundura,Murondiwa Blessing,M,IND,3153
+Midlands,Chiundura,Ndlovu Brown,M,ZANU-PF,14678
 Midlands,Chiundura,Tekede Ronica,F,ZIPP,319
 Midlands,Chiundura,Vika Wilbert,M,APA,79
 Midlands,Gokwe Central,Chawatama Johnson,M,CODE,318
 Midlands,Gokwe Central,Chinyama Abel Desai,M,ZIPP,434
-Midlands,Gokwe Central,Chipa Vushe,M,Independent,190
+Midlands,Gokwe Central,Chipa Vushe,M,IND,190
 Midlands,Gokwe Central,Magombedze Tavonga Ranganai,M,PRC,239
-Midlands,Gokwe Central,Mangami  Dorothy,F,Independent,4496
-Midlands,Gokwe Central,Matemadanda Victor,M,ZANU PF,9997
-Midlands,Gokwe Central,Mutegwe Lisias,M,MDC Alliance,8207
+Midlands,Gokwe Central,Mangami Dorothy,F,IND,4496
+Midlands,Gokwe Central,Matemadanda Victor,M,ZANU-PF,9997
+Midlands,Gokwe Central,Mutegwe Lisias,M,MDC-A,8207
 Midlands,Gokwe Central,Tembo Elika,F,NPF,192
 Midlands,Gokwe Chireya,Chipango Tawanda,M,CODE,433
-Midlands,Gokwe Chireya,Moyo Torerayi,M,ZANU PF,19906
-Midlands,Gokwe Chireya,Nzvenga Robert,M,MDC Alliance,3278
+Midlands,Gokwe Chireya,Moyo Torerayi,M,ZANU-PF,19906
+Midlands,Gokwe Chireya,Nzvenga Robert,M,MDC-A,3278
 Midlands,Gokwe Chireya,Tamanikwa Tonderai,M,ZIPP,165
 Midlands,Gokwe Chireya,Ziyambi Cletos,M,NPF,171
 Midlands,Gokwe Gumunyu,Muchakata Wilfred,M,ZDU,521
-Midlands,Gokwe Gumunyu,Ngwenya Stephen,M,ZANU PF,15245
-Midlands,Gokwe Gumunyu,Tafireyi  Otis,M,ZIPP,155
-Midlands,Gokwe Gumunyu,Tagwireyi Zachia,M,MDC Alliance,2593
+Midlands,Gokwe Gumunyu,Ngwenya Stephen,M,ZANU-PF,15245
+Midlands,Gokwe Gumunyu,Tafireyi Otis,M,ZIPP,155
+Midlands,Gokwe Gumunyu,Tagwireyi Zachia,M,MDC-A,2593
 Midlands,Gokwe Gumunyu,Toga Conrad,M,CODE,79
-Midlands,Gokwe Kabuyuni,Chikomba Leonard,M,ZANU PF,15695
+Midlands,Gokwe Kabuyuni,Chikomba Leonard,M,ZANU-PF,15695
 Midlands,Gokwe Kabuyuni,Machingura Ireen,F,CODE,316
 Midlands,Gokwe Kabuyuni,Mashanda Mikie,M,NPF,127
 Midlands,Gokwe Kabuyuni,Masotsha Mandlenkosi,M,ZDU,110
 Midlands,Gokwe Kabuyuni,Nyengerai Blessed,M,UDA,87
-Midlands,Gokwe Kabuyuni,Siamponda David,M,MDC Alliance,7195
-Midlands,Gokwe Kabuyuni,Tagwireyi Phainos,M,Independent,1080
+Midlands,Gokwe Kabuyuni,Siamponda David,M,MDC-A,7195
+Midlands,Gokwe Kabuyuni,Tagwireyi Phainos,M,IND,1080
 Midlands,Gokwe Kana,Choto Ezra,M,NPF,384
-Midlands,Gokwe Kana,Mudondiro Edwin,M,Independent,586
-Midlands,Gokwe Kana,Muyambi Lameck Nkiwane,M,MDC Alliance,2224
-Midlands,Gokwe Kana,Ncube Owen,M,ZANU PF,12250
-Midlands,Gokwe Kana,Nemato Tsikadzashe,M,Independent,3416
-Midlands,Gokwe Kana,Pachavo  Honest,M,ZIPP,71
+Midlands,Gokwe Kana,Mudondiro Edwin,M,IND,586
+Midlands,Gokwe Kana,Muyambi Lameck Nkiwane,M,MDC-A,2224
+Midlands,Gokwe Kana,Ncube Owen,M,ZANU-PF,12250
+Midlands,Gokwe Kana,Nemato Tsikadzashe,M,IND,3416
+Midlands,Gokwe Kana,Pachavo Honest,M,ZIPP,71
 Midlands,Gokwe Kana,Whende Smart,M,MDC-T,287
 Midlands,Gokwe Mapfungautsi,Chikuruwa Linda,F,ZIPP,358
-Midlands,Gokwe Mapfungautsi,Karikoga Tawanda,M,ZANU PF,19292
-Midlands,Gokwe Mapfungautsi,Marisa Johannes,M,Independent,1737
-Midlands,Gokwe Mapfungautsi,Marongwe Emmanuel,M,MDC Alliance,4199
-Midlands,Gokwe Nembudziya,Mbiriza Kizito,M,MDC Alliance,7681
+Midlands,Gokwe Mapfungautsi,Karikoga Tawanda,M,ZANU-PF,19292
+Midlands,Gokwe Mapfungautsi,Marisa Johannes,M,IND,1737
+Midlands,Gokwe Mapfungautsi,Marongwe Emmanuel,M,MDC-A,4199
+Midlands,Gokwe Nembudziya,Mbiriza Kizito,M,MDC-A,7681
 Midlands,Gokwe Nembudziya,Muguti Noel,M,NPF,256
-Midlands,Gokwe Nembudziya,Wadyajena Justice Mayor,M,ZANU PF,13543
+Midlands,Gokwe Nembudziya,Wadyajena Justice Mayor,M,ZANU-PF,13543
 Midlands,Gokwe Sengwa,Gava Thomas Mandizvidza,M,UDF,304
-Midlands,Gokwe Sengwa,Mavima Paul,M,ZANU PF,13136
-Midlands,Gokwe Sengwa,Ncube Johnson,M,Freedom Movement #1980,176
+Midlands,Gokwe Sengwa,Mavima Paul,M,ZANU-PF,13136
+Midlands,Gokwe Sengwa,Ncube Johnson,M,#1980FMZ,176
 Midlands,Gokwe Sengwa,Ndhlovu Ronald,M,NPF,911
 Midlands,Gokwe Sengwa,Nkiwane John,M,ZIPP,81
-Midlands,Gokwe Sengwa,Sai Judias Peter,M,MDC Alliance,3246
-Midlands,Gokwe Sesame,Chanda Gorden,M,ZANU PF,15067
+Midlands,Gokwe Sengwa,Sai Judias Peter,M,MDC-A,3246
+Midlands,Gokwe Sesame,Chanda Gorden,M,ZANU-PF,15067
 Midlands,Gokwe Sesame,Machona Finiasi Marco,M,TAD,1387
 Midlands,Gokwe Sesame,Mpofu Tachiona,M,CODE,244
-Midlands,Gokwe Sesame,Ndhlela Smarks,M,MDC Alliance,6915
+Midlands,Gokwe Sesame,Ndhlela Smarks,M,MDC-A,6915
 Midlands,Gokwe Sesame,Nharara Takavarasha,M,NPF,809
 Midlands,Gweru Urban,Chikohora Trust Tapiwa,M,CODE,828
-Midlands,Gweru Urban,Chikore David,M,FreeZIM Congress,429
+Midlands,Gweru Urban,Chikore David,M,FZC,429
 Midlands,Gweru Urban,Chipondeni Tiripayi,M,NPF,219
 Midlands,Gweru Urban,Dhlamini Tarisai,M,BZA,345
-Midlands,Gweru Urban,Dongo Admire,M,Independent,229
-Midlands,Gweru Urban,Dube Brian,M,MDC Alliance,17896
+Midlands,Gweru Urban,Dongo Admire,M,IND,229
+Midlands,Gweru Urban,Dube Brian,M,MDC-A,17896
 Midlands,Gweru Urban,Kanengoni Douglas,M,PRC,298
-Midlands,Gweru Urban,Mamombe Blessing,M,Independent,295
+Midlands,Gweru Urban,Mamombe Blessing,M,IND,295
 Midlands,Gweru Urban,Muzondo Wilfred,M,APA,81
-Midlands,Gweru Urban,Natare Esau Machinyise,M,ZANU PF,7128
-Midlands,Gweru Urban,Ndlovu Nkosikhona,M,Independent,232
+Midlands,Gweru Urban,Natare Esau Machinyise,M,ZANU-PF,7128
+Midlands,Gweru Urban,Ndlovu Nkosikhona,M,IND,232
 Midlands,Gweru Urban,Netanyahu Innocent,M,ZIPP,96
-Midlands,Kwekwe Central,Chebundo Blessing,M,MDC Alliance,7127
+Midlands,Kwekwe Central,Chebundo Blessing,M,MDC-A,7127
 Midlands,Kwekwe Central,Madhonoro Tongai,M,ZIPP,124
 Midlands,Kwekwe Central,Matambanadzo Masango,M,NPF,7578
-Midlands,Kwekwe Central,Matina Otto Owen Mhareyashe,M,Independent,57
-Midlands,Kwekwe Central,Mugabe Kandros,M,ZANU PF,4571
+Midlands,Kwekwe Central,Matina Otto Owen Mhareyashe,M,IND,57
+Midlands,Kwekwe Central,Mugabe Kandros,M,ZANU-PF,4571
 Midlands,Kwekwe Central,Muparazi Learnmore,M,PRC,68
-Midlands,Kwekwe Central,Maupa Josiniah,M,Independent,978
+Midlands,Kwekwe Central,Maupa Josiniah,M,IND,978
 Midlands,Mberengwa East,Dube Hamadziripi,M,PRC,4089
-Midlands,Mberengwa East,Moyo Peace,M,MDC Alliance,835
-Midlands,Mberengwa East,Raidza Marko,M,ZANU PF,8606
+Midlands,Mberengwa East,Moyo Peace,M,MDC-A,835
+Midlands,Mberengwa East,Raidza Marko,M,ZANU-PF,8606
 Midlands,Mberengwa East,Shoko Bothwell Lucent,M,ZIPP,74
 Midlands,Mberengwa East,Shumba Welcome,M,SUVOZ,66
 Midlands,Mberengwa North,Hove Mativenga,M,PRC,457
-Midlands,Mberengwa North,Zhou Tafanana,M,ZANU PF,18412
-Midlands,Mberengwa North,Zhou Takavafira,M,MDC Alliance,3484
+Midlands,Mberengwa North,Zhou Tafanana,M,ZANU-PF,18412
+Midlands,Mberengwa North,Zhou Takavafira,M,MDC-A,3484
 Midlands,Mberengwa South,Maphosa Swaziin,M,ZIPP,516
-Midlands,Mberengwa South,Mpofu Alum,M,ZANUPF,12791
+Midlands,Mberengwa South,Mpofu Alum,M,ZANU-PF,12791
 Midlands,Mberengwa South,Nkomo Ishechete Josta,M,APA,116
-Midlands,Mberengwa South,Shoko Davies,M,MDC Alliance,2507
+Midlands,Mberengwa South,Shoko Davies,M,MDC-A,2507
 Midlands,Mberengwa South,Shoko Ronald,M,PRC,229
-Midlands,Mberengwa West,Gumbo Joram Macdonald,M,ZANU PF,10337
-Midlands,Mberengwa West,Masiya Tyanai,M,MDC Alliance,2731
+Midlands,Mberengwa West,Gumbo Joram Macdonald,M,ZANU-PF,10337
+Midlands,Mberengwa West,Masiya Tyanai,M,MDC-A,2731
 Midlands,Mberengwa West,Moyo Vincent,M,MRP,56
 Midlands,Mberengwa West,Zhou Hamufadzi,M,PRC,68
-Midlands,Mbizo,Chikwinya Settlement,M,MDC Alliance,15349
+Midlands,Mbizo,Chikwinya Settlement,M,MDC-A,15349
 Midlands,Mbizo,Chinhava Tangai,M,NPF,544
-Midlands,Mbizo,Choga Makesure,M,Independent,77
-Midlands,Mbizo,Fuyana Nqobile,M,Independent,63
-Midlands,Mbizo,Mangombe Godwin,M,Independent,118
-Midlands,Mbizo,Mupereri Vongaishe,M,ZANU PF,6164
+Midlands,Mbizo,Choga Makesure,M,IND,77
+Midlands,Mbizo,Fuyana Nqobile,M,IND,63
+Midlands,Mbizo,Mangombe Godwin,M,IND,118
+Midlands,Mbizo,Mupereri Vongaishe,M,ZANU-PF,6164
 Midlands,Mbizo,Mutasa Mafios,M,NPF,162
-Midlands,Mbizo,Mutemaringa Givemore,M,Independent,125
-Midlands,Mbizo,Mvududu Bright,M,Independent,67
-Midlands,Mbizo,Sambayi Ekbate,M,Independent,1633
+Midlands,Mbizo,Mutemaringa Givemore,M,IND,125
+Midlands,Mbizo,Mvududu Bright,M,IND,67
+Midlands,Mbizo,Sambayi Ekbate,M,IND,1633
 Midlands,Mbizo,Shinyira Tapfuma,M,ZIPP,141
 Midlands,Mbizo,Zhavairo Onesimo Tafireyi,M,PRC,162
-Midlands,Mkoba,Chibaya Amos,M,MDC Alliance,18925
+Midlands,Mkoba,Chibaya Amos,M,MDC-A,18925
 Midlands,Mkoba,Kamwemba Margaret,F,MDC-T,795
 Midlands,Mkoba,Makumbe Melania,F,BZA,1307
-Midlands,Mkoba,Mashamba Nelson,M,Independent,187
+Midlands,Mkoba,Mashamba Nelson,M,IND,187
 Midlands,Mkoba,Mazviro Farai,M,APA,70
-Midlands,Mkoba,Msongelwa Austin,M,FreeZIM Congress,47
+Midlands,Mkoba,Msongelwa Austin,M,FZC,47
 Midlands,Mkoba,Muindisi Anos,M,PRC,133
 Midlands,Mkoba,Mutendeudzwa Sailas,M,UDA,81
 Midlands,Mkoba,Nhlabati Wilfred Dumezweni,M,NPF,78
 Midlands,Mkoba,Shamu Simbarashe Leornard,M,ZIPP,168
-Midlands,Mkoba,Simbi Charles,M,ZANU PF,6088
+Midlands,Mkoba,Simbi Charles,M,ZANU-PF,6088
 Midlands,Redcliff,Coffee Pindirire,M,PRC,447
 Midlands,Redcliff,Gotora Edmore,M,ZIPP,245
-Midlands,Redcliff,Jack Cheneso,F,Independent,458
-Midlands,Redcliff,Maradze Lovemore,M,Independent,334
+Midlands,Redcliff,Jack Cheneso,F,IND,458
+Midlands,Redcliff,Maradze Lovemore,M,IND,334
 Midlands,Redcliff,Moyo Brenda,F,NPF,128
-Midlands,Redcliff,Moyo July,M,ZANU PF,11320
-Midlands,Redcliff,Mukapiko Dzikamai Lloyd,M,MDC Alliance,11739
+Midlands,Redcliff,Moyo July,M,ZANU-PF,11320
+Midlands,Redcliff,Mukapiko Dzikamai Lloyd,M,MDC-A,11739
 Midlands,Redcliff,Mupandaguta Matthew,M,UDA,79
 Midlands,Shurugwi North,Chiwisa Yasini,M,ZDU,511
-Midlands,Shurugwi North,Connick Macdonald,M,Independent,219
-Midlands,Shurugwi North,Manungo Onismus Munyaradzi,M,MDC Alliance,8694
+Midlands,Shurugwi North,Connick Macdonald,M,IND,219
+Midlands,Shurugwi North,Manungo Onismus Munyaradzi,M,MDC-A,8694
 Midlands,Shurugwi North,Mufiri Francis,M,PRC,170
 Midlands,Shurugwi North,Mukarakati Edward,M,ZIPP,195
 Midlands,Shurugwi North,Ndebele Tulani,M,NPF,75
-Midlands,Shurugwi North,Nyathi Ronald Robson,M,ZANU PF,17467
-Midlands,Shurugwi South,Mabonga Daniel,M,Independent,1826
-Midlands,Shurugwi South,Matangaidze Tapiwanashe Majaya,M,Independent,610
-Midlands,Shurugwi South,Mkaratigwa Edmond,M,ZANU PF,12750
-Midlands,Shurugwi South,Mutunami Osherd,M,MDC Alliance,2918
+Midlands,Shurugwi North,Nyathi Ronald Robson,M,ZANU-PF,17467
+Midlands,Shurugwi South,Mabonga Daniel,M,IND,1826
+Midlands,Shurugwi South,Matangaidze Tapiwanashe Majaya,M,IND,610
+Midlands,Shurugwi South,Mkaratigwa Edmond,M,ZANU-PF,12750
+Midlands,Shurugwi South,Mutunami Osherd,M,MDC-A,2918
 Midlands,Shurugwi South,Phiri Patience,F,ZIPP,170
-Midlands,Silobela,Chirapa Langton,M,Independent,320
+Midlands,Silobela,Chirapa Langton,M,IND,320
 Midlands,Silobela,Joli Dubizizwe Siphambaniso,M,ZDU,419
 Midlands,Silobela,Moyo Celani Matshatsha,M,MRP,266
 Midlands,Silobela,Moyo Clement,M,MDC-T,2019
-Midlands,Silobela,Mpofu Mtokozisi Manoki,M,ZANU PF,14020
+Midlands,Silobela,Mpofu Mtokozisi Manoki,M,ZANU-PF,14020
 Midlands,Silobela,Ndebele Ephraim Makhele,M,ZAPU,240
-Midlands,Silobela,Sibindi Fanuel,M,MDC Alliance,6061
-Midlands,Silobela,Sululu Anadi,M,Independent,548
+Midlands,Silobela,Sibindi Fanuel,M,MDC-A,6061
+Midlands,Silobela,Sululu Anadi,M,IND,548
 Midlands,Vungu,Chumi Mark,M,MDC-T,1764
 Midlands,Vungu,Dube Junior,F,PRC,295
 Midlands,Vungu,Kona Leonard,M,ZIPP,328
-Midlands,Vungu,Lunga Nimrod,M,MDC Alliance,4889
+Midlands,Vungu,Lunga Nimrod,M,MDC-A,4889
 Midlands,Vungu,Mpofu Ngqabutho,M,MRP,126
 Midlands,Vungu,Ncube Brisky Fanuel,M,APA,172
-Midlands,Vungu,Ndlovu Lawrene,F,Independent,1267
+Midlands,Vungu,Ndlovu Lawrene,F,IND,1267
 Midlands,Vungu,Ntonisani Maxwell,M,ZAPU,353
-Midlands,Vungu,Sibanda  Omega,M,ZANU PF,11350
+Midlands,Vungu,Sibanda Omega,M,ZANU-PF,11350
 Midlands,Zhombe,Chamboko Edward,M,ZIPP,905
-Midlands,Zhombe,Mapfumo Datsun,M,MDC Alliance,8517
-Midlands,Zhombe,Mbiba Hlupe,F,FreeZIM Congress,151
+Midlands,Zhombe,Mapfumo Datsun,M,MDC-A,8517
+Midlands,Zhombe,Mbiba Hlupe,F,FZC,151
 Midlands,Zhombe,Ntini Benison Judah,M,PRC,684
-Midlands,Zhombe,Samambwa Edmore,M,ZANU PF,13377
+Midlands,Zhombe,Samambwa Edmore,M,ZANU-PF,13377
 Midlands,Zhombe,Sitsha Thokozana,M,ZAPU,238
 Midlands,Zvishavane Ngezi,Jeremiah Bridget,F,UDA,238
-Midlands,Zvishavane Ngezi,Mawite Dumezweni,M,ZANU PF,15338
-Midlands,Zvishavane Ngezi,Musevenzo Brighton,M,FREEZIM CONGRESS,127
+Midlands,Zvishavane Ngezi,Mawite Dumezweni,M,ZANU-PF,15338
+Midlands,Zvishavane Ngezi,Musevenzo Brighton,M,FZC,127
 Midlands,Zvishavane Ngezi,Ndlovu Prince,M,CODE,122
-Midlands,Zvishavane Ngezi,Timveos Michael Costas,M,MDC ALLIANCE,13358
+Midlands,Zvishavane Ngezi,Timveos Michael Costas,M,MDC-A,13358
 Midlands,Zvishavane Runde,Moyo Tafara,M,ZIPP,380
-Midlands,Zvishavane Runde,Mpame Cuthbert,M,ZANU PF,14360
-Midlands,Zvishavane Runde,Mudisi Leopold,M,MDC Alliance,4325
+Midlands,Zvishavane Runde,Mpame Cuthbert,M,ZANU-PF,14360
+Midlands,Zvishavane Runde,Mudisi Leopold,M,MDC-A,4325

@@ -6635,65 +6635,65 @@ SER,PROVINCE,DISTRICT,CONSTITUENCY,LOCAL AUTHORITY,WARD,POLLING STATION NAME,POL
 6634,Masvingo,Bikita,Bikita East,Bikita RDC,27,Matendere Compound Hall,0400BKT2704,2,17,19
 6635,Masvingo,Bikita,Bikita East,Bikita RDC,27,Mukore Compound Hall,0400BKT2705,0,9,9
 6636,Masvingo,Bikita,Bikita East,Bikita RDC,27,Sango Compound Hall,0400BKT2706,10,89,99
-6637,Masvingo,Bikita,Bikita East,Bikita RDC,27,Savuli Compound Hall,0400BKT2707,6,6,6638
-Masvingo,Bikita,Bikita East,Bikita RDC,31,Chikuku Primary School,0400BKT3101,369,211,580,6639
-Masvingo,Bikita,Bikita East,Bikita RDC,31,Chishangu Business Centre Tent,0400BKT3102,139,85,224,6640
-Masvingo,Bikita,Bikita East,Bikita RDC,31,Chivaka Roman Catholic Church Tent,0400BKT3103,153,98,251,6641
-Masvingo,Bikita,Bikita East,Bikita RDC,31,Mandadzaka A Primary School,0400BKT3104,287,180,467,6642
-Masvingo,Bikita,Bikita East,Bikita RDC,31,Mandadzaka B Primary School,0400BKT3105,418,246,664,6643
-Masvingo,Bikita,Bikita East,Bikita RDC,31,Zeka Business Centre Tent,0400BKT3106,181,135,316,6644
-Masvingo,Bikita,Bikita South,Bikita RDC,1,Chomukonde Primary School,0400BKT0101,212,144,356,6645
-Masvingo,Bikita,Bikita South,Bikita RDC,1,Gawa Primary School,0400BKT0102,168,121,289,6646
-Masvingo,Bikita,Bikita South,Bikita RDC,1,Magocha Primary School,0400BKT0103,192,136,328,6647
-Masvingo,Bikita,Bikita South,Bikita RDC,1,Mukatawa Village Tent,0400BKT0104,127,88,215,6648
-Masvingo,Bikita,Bikita South,Bikita RDC,1,Nyamande Village Tent,0400BKT0105,177,137,314,6649
-Masvingo,Bikita,Bikita South,Bikita RDC,2,Bambaninga Primary School,0400BKT0201,308,210,518,6650
-Masvingo,Bikita,Bikita South,Bikita RDC,2,Maringira Borehole Tent,0400BKT0202,194,121,315,6651
-Masvingo,Bikita,Bikita South,Bikita RDC,2,Mashoko Central Primary School,0400BKT0203,241,152,393,6652
-Masvingo,Bikita,Bikita South,Bikita RDC,2,Mashoko Secondary School,0400BKT0204,305,215,520,6653
-Masvingo,Bikita,Bikita South,Bikita RDC,2,Masukuta Borehole Tent,0400BKT0205,262,150,412,6654
-Masvingo,Bikita,Bikita South,Bikita RDC,2,Mukanga Primary School,0400BKT0206,361,227,588,6655
-Masvingo,Bikita,Bikita South,Bikita RDC,2,Old Mashoko Chief's Hall,0400BKT0207,261,163,424,6656
-Masvingo,Bikita,Bikita South,Bikita RDC,2,Zindove Primary School,0400BKT0208,308,157,465,6657
-Masvingo,Bikita,Bikita South,Bikita RDC,3,Chiremwaremwa Primary School,0400BKT0301,398,271,669,6658
-Masvingo,Bikita,Bikita South,Bikita RDC,3,Mafaune Primary School,0400BKT0302,482,271,753,6659
-Masvingo,Bikita,Bikita South,Bikita RDC,3,Magaisa Business Centre Tent,0400BKT0303,270,141,411,6660
-Masvingo,Bikita,Bikita South,Bikita RDC,3,Odzi Clinic,0400BKT0304,306,160,466,6661
-Masvingo,Bikita,Bikita South,Bikita RDC,3,Odzi Secondary School,0400BKT0305,289,183,472,6662
-Masvingo,Bikita,Bikita South,Bikita RDC,3,Tabudirira Secondary School,0400BKT0306,211,157,368,6663
-Masvingo,Bikita,Bikita South,Bikita RDC,4,Bengura Primary School,0400BKT0401,246,145,391,6664
-Masvingo,Bikita,Bikita South,Bikita RDC,4,Ganyata Business Centre Tent,0400BKT0402,338,225,563,6665
-Masvingo,Bikita,Bikita South,Bikita RDC,4,Matsvange Roman Catholic Church Tent,0400BKT0403,294,146,440,6666
-Masvingo,Bikita,Bikita South,Bikita RDC,4,Mazungunye Primary School,0400BKT0404,300,184,484,6667
-Masvingo,Bikita,Bikita South,Bikita RDC,4,Njaravani Primary School,0400BKT0405,222,99,321,6668
-Masvingo,Bikita,Bikita South,Bikita RDC,6,Denda Business Centre Tent,0400BKT0601,285,155,440,6669
-Masvingo,Bikita,Bikita South,Bikita RDC,6,Garanje Primary School,0400BKT0602,385,234,619,6670
-Masvingo,Bikita,Bikita South,Bikita RDC,6,Gudo Primary School,0400BKT0603,240,135,375,6671
-Masvingo,Bikita,Bikita South,Bikita RDC,6,Kushingirira Secondary School,0400BKT0604,225,139,364,6672
-Masvingo,Bikita,Bikita South,Bikita RDC,6,Mutikizizi Primary School,0400BKT0605,203,102,305,6673
-Masvingo,Bikita,Bikita South,Bikita RDC,7,Chipendeke Secondary School,0400BKT0701,392,217,609,6674
-Masvingo,Bikita,Bikita South,Bikita RDC,7,Chitasa Health Centre,0400BKT0702,112,58,170,6675
-Masvingo,Bikita,Bikita South,Bikita RDC,7,Gwariro Primary School,0400BKT0703,324,177,501,6676
-Masvingo,Bikita,Bikita South,Bikita RDC,7,ZIKI Primary School,0400BKT0704,330,192,522,6677
-Masvingo,Bikita,Bikita South,Bikita RDC,7,Zirabada Primary School,0400BKT0705,286,158,444,6678
-Masvingo,Bikita,Bikita South,Bikita RDC,8,Chada Primary School,0400BKT0801,498,270,768,6679
-Masvingo,Bikita,Bikita South,Bikita RDC,8,Matiore Primary School,0400BKT0802,174,113,287,6680
-Masvingo,Bikita,Bikita South,Bikita RDC,8,Mukore Secondary School,0400BKT0803,248,133,381,6681
-Masvingo,Bikita,Bikita South,Bikita RDC,8,Nematiore Village Tent,0400BKT0804,384,191,575,6682
-Masvingo,Bikita,Bikita South,Bikita RDC,8,Tavengerwei  Village Tent,0400BKT0805,163,94,257,6683
-Masvingo,Bikita,Bikita South,Bikita RDC,8,Zengeya Primary School,0400BKT0806,359,234,593,6684
-Masvingo,Bikita,Bikita South,Bikita RDC,26,Chedutu Primary School,0400BKT2601,351,263,614,6685
-Masvingo,Bikita,Bikita South,Bikita RDC,26,Chinyika Primary School,0400BKT2602,319,238,557,6686
-Masvingo,Bikita,Bikita South,Bikita RDC,26,Makota Primary School,0400BKT2603,183,130,313,6687
-Masvingo,Bikita,Bikita South,Bikita RDC,26,Village 26 Borehole Tent,0400BKT2604,137,104,241,6688
-Masvingo,Bikita,Bikita South,Bikita RDC,28,Checheni Primary School,0400BKT2801,152,100,252,6689
-Masvingo,Bikita,Bikita South,Bikita RDC,28,Chibvuure Primary School,0400BKT2802,151,105,256,6690
-Masvingo,Bikita,Bikita South,Bikita RDC,28,Hwami Farm 236 Nyahunda Borehole Tent,0400BKT2803,93,79,172,6691
-Masvingo,Bikita,Bikita South,Bikita RDC,28,Pamukamba 112 Nyahunda Farm Tent,0400BKT2804,55,37,92,6692
-Masvingo,Bikita,Bikita South,Bikita RDC,29,Chitenderano Primary School,0400BKT2901,50,42,92,6693
-Masvingo,Bikita,Bikita South,Bikita RDC,29,Mujiji Primary School,0400BKT2902,71,52,123,6694
-Masvingo,Bikita,Bikita South,Bikita RDC,29,Nyahunda ZCC Church,0400BKT2903,192,107,299,6695
-Masvingo,Bikita,Bikita South,Bikita RDC,29,Turgwi Primary School,0400BKT2904,104,93,197
+6637,Masvingo,Bikita,Bikita East,Bikita RDC,27,Savuli Compound Hall,0400BKT2707,0,6,6
+6638,Masvingo,Bikita,Bikita East,Bikita RDC,31,Chikuku Primary School,0400BKT3101,369,211,580
+6639,Masvingo,Bikita,Bikita East,Bikita RDC,31,Chishangu Business Centre Tent,0400BKT3102,139,85,224
+6640,Masvingo,Bikita,Bikita East,Bikita RDC,31,Chivaka Roman Catholic Church Tent,0400BKT3103,153,98,251
+6641,Masvingo,Bikita,Bikita East,Bikita RDC,31,Mandadzaka A Primary School,0400BKT3104,287,180,467
+6642,Masvingo,Bikita,Bikita East,Bikita RDC,31,Mandadzaka B Primary School,0400BKT3105,418,246,664
+6643,Masvingo,Bikita,Bikita East,Bikita RDC,31,Zeka Business Centre Tent,0400BKT3106,181,135,316
+6644,Masvingo,Bikita,Bikita South,Bikita RDC,1,Chomukonde Primary School,0400BKT0101,212,144,356
+6645,Masvingo,Bikita,Bikita South,Bikita RDC,1,Gawa Primary School,0400BKT0102,168,121,289
+6646,Masvingo,Bikita,Bikita South,Bikita RDC,1,Magocha Primary School,0400BKT0103,192,136,328
+6647,Masvingo,Bikita,Bikita South,Bikita RDC,1,Mukatawa Village Tent,0400BKT0104,127,88,215
+6648,Masvingo,Bikita,Bikita South,Bikita RDC,1,Nyamande Village Tent,0400BKT0105,177,137,314
+6649,Masvingo,Bikita,Bikita South,Bikita RDC,2,Bambaninga Primary School,0400BKT0201,308,210,518
+6650,Masvingo,Bikita,Bikita South,Bikita RDC,2,Maringira Borehole Tent,0400BKT0202,194,121,315
+6651,Masvingo,Bikita,Bikita South,Bikita RDC,2,Mashoko Central Primary School,0400BKT0203,241,152,393
+6652,Masvingo,Bikita,Bikita South,Bikita RDC,2,Mashoko Secondary School,0400BKT0204,305,215,520
+6653,Masvingo,Bikita,Bikita South,Bikita RDC,2,Masukuta Borehole Tent,0400BKT0205,262,150,412
+6654,Masvingo,Bikita,Bikita South,Bikita RDC,2,Mukanga Primary School,0400BKT0206,361,227,588
+6655,Masvingo,Bikita,Bikita South,Bikita RDC,2,Old Mashoko Chief's Hall,0400BKT0207,261,163,424
+6656,Masvingo,Bikita,Bikita South,Bikita RDC,2,Zindove Primary School,0400BKT0208,308,157,465
+6657,Masvingo,Bikita,Bikita South,Bikita RDC,3,Chiremwaremwa Primary School,0400BKT0301,398,271,669
+6658,Masvingo,Bikita,Bikita South,Bikita RDC,3,Mafaune Primary School,0400BKT0302,482,271,753
+6659,Masvingo,Bikita,Bikita South,Bikita RDC,3,Magaisa Business Centre Tent,0400BKT0303,270,141,411
+6660,Masvingo,Bikita,Bikita South,Bikita RDC,3,Odzi Clinic,0400BKT0304,306,160,466
+6661,Masvingo,Bikita,Bikita South,Bikita RDC,3,Odzi Secondary School,0400BKT0305,289,183,472
+6662,Masvingo,Bikita,Bikita South,Bikita RDC,3,Tabudirira Secondary School,0400BKT0306,211,157,368
+6663,Masvingo,Bikita,Bikita South,Bikita RDC,4,Bengura Primary School,0400BKT0401,246,145,391
+6664,Masvingo,Bikita,Bikita South,Bikita RDC,4,Ganyata Business Centre Tent,0400BKT0402,338,225,563
+6665,Masvingo,Bikita,Bikita South,Bikita RDC,4,Matsvange Roman Catholic Church Tent,0400BKT0403,294,146,440
+6666,Masvingo,Bikita,Bikita South,Bikita RDC,4,Mazungunye Primary School,0400BKT0404,300,184,484
+6667,Masvingo,Bikita,Bikita South,Bikita RDC,4,Njaravani Primary School,0400BKT0405,222,99,321
+6668,Masvingo,Bikita,Bikita South,Bikita RDC,6,Denda Business Centre Tent,0400BKT0601,285,155,440
+6669,Masvingo,Bikita,Bikita South,Bikita RDC,6,Garanje Primary School,0400BKT0602,385,234,619
+6670,Masvingo,Bikita,Bikita South,Bikita RDC,6,Gudo Primary School,0400BKT0603,240,135,375
+6671,Masvingo,Bikita,Bikita South,Bikita RDC,6,Kushingirira Secondary School,0400BKT0604,225,139,364
+6672,Masvingo,Bikita,Bikita South,Bikita RDC,6,Mutikizizi Primary School,0400BKT0605,203,102,305
+6673,Masvingo,Bikita,Bikita South,Bikita RDC,7,Chipendeke Secondary School,0400BKT0701,392,217,609
+6674,Masvingo,Bikita,Bikita South,Bikita RDC,7,Chitasa Health Centre,0400BKT0702,112,58,170
+6675,Masvingo,Bikita,Bikita South,Bikita RDC,7,Gwariro Primary School,0400BKT0703,324,177,501
+6676,Masvingo,Bikita,Bikita South,Bikita RDC,7,ZIKI Primary School,0400BKT0704,330,192,522
+6677,Masvingo,Bikita,Bikita South,Bikita RDC,7,Zirabada Primary School,0400BKT0705,286,158,444
+6678,Masvingo,Bikita,Bikita South,Bikita RDC,8,Chada Primary School,0400BKT0801,498,270,768
+6679,Masvingo,Bikita,Bikita South,Bikita RDC,8,Matiore Primary School,0400BKT0802,174,113,287
+6680,Masvingo,Bikita,Bikita South,Bikita RDC,8,Mukore Secondary School,0400BKT0803,248,133,381
+6681,Masvingo,Bikita,Bikita South,Bikita RDC,8,Nematiore Village Tent,0400BKT0804,384,191,575
+6682,Masvingo,Bikita,Bikita South,Bikita RDC,8,Tavengerwei  Village Tent,0400BKT0805,163,94,257
+6683,Masvingo,Bikita,Bikita South,Bikita RDC,8,Zengeya Primary School,0400BKT0806,359,234,593
+6684,Masvingo,Bikita,Bikita South,Bikita RDC,26,Chedutu Primary School,0400BKT2601,351,263,614
+6685,Masvingo,Bikita,Bikita South,Bikita RDC,26,Chinyika Primary School,0400BKT2602,319,238,557
+6686,Masvingo,Bikita,Bikita South,Bikita RDC,26,Makota Primary School,0400BKT2603,183,130,313
+6687,Masvingo,Bikita,Bikita South,Bikita RDC,26,Village 26 Borehole Tent,0400BKT2604,137,104,241
+6688,Masvingo,Bikita,Bikita South,Bikita RDC,28,Checheni Primary School,0400BKT2801,152,100,252
+6689,Masvingo,Bikita,Bikita South,Bikita RDC,28,Chibvuure Primary School,0400BKT2802,151,105,256
+6690,Masvingo,Bikita,Bikita South,Bikita RDC,28,Hwami Farm 236 Nyahunda Borehole Tent,0400BKT2803,93,79,172
+6691,Masvingo,Bikita,Bikita South,Bikita RDC,28,Pamukamba 112 Nyahunda Farm Tent,0400BKT2804,55,37,92
+6692,Masvingo,Bikita,Bikita South,Bikita RDC,29,Chitenderano Primary School,0400BKT2901,50,42,92
+6693,Masvingo,Bikita,Bikita South,Bikita RDC,29,Mujiji Primary School,0400BKT2902,71,52,123
+6694,Masvingo,Bikita,Bikita South,Bikita RDC,29,Nyahunda ZCC Church,0400BKT2903,192,107,299
+6695,Masvingo,Bikita,Bikita South,Bikita RDC,29,Turgwi Primary School,0400BKT2904,104,93,197
 6696,Masvingo,Bikita,Bikita West,Bikita RDC,5,Mandara Primary School,0400BKT0501,276,171,447
 6697,Masvingo,Bikita,Bikita West,Bikita RDC,5,Marecha Primary School,0400BKT0502,363,178,541
 6698,Masvingo,Bikita,Bikita West,Bikita RDC,5,Musiya Primary School Satelite Tent,0400BKT0503,342,184,526

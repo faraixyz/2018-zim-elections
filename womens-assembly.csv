@@ -1,61 +1,61 @@
 Province,SER,NAME,GENDER,PARTY
-Bulawayo,1,Khumalo Thabitha,F,MDC Alliance
-Bulawayo,2,Sibanda Dorcas Staff,F,MDC Alliance
-Bulawayo,3,Toffa Jasmine,F,MDC Alliance
+Bulawayo,1,Khumalo Thabitha,F,MDC-A
+Bulawayo,2,Sibanda Dorcas Staff,F,MDC-A
+Bulawayo,3,Toffa Jasmine,F,MDC-A
 Bulawayo,4,Mushonga Priscilla Misihairambwi,F,MDC-T
-Bulawayo,5,Mkwanda Judith,F,ZANU PF
-Bulawayo,6,Ncube Ophar,F,ZANU PF
-Harare,1,Mpariwa Paurina,F,MDC - Alliance
-Harare,2,Myambo Annah,F,MDC - Alliance
-Harare,3,Zengeya Virginia,F,MDC - Alliance
-Harare,4,Jaja Joyce,F,MDC - Alliance
-Harare,5,Madziwa Susan,F,ZANU - PF
-Harare,6,Chikukwa Miriam Rutendo,F,ZANU - PF
-Manicaland ,1,Karenyi Lynette,F,MDC Alliance
-Manicaland ,2,Makonya Joyce,F,MDC Alliance
-Manicaland ,3,Chihururu Constance,F,MDC Alliance
-Manicaland ,4,Muchinguri Oppah Chamu Zvipange Kashiri,F,ZANU PF
-Manicaland ,5,Chikuni Esther,F,ZANU PF
-Manicaland ,6,Chitura Lucia,F,ZANU PF
-Mashonaland Central,1,Majaya Bacillia,F,MDC Alliance
-Mashonaland Central,2,Shongedza Elizabeth,F,ZANU PF
-Mashonaland Central,3,Chibagu Getrude,F,ZANU PF
-Mashonaland Central,4,Mashonganyika Dorothy,F,ZANU PF
-Mashonaland Central,5,Nhambo Ferescah,F,ZANU PF
-Mashonaland Central,6,Gezi Tsitsi,F,ZANU PF
-Mashonaland East,1,Mangora Brightness,F,MDC Alliance
-Mashonaland East,2,Mchenje Sipiwe Muchaneta,F,MDC Alliance
-Mashonaland East,3,Zimura Lilian,F,ZANU PF
-Mashonaland East,4,Makoni Reselyn Roseweater,F,ZANU PF
-Mashonaland East,5,Tsuura Nyarai,F,ZANU PF
-Mashonaland East,6,Maveta Tatenda Annastacia,F,ZANU PF
-Mashonaland West,1,Chinanzvavana Consilia,F,MDC Alliance
-Mashonaland West,2,Mafuta Senzeni V. ,F,MDC Alliance
-Mashonaland West,3,Mhlanga Jennifer N.,F,ZANU PF
-Mashonaland West,4,Kwaramba Goodluck,F,ZANU PF
-Mashonaland West,5,Shava Josephine,F,ZANU PF
-Mashonaland West,6,Nyere Christina,F,ZANU PF
-Masvingo,1,Mugidho Machirairwa,F,MDC-ALLIANCE
-Masvingo,2,Mago Nyaradza,F,MDC-ALLIANCE
-Masvingo,3,Rungani Annah ,F,ZANU PF
-Masvingo,4,Chipato Angelline ,F,ZANU PF
-Masvingo,5,Samson Aliginia  ,F,ZANU PF
-Masvingo,6,Ncube Emma,F,ZANU PF
-Matabeleland North,1,Bhuda Sibusisiwe,F,MDC Alliance
-Matabeleland North,2,Labode Mafoko Ruth,F,MDC Alliance
-Matabeleland North,3,Ncube Francisca,F,MDC Alliance
-Matabeleland North,4,Nkomo Male,F,ZANU PF
-Matabeleland North,5,Masuku Elizabeth,F,ZANU PF
-Matabeleland North,6,Mnkandla Moli,F,ZANU PF
-Matabeleland South,1,Ndlovu Nomathemba,F,MDC- Alliance
-Matabeleland South,2,Maphosa Lindiwe,F,MDC-Alliance
-Matabeleland South,3,Mpofu Rossy,F,ZANU PF
-Matabeleland South,4,Ndlovu Alice,F,ZANU PF
-Matabeleland South,5,Ndlovu Evelyn,F,ZANU PF
-Matabeleland South,6,Singo Lisa,F,ZANU PF
-Midlands,1,Gozho Cathrine,F,MDC Alliance
-Midlands,2,Mbondiya Memory,F,MDC Alliance
-Midlands,3,Mutambisi Colleta,F,ZANU PF
-Midlands,4,Shirichena Ellina,F,ZANU PF
-Midlands,5,Zhou Perseverence,F,ZANU PF
-Midlands,6,Nhari Vairet,F,ZANU PF
+Bulawayo,5,Mkwanda Judith,F,ZANU-PF
+Bulawayo,6,Ncube Ophar,F,ZANU-PF
+Harare,1,Mpariwa Paurina,F,MDC-A
+Harare,2,Myambo Annah,F,MDC-A
+Harare,3,Zengeya Virginia,F,MDC-A
+Harare,4,Jaja Joyce,F,MDC-A
+Harare,5,Madziwa Susan,F,ZANU-PF
+Harare,6,Chikukwa Miriam Rutendo,F,ZANU-PF
+Manicaland ,1,Karenyi Lynette,F,MDC-A
+Manicaland ,2,Makonya Joyce,F,MDC-A
+Manicaland ,3,Chihururu Constance,F,MDC-A
+Manicaland ,4,Muchinguri Oppah Chamu Zvipange Kashiri,F,ZANU-PF
+Manicaland ,5,Chikuni Esther,F,ZANU-PF
+Manicaland ,6,Chitura Lucia,F,ZANU-PF
+Mashonaland Central,1,Majaya Bacillia,F,MDC-A
+Mashonaland Central,2,Shongedza Elizabeth,F,ZANU-PF
+Mashonaland Central,3,Chibagu Getrude,F,ZANU-PF
+Mashonaland Central,4,Mashonganyika Dorothy,F,ZANU-PF
+Mashonaland Central,5,Nhambo Ferescah,F,ZANU-PF
+Mashonaland Central,6,Gezi Tsitsi,F,ZANU-PF
+Mashonaland East,1,Mangora Brightness,F,MDC-A
+Mashonaland East,2,Mchenje Sipiwe Muchaneta,F,MDC-A
+Mashonaland East,3,Zimura Lilian,F,ZANU-PF
+Mashonaland East,4,Makoni Reselyn Roseweater,F,ZANU-PF
+Mashonaland East,5,Tsuura Nyarai,F,ZANU-PF
+Mashonaland East,6,Maveta Tatenda Annastacia,F,ZANU-PF
+Mashonaland West,1,Chinanzvavana Consilia,F,MDC-A
+Mashonaland West,2,Mafuta Senzeni V. ,F,MDC-A
+Mashonaland West,3,Mhlanga Jennifer N.,F,ZANU-PF
+Mashonaland West,4,Kwaramba Goodluck,F,ZANU-PF
+Mashonaland West,5,Shava Josephine,F,ZANU-PF
+Mashonaland West,6,Nyere Christina,F,ZANU-PF
+Masvingo,1,Mugidho Machirairwa,F,MDC-A
+Masvingo,2,Mago Nyaradza,F,MDC-A
+Masvingo,3,Rungani Annah ,F,ZANU-PF
+Masvingo,4,Chipato Angelline ,F,ZANU-PF
+Masvingo,5,Samson Aliginia  ,F,ZANU-PF
+Masvingo,6,Ncube Emma,F,ZANU-PF
+Matabeleland North,1,Bhuda Sibusisiwe,F,MDC-A
+Matabeleland North,2,Labode Mafoko Ruth,F,MDC-A
+Matabeleland North,3,Ncube Francisca,F,MDC-A
+Matabeleland North,4,Nkomo Male,F,ZANU-PF
+Matabeleland North,5,Masuku Elizabeth,F,ZANU-PF
+Matabeleland North,6,Mnkandla Moli,F,ZANU-PF
+Matabeleland South,1,Ndlovu Nomathemba,F,MDC-A
+Matabeleland South,2,Maphosa Lindiwe,F,MDC-A
+Matabeleland South,3,Mpofu Rossy,F,ZANU-PF
+Matabeleland South,4,Ndlovu Alice,F,ZANU-PF
+Matabeleland South,5,Ndlovu Evelyn,F,ZANU-PF
+Matabeleland South,6,Singo Lisa,F,ZANU-PF
+Midlands,1,Gozho Cathrine,F,MDC-A
+Midlands,2,Mbondiya Memory,F,MDC-A
+Midlands,3,Mutambisi Colleta,F,ZANU-PF
+Midlands,4,Shirichena Ellina,F,ZANU-PF
+Midlands,5,Zhou Perseverence,F,ZANU-PF
+Midlands,6,Nhari Vairet,F,ZANU-PF

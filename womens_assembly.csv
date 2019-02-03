@@ -1,4 +1,4 @@
-Province,SER,NAME,GENDER,PARTY
+Province,SER,Name,Gender,Party
 Bulawayo,1,Khumalo Thabitha,F,MDC-A
 Bulawayo,2,Sibanda Dorcas Staff,F,MDC-A
 Bulawayo,3,Toffa Jasmine,F,MDC-A
@@ -11,12 +11,12 @@ Harare,3,Zengeya Virginia,F,MDC-A
 Harare,4,Jaja Joyce,F,MDC-A
 Harare,5,Madziwa Susan,F,ZANU-PF
 Harare,6,Chikukwa Miriam Rutendo,F,ZANU-PF
-Manicaland ,1,Karenyi Lynette,F,MDC-A
-Manicaland ,2,Makonya Joyce,F,MDC-A
-Manicaland ,3,Chihururu Constance,F,MDC-A
-Manicaland ,4,Muchinguri Oppah Chamu Zvipange Kashiri,F,ZANU-PF
-Manicaland ,5,Chikuni Esther,F,ZANU-PF
-Manicaland ,6,Chitura Lucia,F,ZANU-PF
+Manicaland,1,Karenyi Lynette,F,MDC-A
+Manicaland,2,Makonya Joyce,F,MDC-A
+Manicaland,3,Chihururu Constance,F,MDC-A
+Manicaland,4,Muchinguri Oppah Chamu Zvipange Kashiri,F,ZANU-PF
+Manicaland,5,Chikuni Esther,F,ZANU-PF
+Manicaland,6,Chitura Lucia,F,ZANU-PF
 Mashonaland Central,1,Majaya Bacillia,F,MDC-A
 Mashonaland Central,2,Shongedza Elizabeth,F,ZANU-PF
 Mashonaland Central,3,Chibagu Getrude,F,ZANU-PF
@@ -30,16 +30,16 @@ Mashonaland East,4,Makoni Reselyn Roseweater,F,ZANU-PF
 Mashonaland East,5,Tsuura Nyarai,F,ZANU-PF
 Mashonaland East,6,Maveta Tatenda Annastacia,F,ZANU-PF
 Mashonaland West,1,Chinanzvavana Consilia,F,MDC-A
-Mashonaland West,2,Mafuta Senzeni V. ,F,MDC-A
+Mashonaland West,2,Mafuta Senzeni V.,F,MDC-A
 Mashonaland West,3,Mhlanga Jennifer N.,F,ZANU-PF
 Mashonaland West,4,Kwaramba Goodluck,F,ZANU-PF
 Mashonaland West,5,Shava Josephine,F,ZANU-PF
 Mashonaland West,6,Nyere Christina,F,ZANU-PF
 Masvingo,1,Mugidho Machirairwa,F,MDC-A
 Masvingo,2,Mago Nyaradza,F,MDC-A
-Masvingo,3,Rungani Annah ,F,ZANU-PF
-Masvingo,4,Chipato Angelline ,F,ZANU-PF
-Masvingo,5,Samson Aliginia  ,F,ZANU-PF
+Masvingo,3,Rungani Annah,F,ZANU-PF
+Masvingo,4,Chipato Angelline,F,ZANU-PF
+Masvingo,5,Samson Aliginia,F,ZANU-PF
 Masvingo,6,Ncube Emma,F,ZANU-PF
 Matabeleland North,1,Bhuda Sibusisiwe,F,MDC-A
 Matabeleland North,2,Labode Mafoko Ruth,F,MDC-A

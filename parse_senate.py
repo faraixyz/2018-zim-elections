@@ -1,8 +1,8 @@
 import csv
 import os
 from party_formats import sanitize_party
-source_file_loc = os.path.join(os.getcwd(), "womens-assembly.txt")
-parsed_file_loc = os.path.join(os.getcwd(), "womens_assembly.csv")
+source_file_loc = os.path.join(os.getcwd(), "senate.txt")
+parsed_file_loc = os.path.join(os.getcwd(), "senate.csv")
 
 with open(parsed_file_loc, "w", newline="\n") as dest_file:
     csvwriter = csv.writer(dest_file)

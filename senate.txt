@@ -1,0 +1,250 @@
+Bulawayo
+1
+Ncube Siphiwe
+F
+MDC Alliance
+2
+Shoko Gideon
+M
+MDC Alliance
+3
+Zivira Helen
+F
+MDC Alliance
+4
+Dube Mildred Reason
+F
+MDC-T
+5
+Ndlovu Molly
+F
+ZANU PF
+6
+Malinga Joshua Teke
+M
+ZANU PF
+Harare
+1
+Makone Theresa Maonei
+F
+MDC - Alliance
+2
+Mudzuri Elias
+M
+MDC - Alliance
+3
+Gweshe Kerina
+F
+MDC - Alliance
+4
+Femai Morgan
+M
+MDC - Alliance
+5
+Hungwe Sipani
+F
+ZANU - PF
+6
+Chidawu Oliver 
+M
+ZANU - PF
+Manicaland
+1
+Rambanepasi Christine
+F
+MDC Alliance
+2
+Mwonzora Togarasei Douglas
+M
+MDC Alliance
+3
+Chabuka Keresencia
+F
+MDC Alliance
+4
+Mutsvangwa Monica
+F
+ZANU PF
+5
+Nyambuya Michael Reuben
+M
+ZANU PF
+6
+Gwaradzimba Ellen
+F
+ZANU PF
+Mashonaland Central
+1
+Muronzi Martha
+F
+MDC Alliance
+2
+Mavhunga Monica
+F
+ZANU PF
+3
+Shiri Perrance
+M
+ZANU PF
+4
+Tongogara Angeline Kumbirai
+F
+ZANU PF
+5
+Chimutengwende Chenhamo Chikezha
+M
+ZANU PF
+6
+Chimbudzi Alice
+F
+ZANU PF
+Mashonaland East
+1
+Chifamba Jane
+F
+MDC ALLIANCE
+2
+Wunganayi Tapfumanei
+M
+MDC ALLIANCE
+3
+Munzverengwi Aplonia
+F
+ZANU PF
+4
+Sekeramayi Sydney Tigere
+M
+ZANU PF
+5
+Matiirira Address            
+F
+ZANU PF
+6
+Parirenyatwa David Pagwesese
+M
+ZANU PF
+Mashonaland West
+1
+Moeketsi Violet
+F
+MDC ALLIANCE
+2
+Chinake Voice
+M
+MDC ALLIANCE
+3
+Mupfumira Priscah
+F
+ZANU PF
+4
+Gumpo Sikelela
+M
+ZANU PF
+5
+Tsomondo Bybit
+F
+ZANU PF
+6
+Chirongoma Joseph Madziva
+M
+ZANU PF
+Masvingo
+1
+Rwambiwa Esnath
+F
+MDC-ALLIANCE
+2
+Matevera Tichinani
+M
+MDC-ALLIANCE
+1
+Maluleke Ottillia Muhlava
+F
+ZANU PF
+2
+Matuke Lovemore 
+M
+ZANU PF
+3
+Shumba Clara 
+F
+ZANU PF
+4
+Hungwe Josaya Dunira
+M
+ZANU PF
+Matabeleland North 
+1
+Nyathi Rosemary
+F
+MDC Alliance
+2
+Sinampande Hebert
+M
+MDC Alliance
+3
+Ndlovu Phyllis
+F
+MDC Alliance
+4
+Mathuthu Thokozile
+F
+ZANU PF
+5
+Mpofu Obert Moses
+M
+ZANU PF
+6
+Dube Alice
+F
+ZANU PF
+Matabeleland South  
+1
+Phuthi Meliwe
+F
+MDC-Alliance
+2
+Mpofu Bekithemba
+M
+MDC-Alliance
+3
+Mohadi Tambudzani Bidagi
+F
+ZANU PF
+4
+Moyo Simon Khaya
+M
+ZANU PF
+5
+Mkwebu Alma
+F
+ZANU PF
+6
+Mathuthu Themba
+M
+ZANU PF
+Midlands
+1
+Timveos  Lilian
+F
+MDC Alliance
+2
+Komichi Morgan
+M
+MDC Alliance
+3
+Muzenda Veronica Tsitsi
+F
+ZANU PF
+4
+Moyo Sibusiso
+M
+ZANU PF
+5
+Mbohwa Maybe
+F
+ZANU PF
+6
+Mavima Lawrence David
+M
+ZANU PF

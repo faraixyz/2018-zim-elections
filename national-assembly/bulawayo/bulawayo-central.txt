@@ -1,0 +1,68 @@
+House Gift 
+M 
+ZPM 
+250
+Manganda Farai Kizito 
+M 
+INDEPENDENT 
+365
+Manning Edward
+M 
+UMD
+86
+Manungo Tawonga 
+M 
+NPF
+169
+Maphosa Tembani 
+M 
+ZAPU
+429
+Mawaro Naki 
+F 
+ZIPP
+51
+Mhambi Joshua 
+M 
+ZDU
+59
+Mhlanga Frank 
+M 
+PRC
+271
+Moyo Mlungisi
+M 
+ZANU-PF
+4176
+Moyo Nhlanhla 
+M 
+INDEPENDENT 
+129
+Msimanga Nomathamsanqa Felizwe 
+F 
+FREE ZIM CONGRESS
+65
+Ndebele Sehliselo
+F 
+MRP
+215
+Ngwenya Kholwani 
+M 
+MDC-T
+1648
+Sibanda Geneva 
+M 
+INDEPENDENT 
+45
+Sithole Taurai 
+M 
+PPPZ
+150
+Watson Nicola Jane 
+F 
+MDC -ALLIANCE 
+11178
+Zvihwa Ellen 
+F 
+CODE
+50

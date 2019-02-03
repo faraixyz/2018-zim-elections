@@ -70,6 +70,7 @@ def sanitize_party(party):
     party = party.replace("United Democratic Alliance", "UDA")
     party = party.replace("UNITED PARTY ZIMBABWE", "UPZ")
     party = party.replace("ZANU  PF", "ZANU-PF")
+    party = party.replace("ZANU - PF", "ZANU-PF")
     party = party.replace("ZANU (PF)", "ZANU-PF")
     party = party.replace("Zanu PF", "ZANU-PF")
     party = party.replace("ZANU PF", "ZANU-PF")

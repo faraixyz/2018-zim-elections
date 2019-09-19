@@ -35,8 +35,10 @@ def sanitize_party(party):
     party = party.replace("MAAT ZIM", "MAAT")
     party = party.replace("MAAT ZIMBABWE", "MAAT")
     party = party.replace("MAATBABWE", "MAAT")
+    party = party.replace("â€“A", "-")
     party = party.replace("MDC - T", "MDC-T")
     party = party.replace("MDC –T", "MDC-T")
+    party = party.replace("MDC -T", "MDC-T")
     party = party.replace("MDC T", "MDC-T")
     party = party.replace("MDCT", "MDC-T")
     party = party.replace("MDC - Alliance", "MDC-A")
@@ -77,9 +79,11 @@ def sanitize_party(party):
     party = party.replace("ZANU-PF", "ZANU-PF")
     party = party.replace("ZANUPF", "ZANU-PF")
     party = party.replace("ZIM FIRST", "ZimFirst")
+    party = party.replace(" â€“", "-")
     party = party.replace("ZIMFIRST", "ZimFirst")
     party = party.replace("Zimbabwe AfricanPeople’s Union", "ZAPU")
     party = party.replace("Zimbabwe Labour Party", "ZLP")
     party = party.replace("Zimbabwe Partnership for Prosperity", "ZPP")
-
+    if party[0] == "M":
+        print(party)
     return party

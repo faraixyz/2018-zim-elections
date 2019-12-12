@@ -23,7 +23,7 @@ def to_csv(data, dest="polling_stations.csv"):
         csvwriter.writerows(data)
 
 def main():
-    with open("polling-stations.html", "r", encoding="utf-8") as html_doc:
+    with open("data/polling-stations.html", "r", encoding="utf-8") as html_doc:
         soup = BeautifulSoup(html_doc, 'html.parser')
     remove_extra_tags(soup)
     pages = soup.find_all("div", {"class": "textLayer"})

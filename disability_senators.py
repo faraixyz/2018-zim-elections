@@ -3,31 +3,58 @@ import csv
 import json
 import sqlite3
 
-CWD = Path.cwd()
-DISABILITY_SENATORS_FILE = CWD / Path('./data/disability-senators.csv')
-DB_SCHEMA = CWD / Path('schema.sql')
-DISABILITY_SENATORS_JSON_OUTPUT = CWD / Path('diability_senators.json')
-conn = sqlite3.connect('disability_senators.db')
-c = conn.cursor()
 
-def generate_disability_senator_database(data):
-  with DB_SCHEMA.open() as schema:
-    schema = schema.read()
-    c.executescript(schema)
+class DisabilitySenatorParser():
+    def __init__(self, src):
+        self.__results = []
+        with open(src, 'r') as csvfile:
+            reader = csv.DictReader(csvfile)
+            for row in reader:
+                self.__results.append(dict(row))
+        self.__fieldnames = ['ser', 'name', 'gender']
 
-  for row in data:
-    c.execute('INSERT INTO disability_senators VALUES (?, ?, ?)', (row['SER'], row['Name'], row['Gender']))
-  conn.commit()
+    def toJSON(self, output_file):
+        with open(output_file, 'w') as json_output:
+            json.dump(self.__results, json_output)
 
-def generate_disability_senator_json(data):
-  rec = []
-  for row in data:
-    rec.append({'SER': row["SER"], 'name': row["Name"], 'gender': row["Gender"]})
-  DISABILITY_SENATORS_JSON_OUTPUT.write_text(json.dumps(rec))
-    
+    def toCSV(self, output_file):
+        with open(output_file, 'w', newline='') as csvfile:
+            csvwriter = csv.DictWriter(csvfile, fieldnames=self.__fieldnames)
+            csvwriter.writeheader()
+            csvwriter.writerows(self.__results)
+
+    def toDB(self, schema_file, db_file, dump_file=None):
+        conn = sqlite3.connect(db_file)
+        c = conn.cursor()
+        with open(schema_file, 'r') as schema:
+            c.executescript(schema.read())
+        for row in self.__results:
+            value = (row[field] for field in self.__fieldnames)
+            c.execute('INSERT INTO disability_senators VALUES (?,?,?)',
+                      tuple(value))
+        conn.commit()
+        if dump_file is not None:
+            with open(dump_file, 'w') as dump:
+                for line in conn.iterdump():
+                    dump.write(line)
+        conn.close()
+
+
 if __name__ == '__main__':
-  with DISABILITY_SENATORS_FILE.open() as csvfile:
-    senator_reader = csv.DictReader(csvfile)
-    generate_disability_senator_json(senator_reader)
-    generate_disability_senator_database(senator_reader)
-  exit(0)
+    CWD = Path.cwd()
+    OUTDIR = CWD / Path('output')
+    DATADIR = CWD / Path('./data')
+    if OUTDIR.exists() is False:
+        OUTDIR.mkdir()
+    DISABILITY_SENATORS_FILE = DATADIR / Path('disability-senators.csv')
+    dsp = DisabilitySenatorParser(DISABILITY_SENATORS_FILE)
+
+    DISABILITY_SENATORS_JSON_OUTPUT = OUTDIR / Path('diability_senators.json')
+    dsp.toJSON(DISABILITY_SENATORS_JSON_OUTPUT)
+
+    DISABILITY_SENATORS_CSV_OUTPUT = OUTDIR / Path('disability_senators.csv')
+    dsp.toCSV(DISABILITY_SENATORS_CSV_OUTPUT)
+    DB_SCHEMA = CWD / DATADIR / Path('schemas/disability_senators.schema.sql')
+    DB_FILE = OUTDIR / Path('disability_senators.db')
+    DUMP_FILE = OUTDIR / Path('disability_senators.sql')
+    dsp.toDB(DB_SCHEMA, DB_FILE, DUMP_FILE)

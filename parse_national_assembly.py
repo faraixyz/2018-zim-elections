@@ -2,7 +2,7 @@ import csv
 import os
 import string
 from party_formats import sanitize_party
-provinces_dir = os.path.join(os.getcwd(), "national-assembly")
+provinces_dir = os.path.join(os.getcwd(), "data", "national-assembly")
 
 with open("national_assembly.csv", "w", newline="\n") as national_assembly:
     headers = ["Province", "Constituency", "Name", "Gender", "Party", "Votes"]

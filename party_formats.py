@@ -84,6 +84,4 @@ def sanitize_party(party):
     party = party.replace("Zimbabwe AfricanPeople’s Union", "ZAPU")
     party = party.replace("Zimbabwe Labour Party", "ZLP")
     party = party.replace("Zimbabwe Partnership for Prosperity", "ZPP")
-    if party[0] == "M":
-        print(party)
     return party

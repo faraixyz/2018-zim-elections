@@ -15,8 +15,11 @@ def clean(c):
 
 
 @task
-def build_DS(c, clean=False):
-    if clean == True:
-        c.run('invoke clean')
+def build_ds(c):
     c.run('python ./disability_senators.py')
-    print('Ran disability_senators.py')
+    print('Built Disability Senators')
+
+
+@task(clean, build_ds)
+def build(c):
+    print('Built The Project!')

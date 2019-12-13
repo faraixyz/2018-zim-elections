@@ -1,0 +1,5 @@
+{
+  "datadir": "./data",
+  "schemadir": "./data/schemas",
+  "outputdir": "./output"
+}

@@ -3,7 +3,6 @@ import csv
 import json
 import sqlite3
 
-
 class DisabilitySenatorParser():
     def __init__(self, src):
         self.__results = []
@@ -40,21 +39,27 @@ class DisabilitySenatorParser():
         conn.close()
 
 
-if __name__ == '__main__':
+def main():
+    CONFIG_PATH = Path('./config.json')
+    CONFIG = dict(json.load(CONFIG_PATH.open()))
     CWD = Path.cwd()
-    OUTDIR = CWD / Path('output')
-    DATADIR = CWD / Path('./data')
+    OUTDIR = CWD / Path(CONFIG["outputdir"])
+    DATADIR = CWD / Path(CONFIG["datadir"])
+    SCHEMADIR = CWD / Path(CONFIG["schemadir"])
     if OUTDIR.exists() is False:
         OUTDIR.mkdir()
     DISABILITY_SENATORS_FILE = DATADIR / Path('disability-senators.csv')
     dsp = DisabilitySenatorParser(DISABILITY_SENATORS_FILE)
 
-    DISABILITY_SENATORS_JSON_OUTPUT = OUTDIR / Path('diability_senators.json')
+    DISABILITY_SENATORS_JSON_OUTPUT = OUTDIR / Path('diability-senators.json')
     dsp.toJSON(DISABILITY_SENATORS_JSON_OUTPUT)
 
-    DISABILITY_SENATORS_CSV_OUTPUT = OUTDIR / Path('disability_senators.csv')
+    DISABILITY_SENATORS_CSV_OUTPUT = OUTDIR / Path('disability-senators.csv')
     dsp.toCSV(DISABILITY_SENATORS_CSV_OUTPUT)
-    DB_SCHEMA = CWD / DATADIR / Path('schemas/disability_senators.schema.sql')
+    DB_SCHEMA = SCHEMADIR / Path('disability_senators.schema.sql')
     DB_FILE = OUTDIR / Path('disability_senators.db')
     DUMP_FILE = OUTDIR / Path('disability_senators.sql')
     dsp.toDB(DB_SCHEMA, DB_FILE, DUMP_FILE)
+
+if __name__ == '__main__':
+    main()

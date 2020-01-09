@@ -14,8 +14,7 @@ def sanitize_party(party):
     party = party.replace("Coalition of Democrats", "CODE")
     party = party.replace("CODEcrats", "CODE")
     party = party.replace("FCZ", "FDZ")
-    party = party.replace("Forces of Liberation Organization of African \
-        National", "FLOANP")
+    party = party.replace("Forces of Liberation Organization of African National", "FLOANP")
     party = party.replace("FREEDOM FRONT", "FF")
     party = party.replace("Free Zim Congress", "FZC")
     party = party.replace("FREE ZIM CONGRESS", "FZC")
